@@ -25,6 +25,8 @@ Example:
 https://raw.githubusercontent.com/chenmomizhi-arch/sillytavern--juesekacangku/<commit>/projects/edina-dawn/v1.0.7/portraits/victoria.webp
 ```
 
+The first Edina Dawn asset release resolves to commit `0831babc8bb90f9f569f1c1095fd32b00d59984a` and is recorded in `projects/edina-dawn/v1.0.7/resolved-urls.json`.
+
 ## Content policy
 
 This public repository is intended for non-explicit character portraits and development references. Explicit NSFW variants should use separate private storage.
