@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "projectId": "edina-dawn",
+  "cardVersion": "1.0.7",
+  "cardSource": "圣女今天也很努力（大概）！",
+  "status": "ready",
+  "backend": {
+    "plugin": "st-chatu8",
+    "mode": "comfyui",
+    "url": "http://192.168.1.2:8188",
+    "model": "anima\\【轻柔二次元】miaomiaoHarem_anima13.safetensors",
+    "workflow": "生图anima专用 (1)"
+  },
+  "promptFile": "prompts/candidates.json",
+  "characters": [
+    {
+      "id": "victoria",
+      "name": "维多利亚",
+      "image": "portraits/victoria.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/victoria-s740003-3.png",
+      "sha256": "d268fc388c76ec5121adb0d898d49d0585cc2d0399ed524823490f7e60f094a8",
+      "bytes": 195288
+    },
+    {
+      "id": "clara",
+      "name": "克拉拉",
+      "image": "portraits/clara.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/clara-s741002-2.png",
+      "sha256": "005e752a78a97ca21c3596d7ed5ffd7e077c034fc75a15a93dde4866003e38b4",
+      "bytes": 147452
+    },
+    {
+      "id": "lumina",
+      "name": "露米娜",
+      "image": "portraits/lumina.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/lumina-s742002-2.png",
+      "sha256": "ed18a80ac33a18200ef1812b340954659ee1f28263f937114dfe92ef6bef69c5",
+      "bytes": 176324
+    },
+    {
+      "id": "merl",
+      "name": "梅尔尔",
+      "image": "portraits/merl.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/merl-s743002-2.png",
+      "sha256": "15c47238947f528f64e406b3aa073c94abb9bf5e4729deec74c3d5b7e0095ebc",
+      "bytes": 183866
+    },
+    {
+      "id": "cecilia",
+      "name": "塞西莉亚",
+      "image": "portraits/cecilia.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/cecilia-s744002-2.png",
+      "sha256": "1ec9a9438972f85cea3857eed7e12c0e0e5859d01a61f6e859319a5662fe4a6f",
+      "bytes": 131140
+    },
+    {
+      "id": "beatrix",
+      "name": "贝阿朵莉丝",
+      "image": "portraits/beatrix.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/beatrix-s745002-2.png",
+      "sha256": "6a4398eedddd1f2efc4fa9a88b25f0c31c0240f71cb27baf2745cc05d6459657",
+      "bytes": 154706
+    },
+    {
+      "id": "yulia",
+      "name": "尤利娅",
+      "image": "portraits/yulia.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/yulia-s746001-1.png",
+      "sha256": "b16b52bf62540bf38651a09c3c12442a979500e31c48b4278bf5e5932e8813ed",
+      "bytes": 152114
+    },
+    {
+      "id": "sylvana",
+      "name": "希尔瓦娜",
+      "image": "portraits/sylvana.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/sylvana-s747001-1.png",
+      "sha256": "aadba186a71cadb34a19fb7017d517a23b566361e2d6311e6c0a05aff2b49461",
+      "bytes": 177854
+    }
+  ]
+}

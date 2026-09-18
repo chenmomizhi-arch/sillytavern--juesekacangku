@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "style": "anima-current",
+  "width": 832,
+  "height": 1216,
+  "steps": 28,
+  "cfg": 5,
+  "sampler": "dpmpp_2m_sde_gpu",
+  "scheduler": "normal",
+  "commonPrefix": "@chibirisu, @oggu \\(neoguloliko\\), @kj \\(k777\\), masterpiece, best quality, ultra-detailed, absurdres, very aesthetic, detailed, anime illustration, 1girl, solo",
+  "commonSuffix": "upper body, cowboy shot, standing, facing viewer, looking at viewer, soft holy light, dawn cathedral interior, elegant fantasy background, shallow depth of field",
+  "negative": "lowres, artistic error, film grain, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, multiple views, logo, watermark, text, username, signature, multiple girls, extra people, monochrome, photo, realism, 3d, toon style, oekaki, turnaround, mutation, deformed, distorted, disfigured, bad proportions, bad hands, extra hands, extra fingers, fewer fingers, bad legs, extra legs, cropped head, out of frame, blurry, unfinished, nsfw, nude, explicit",
+  "characters": [
+    {
+      "id": "victoria",
+      "name": "维多利亚",
+      "nameEn": "Victoria",
+      "seed": 740001,
+      "positive": "long golden blonde hair, high ponytail, ruby red eyes, sharp confident eyes, white and silver holy knight light armor, crimson cape, black leather boots, white thighhighs, sword and shield, tall athletic build, toned waist, ample chest, proud heroic posture, slight cool expression"
+    },
+    {
+      "id": "clara",
+      "name": "克拉拉",
+      "nameEn": "Clara",
+      "seed": 741001,
+      "positive": "long straight black hair, black and white nun habit, violet eyes, pale skin, gentle saintly smile, dark elegant nun dress, white thighhighs, garter straps, soft candlelight, calm possessive gaze, slender waist, ample chest"
+    },
+    {
+      "id": "lumina",
+      "name": "露米娜",
+      "nameEn": "Lumina",
+      "seed": 742001,
+      "positive": "light blue wavy hair, long messy hair, ahoge, half-lidded blue eyes, sleepy expression, dark blue astrologer robe, star patterns, loose collar, starry thighhighs, soft sleepy posture, plush figure, ample chest, starlit observatory background"
+    },
+    {
+      "id": "merl",
+      "name": "梅尔尔",
+      "nameEn": "Merl",
+      "seed": 743001,
+      "positive": "tea green wavy twin tails, gold bells in hair, vivid green eyes, fox-like playful smile, green and white idol stage dress, strapless bodice, fitted waist, white stockings, stage lights, confident idol pose, lively expression"
+    },
+    {
+      "id": "cecilia",
+      "name": "塞西莉亚",
+      "nameEn": "Cecilia",
+      "seed": 744001,
+      "positive": "silver gray short bob, one grey eye visible, pale skin, strict cold expression, gray linen penance robe, black leather belt, steel discipline whip at waist, ascetic atmosphere, compact athletic build, chest wrap, restrained posture"
+    },
+    {
+      "id": "beatrix",
+      "name": "贝阿朵莉丝",
+      "nameEn": "Beatrix",
+      "seed": 745001,
+      "positive": "dark blonde elegant updo, golden red-jeweled mitre, refined mature face, beauty mark under eye, white and gold bishop robe, off-shoulder mantle, gold filigree, jeweled cross pendant, luxurious chapel, composed dominating smile, voluptuous hourglass figure"
+    },
+    {
+      "id": "yulia",
+      "name": "尤利娅",
+      "nameEn": "Yulia",
+      "seed": 746001,
+      "positive": "warm orange short hair, ahoge, large bright eyes, small fangs, cheerful energetic smile, white novice cloak, fitted vest, short pleated skirt, white knee socks, leather short boots, agile posture, compact athletic build"
+    },
+    {
+      "id": "sylvana",
+      "name": "希尔瓦娜",
+      "nameEn": "Sylvana",
+      "seed": 747001,
+      "positive": "bright golden drill twin tails, deep blue arrogant eyes, noble refined face, black and gold off-shoulder evening gown, diamond bodice, long pearl necklace, black velvet gloves, high heels, opulent noble hall, haughty posture, hourglass figure"
+    }
+  ]
+}
