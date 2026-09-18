@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "projectId": "edina-dawn",
+  "cardVersion": "1.0.8",
+  "cardSource": "圣女今天也很努力（大概）！",
+  "status": "ready",
+  "backend": {
+    "plugin": "st-chatu8",
+    "mode": "comfyui",
+    "url": "http://192.168.1.2:8188",
+    "model": "anima\\【轻柔二次元】miaomiaoHarem_anima13.safetensors",
+    "workflow": "生图anima专用 (1)"
+  },
+  "promptFiles": [
+    "prompts/candidates.json",
+    "prompts/worldbook-characters.json"
+  ],
+  "characters": [
+    {
+      "id": "victoria",
+      "name": "维多利亚",
+      "image": "portraits/victoria.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/victoria-s740003-3.png",
+      "sha256": "d268fc388c76ec5121adb0d898d49d0585cc2d0399ed524823490f7e60f094a8",
+      "bytes": 195288
+    },
+    {
+      "id": "clara",
+      "name": "克拉拉",
+      "image": "portraits/clara.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/clara-s741002-2.png",
+      "sha256": "005e752a78a97ca21c3596d7ed5ffd7e077c034fc75a15a93dde4866003e38b4",
+      "bytes": 147452
+    },
+    {
+      "id": "lumina",
+      "name": "露米娜",
+      "image": "portraits/lumina.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/lumina-s742002-2.png",
+      "sha256": "ed18a80ac33a18200ef1812b340954659ee1f28263f937114dfe92ef6bef69c5",
+      "bytes": 176324
+    },
+    {
+      "id": "merl",
+      "name": "梅尔尔",
+      "image": "portraits/merl.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/merl-s743002-2.png",
+      "sha256": "15c47238947f528f64e406b3aa073c94abb9bf5e4729deec74c3d5b7e0095ebc",
+      "bytes": 183866
+    },
+    {
+      "id": "cecilia",
+      "name": "塞西莉亚",
+      "image": "portraits/cecilia.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/cecilia-s744002-2.png",
+      "sha256": "1ec9a9438972f85cea3857eed7e12c0e0e5859d01a61f6e859319a5662fe4a6f",
+      "bytes": 131140
+    },
+    {
+      "id": "beatrix",
+      "name": "贝阿朵莉丝",
+      "image": "portraits/beatrix.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/beatrix-s745002-2.png",
+      "sha256": "6a4398eedddd1f2efc4fa9a88b25f0c31c0240f71cb27baf2745cc05d6459657",
+      "bytes": 154706
+    },
+    {
+      "id": "yulia",
+      "name": "尤利娅",
+      "image": "portraits/yulia.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/yulia-s746001-1.png",
+      "sha256": "b16b52bf62540bf38651a09c3c12442a979500e31c48b4278bf5e5932e8813ed",
+      "bytes": 152114
+    },
+    {
+      "id": "sylvana",
+      "name": "希尔瓦娜",
+      "image": "portraits/sylvana.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/sylvana-s747001-1.png",
+      "sha256": "aadba186a71cadb34a19fb7017d517a23b566361e2d6311e6c0a05aff2b49461",
+      "bytes": 177854
+    },
+    {
+      "id": "lilith",
+      "name": "莉莉丝",
+      "image": "portraits/lilith.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/lilith-s700001-1.png",
+      "sha256": "4f4628e5693209c4d78848e379a4bb9b212fc13b67d43667bb5767417cfd218c",
+      "bytes": 155724
+    },
+    {
+      "id": "elise",
+      "name": "爱丽丝",
+      "image": "portraits/elise.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/elise-s701001-1.png",
+      "sha256": "8363a5c6eb834fbe50663d5a121bfae9c1ece4e2a4a9f383584decc0db27f915",
+      "bytes": 151356
+    },
+    {
+      "id": "sariel",
+      "name": "萨莉尔",
+      "image": "portraits/sariel.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/sariel-s702001-1.png",
+      "sha256": "a2603569bc0a43e0779f6c627f8023df6de86ecb7fbdd57eb7b57bfce60cd1f0",
+      "bytes": 141686
+    },
+    {
+      "id": "sylph",
+      "name": "希尔菲",
+      "image": "portraits/sylph.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/sylph-s703001-1.png",
+      "sha256": "8710f6b666fff9ef74b921a4b299d00010d5c7a7276f9afa16dc13194b6429b7",
+      "bytes": 167018
+    },
+    {
+      "id": "seraphina",
+      "name": "塞拉菲娜",
+      "image": "portraits/seraphina.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/seraphina-s704001-1.png",
+      "sha256": "46c0b9811ecee6691ee72c0500941235e53fe8b3ae3d0a6ae1a84f297806bdfa",
+      "bytes": 155762
+    },
+    {
+      "id": "tia",
+      "name": "缇雅",
+      "image": "portraits/tia.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/tia-s705001-1.png",
+      "sha256": "862c8dd087ddd2b58d10934f7bc9ceaa297c52d330d1b11971e34ddaa8c5187e",
+      "bytes": 123210
+    },
+    {
+      "id": "mimi",
+      "name": "咪咪",
+      "image": "portraits/mimi.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/mimi-s706001-1.png",
+      "sha256": "df9c5dd8ae39a2fbd830c59a9ee3b94b5cba0e80f1409984ed8b712c4af3da58",
+      "bytes": 133838
+    },
+    {
+      "id": "kael",
+      "name": "凯尔",
+      "image": "portraits/kael.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/kael-s707001-1.png",
+      "sha256": "60fe061c1170b2eb5402a29326ff03b921abf6a95835d059e5de193791475b28",
+      "bytes": 159388
+    },
+    {
+      "id": "lucius",
+      "name": "卢修斯",
+      "image": "portraits/lucius.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/lucius-s708001-1.png",
+      "sha256": "cd370eb8b382e82a132d9be808daa4b014620bf35852a5135b189b0245f5eecf",
+      "bytes": 137856
+    },
+    {
+      "id": "eludi",
+      "name": "艾露迪",
+      "image": "portraits/eludi.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/eludi-s710001-1.png",
+      "sha256": "72c82a7599241de3b11d2108c0a1b6cb27804e5eb19296dffec19e8260ec0acb",
+      "bytes": 158026
+    },
+    {
+      "id": "freya",
+      "name": "芙蕾雅",
+      "image": "portraits/freya.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/freya-s711001-1.png",
+      "sha256": "e0465acb6467adacc012bf47725cb9c7aeb9a240a2073ae3dd1bf9d6d208c813",
+      "bytes": 154650
+    },
+    {
+      "id": "celine",
+      "name": "赛莲",
+      "image": "portraits/celine.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/celine-s712001-1.png",
+      "sha256": "94c81ded9439d96693676a8352a9b5bf3c9bb66e6594c732e0b0402dc846c09f",
+      "bytes": 165238
+    },
+    {
+      "id": "livia",
+      "name": "莉维亚",
+      "image": "portraits/livia.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/livia-s713001-1.png",
+      "sha256": "78ceb3bb7b4a565ecb2e2f3038c1e1efbd997e5948b9dac037a2b27a65697198",
+      "bytes": 133434
+    },
+    {
+      "id": "dorothy",
+      "name": "桃乐丝",
+      "image": "portraits/dorothy.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/dorothy-s714001-1.png",
+      "sha256": "3350aa665b54a25052dbb38a3ff6ad993719d9b9eaa5a1b0d3b5bac71da7336b",
+      "bytes": 150908
+    },
+    {
+      "id": "ophelia",
+      "name": "奥菲莉亚",
+      "image": "portraits/ophelia.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/ophelia-s715001-1.png",
+      "sha256": "adac2140008296302a48cf832acf532f2d3d1376430a51ce639d4d984ccb4788",
+      "bytes": 178040
+    },
+    {
+      "id": "yuffie",
+      "name": "尤菲",
+      "image": "portraits/yuffie.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/yuffie-s716001-1.png",
+      "sha256": "6bd4a0b35a503663a30d6bdb16a5886958aa8e3fd4e9ef416a8ef12f109ddb53",
+      "bytes": 144424
+    },
+    {
+      "id": "natasha",
+      "name": "娜塔莎",
+      "image": "portraits/natasha.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/natasha-s717001-1.png",
+      "sha256": "8bdafe1feb166260ecf66ec9c83990c48ab43ab80f8627c5cde8127b2183176e",
+      "bytes": 131262
+    },
+    {
+      "id": "roland",
+      "name": "罗兰",
+      "image": "portraits/roland.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/roland-s718001-1.png",
+      "sha256": "a97801c745040d9412eeb56e1abb92300d676a4ab60a16309b0d568dd49ecea0",
+      "bytes": 166050
+    },
+    {
+      "id": "jack",
+      "name": "杰克",
+      "image": "portraits/jack.webp",
+      "status": "ready",
+      "sourceRaw": "portraits/raw/jack-s719001-1.png",
+      "sha256": "a64ec84a003621a0c4d406ab567e09bdaeeeca137dbfb9c2044a7627705fe4cc",
+      "bytes": 140096
+    }
+  ]
+}

@@ -3,18 +3,20 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
-const PROJECT = path.join(ROOT, 'projects', 'edina-dawn', 'v1.0.7');
-const PROMPTS_FILE = path.join(PROJECT, 'prompts', 'candidates.json');
-const WORKFLOW_FILE = path.join(PROJECT, 'prompts', 'workflow-anima.json');
-const RAW_DIR = path.join(PROJECT, 'portraits', 'raw');
-const RECORD_FILE = path.join(PROJECT, 'prompts', 'generation-records.json');
 const BASE_URL = process.env.COMFYUI_URL || 'http://192.168.1.2:8188';
 
 function parseArgs(argv) {
-    const out = { only: '', variants: 1 };
+    const out = {
+        only: '',
+        variants: 1,
+        prompts: 'prompts/candidates.json',
+        project: 'projects/edina-dawn/v1.0.7',
+    };
     for (let i = 0; i < argv.length; i += 1) {
         if (argv[i] === '--only') out.only = argv[++i] || '';
         else if (argv[i] === '--variants') out.variants = Math.max(1, Number(argv[++i]) || 1);
+        else if (argv[i] === '--prompts') out.prompts = String(argv[++i] || '');
+        else if (argv[i] === '--project') out.project = String(argv[++i] || '');
     }
     return out;
 }
@@ -76,7 +78,7 @@ async function downloadImage(image, targetFile) {
     };
 }
 
-async function generateOne(character, spec, workflowSnapshot, variant) {
+async function generateOne(character, spec, workflowSnapshot, variant, project, rawDir) {
     const positive = [spec.commonPrefix, character.positive, spec.commonSuffix].join(', ');
     const seed = Number(character.seed) + variant;
     const replacements = {
@@ -103,7 +105,7 @@ async function generateOne(character, spec, workflowSnapshot, variant) {
     const history = await waitForResult(body.prompt_id);
     const images = collectImages(history);
     if (!images.length) throw new Error(`No output image for ${character.id} seed ${seed}`);
-    const targetFile = path.join(RAW_DIR, `${character.id}-s${seed}-${variant + 1}.png`);
+    const targetFile = path.join(rawDir, `${character.id}-s${seed}-${variant + 1}.png`);
     const file = await downloadImage(images[0], targetFile);
     return {
         characterId: character.id,
@@ -114,29 +116,36 @@ async function generateOne(character, spec, workflowSnapshot, variant) {
         workflow: workflowSnapshot.sourcePreset,
         model: workflowSnapshot.model,
         promptId: body.prompt_id,
-        image: path.relative(PROJECT, targetFile).replaceAll('\\', '/'),
+        image: path.relative(project, targetFile).replaceAll('\\', '/'),
         ...file,
     };
 }
 
 async function main() {
     const args = parseArgs(process.argv.slice(2));
-    const spec = JSON.parse(fs.readFileSync(PROMPTS_FILE, 'utf8'));
-    const workflowSnapshot = JSON.parse(fs.readFileSync(WORKFLOW_FILE, 'utf8'));
-    fs.mkdirSync(RAW_DIR, { recursive: true });
+    const project = path.resolve(ROOT, args.project);
+    if (!project.startsWith(path.join(ROOT, 'projects'))) throw new Error(`Project escapes projects root: ${project}`);
+    const workflowFile = path.join(project, 'prompts', 'workflow-anima.json');
+    const rawDir = path.join(project, 'portraits', 'raw');
+    const recordFile = path.join(project, 'prompts', 'generation-records.json');
+    const promptsFile = path.resolve(project, args.prompts);
+    if (!promptsFile.startsWith(project)) throw new Error(`Prompt file escapes project: ${promptsFile}`);
+    const spec = JSON.parse(fs.readFileSync(promptsFile, 'utf8'));
+    const workflowSnapshot = JSON.parse(fs.readFileSync(workflowFile, 'utf8'));
+    fs.mkdirSync(rawDir, { recursive: true });
 
     const selected = spec.characters.filter((character) => !args.only || character.id === args.only);
     if (!selected.length) throw new Error(`Unknown character id: ${args.only}`);
 
-    const records = fs.existsSync(RECORD_FILE)
-        ? JSON.parse(fs.readFileSync(RECORD_FILE, 'utf8'))
+    const records = fs.existsSync(recordFile)
+        ? JSON.parse(fs.readFileSync(recordFile, 'utf8'))
         : { schemaVersion: 1, runs: [] };
 
     for (const character of selected) {
         for (let variant = 0; variant < args.variants; variant += 1) {
-            const record = await generateOne(character, spec, workflowSnapshot, variant);
+            const record = await generateOne(character, spec, workflowSnapshot, variant, project, rawDir);
             records.runs.push(record);
-            fs.writeFileSync(RECORD_FILE, `${JSON.stringify(records, null, 2)}\n`, 'utf8');
+            fs.writeFileSync(recordFile, `${JSON.stringify(records, null, 2)}\n`, 'utf8');
             console.log(JSON.stringify(record));
         }
     }

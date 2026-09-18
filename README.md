@@ -25,7 +25,7 @@ Example:
 https://raw.githubusercontent.com/chenmomizhi-arch/sillytavern--juesekacangku/<commit>/projects/edina-dawn/v1.0.7/portraits/victoria.webp
 ```
 
-The first Edina Dawn asset release resolves to commit `0831babc8bb90f9f569f1c1095fd32b00d59984a` and is recorded in `projects/edina-dawn/v1.0.7/resolved-urls.json`.
+The first Edina Dawn candidate release resolves to commit `0831babc8bb90f9f569f1c1095fd32b00d59984a` and is recorded in `projects/edina-dawn/v1.0.7/resolved-urls.json`. The complete 27-character worldbook release is under `projects/edina-dawn/v1.0.8/`.
 
 ## Content policy
 

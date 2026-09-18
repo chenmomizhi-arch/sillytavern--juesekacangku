@@ -8,3 +8,5 @@ This directory contains canonical portrait assets for the card's eight sacred-ma
 - Preferred style: the installed `anima` anime-illustration workflow in `st-chatu8`.
 - Portrait scope: one non-explicit upper-body or cowboy-shot portrait per candidate.
 - No age status, age number, or developmental-age wording is used in prompts.
+
+Current complete worldbook set: `v1.0.8`, containing 27 character portraits.
