@@ -2,6 +2,9 @@
 
 Packaged SillyTavern artifacts for `圣女今天也很努力（大概）！`.
 
+Source card repository commit: `1f173c2 publish v1.0.9 stable asset paths`.
+Current portrait assets use stable `main` paths under `projects/edina-dawn/portraits/`.
+
 Files:
 
 - `候补圣女今天也在好好努力（大概）v1.0.9.json`
