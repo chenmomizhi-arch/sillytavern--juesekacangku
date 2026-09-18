@@ -80,10 +80,11 @@ async function downloadImage(image, targetFile) {
 
 async function generateOne(character, spec, workflowSnapshot, variant, project, rawDir) {
     const positive = [spec.commonPrefix, character.positive, spec.commonSuffix].join(', ');
+    const negative = [spec.negative, character.negative].filter(Boolean).join(', ');
     const seed = Number(character.seed) + variant;
     const replacements = {
         prompt: positive,
-        negative_prompt: spec.negative,
+        negative_prompt: negative,
         MODEL_NAME: workflowSnapshot.model,
         vae: workflowSnapshot.vae,
         width: spec.width,
@@ -112,7 +113,7 @@ async function generateOne(character, spec, workflowSnapshot, variant, project, 
         characterName: character.name,
         seed,
         positive,
-        negative: spec.negative,
+        negative,
         workflow: workflowSnapshot.sourcePreset,
         model: workflowSnapshot.model,
         promptId: body.prompt_id,

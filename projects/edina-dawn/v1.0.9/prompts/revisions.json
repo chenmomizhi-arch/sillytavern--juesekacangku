@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "style": "anima-current",
+  "width": 832,
+  "height": 1216,
+  "steps": 28,
+  "cfg": 5,
+  "sampler": "dpmpp_2m_sde_gpu",
+  "scheduler": "normal",
+  "commonPrefix": "@chibirisu, @oggu \\(neoguloliko\\), @kj \\(k777\\), masterpiece, best quality, ultra-detailed, absurdres, very aesthetic, detailed, anime illustration",
+  "commonSuffix": "upper body, cowboy shot, standing, facing viewer, looking at viewer, soft cinematic light, elegant fantasy background, shallow depth of field",
+  "negative": "lowres, artistic error, film grain, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, multiple views, logo, watermark, text, username, signature, multiple girls, extra people, monochrome, photo, realism, 3d, toon style, oekaki, turnaround, mutation, deformed, distorted, disfigured, bad proportions, bad hands, extra hands, extra fingers, fewer fingers, bad legs, extra legs, cropped head, out of frame, blurry, unfinished, nsfw, nude, explicit",
+  "characters": [
+    {
+      "id": "eludi",
+      "name": "艾露迪",
+      "nameEn": "Eludi",
+      "seed": 810001,
+      "positive": "1girl, solo, twelve-winged fallen angel, six pairs of black feathered wings, twelve broken black wings in total, six separate wings fanning upward on the left side, six separate wings fanning upward on the right side, clear gaps between every wing, every wing tip visible, wide symmetrical peacock-like wing arrangement, long white hair past knees, vivid red eyes, arms resting naturally at her sides, empty hands, unobstructed face, fully visible forehead, small simple dark gold cross mark softly glowing beneath the skin at the center of her forehead, vertical bar and horizontal bar, flat subtle skin mark, no metal ornament, black lace-trimmed tattered priestess dress, void temple, mature majestic figure, cold aloof expression",
+      "negative": "hand fan, paper fan, folding fan, held fan, fan covering face, hand near face, holding object, covering forehead, four wings, only four wings, six wings, only six wings, two wings, simple winged silhouette, metal forehead cross, metallic forehead cross, jeweled forehead ornament, cross hair ornament, star-shaped forehead mark, spiral forehead mark, glowing eye symbol, eye-shaped forehead mark, headdress, halo, angel wings, white wings, merged wings, cropped wings"
+    },
+    {
+      "id": "merl",
+      "name": "梅尔尔",
+      "nameEn": "Merl",
+      "seed": 810101,
+      "positive": "1girl, solo, human idol singer, perfectly human ears, tea green wavy twin tails, golden bell hair ornaments, sly fox-like mischievous smile, expressive green eyes, green and white idol stage dress, fitted corset bodice, white translucent stockings, glamorous cathedral stage, charismatic pop idol, seductive witty personality, no animal features",
+      "negative": "animal ears, fox ears, wolf ears, cat ears, animal tail, tail, kemonomimi, furry ears, beastgirl, furry, extra ears on hair, hair ears"
+    },
+    {
+      "id": "mimi",
+      "name": "咪咪",
+      "nameEn": "Mimi",
+      "seed": 810201,
+      "positive": "1girl, solo, domestic catgirl, light chestnut pink hair, pink domestic cat ears, upright amber cat eyes, exactly one slender smooth pink cat tail, sleek short-haired tail with even fur, thin tapered tail, compact cat tail, short apron dress, cropped pants, bare feet, harbor kitchen, cheerful energetic expression, agile petite build",
+      "negative": "bushy tail, fluffy tail, fox tail, fluffy fox tail, wolf tail, raccoon tail, large tail, thick fur tail, long fur tail, oversized tail, oversized cat ears"
+    },
+    {
+      "id": "yuffie",
+      "name": "尤菲",
+      "nameEn": "Yuffie",
+      "seed": 810301,
+      "positive": "1girl, solo, domestic catgirl thief, fluffy brown short hair, brown domestic cat ears, exactly one slender smooth brown cat tail, sleek short-haired tail with even fur, thin tapered brown cat tail, compact cat tail, tight high-slit dark ninja outfit, leather dagger straps on thighs, rooftop night scene, playful feline posture, agile athletic build",
+      "negative": "bushy tail, fluffy tail, fox tail, fluffy fox tail, wolf tail, raccoon tail, large thick tail, long fur tail, oversized tail, oversized cat ears"
+    },
+    {
+      "id": "celine",
+      "name": "赛莲",
+      "nameEn": "Celine",
+      "seed": 810401,
+      "positive": "1girl, solo, water blue long curly hair, pearls, fin-like ears, exactly one tiny pale blue dot beauty mark below the outer corner of her left eye only, single small dot, no mark on right cheek, clean flawless symmetrical face, seashell stage costume, harbor tavern singer, playful innocent expression, mermaid tail, elegant aquatic fantasy",
+      "negative": "two beauty marks, teardrop beauty marks, beauty marks under both eyes, beauty marks on both eyes, marks under both eyes, multiple beauty marks, dirt spots on cheeks, freckles, bruises, tear streaks, red marks on face"
+    },
+    {
+      "id": "beatrix",
+      "name": "贝阿朵莉丝",
+      "nameEn": "Beatrix",
+      "seed": 810501,
+      "positive": "1girl, solo, dark blonde elegant updo, golden red-jeweled mitre, refined mature face, exactly one tiny soft brown beauty mark below the outer corner of her left eye only, single small dot, no mark on right cheek, clean smooth symmetrical skin, white and gold bishop robe, off-shoulder mantle, gold filigree, jeweled cross pendant, luxurious chapel, composed dominating smile, voluptuous hourglass figure",
+      "negative": "two beauty marks, teardrop beauty marks, beauty marks under both eyes, beauty marks on both eyes, marks under both eyes, multiple beauty marks, dirt spots on cheeks, freckles, bruises, tear streaks, red marks on face"
+    }
+  ]
+}

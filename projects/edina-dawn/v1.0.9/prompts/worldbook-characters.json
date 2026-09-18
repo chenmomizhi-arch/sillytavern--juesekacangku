@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "style": "anima-current",
+  "width": 832,
+  "height": 1216,
+  "steps": 28,
+  "cfg": 5,
+  "sampler": "dpmpp_2m_sde_gpu",
+  "scheduler": "normal",
+  "commonPrefix": "@chibirisu, @oggu \\(neoguloliko\\), @kj \\(k777\\), masterpiece, best quality, ultra-detailed, absurdres, very aesthetic, detailed, anime illustration",
+  "commonSuffix": "upper body, cowboy shot, standing, facing viewer, looking at viewer, soft cinematic light, elegant fantasy background, shallow depth of field",
+  "negative": "lowres, artistic error, film grain, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, multiple views, logo, watermark, text, username, signature, multiple girls, extra people, monochrome, photo, realism, 3d, toon style, oekaki, turnaround, mutation, deformed, distorted, disfigured, bad proportions, bad hands, extra hands, extra fingers, fewer fingers, bad legs, extra legs, cropped head, out of frame, blurry, unfinished, nsfw, nude, explicit",
+  "characters": [
+    {
+      "id": "lilith",
+      "name": "莉莉丝",
+      "nameEn": "Lilith",
+      "seed": 700001,
+      "positive": "1girl, solo, dark purple hair, amber red eyes, small demon horns, heart-tipped tail, black and purple scholar robe, short cape, ancient magic books, arcane library, studious shy expression, voluptuous figure"
+    },
+    {
+      "id": "elise",
+      "name": "爱丽丝",
+      "nameEn": "Elise",
+      "seed": 701001,
+      "positive": "1girl, solo, white hair, silver red eyes, pale skin, black gothic lace dress, family crest pendant, small fangs, noble vampire heiress, elegant restrained posture, slender tall figure"
+    },
+    {
+      "id": "sariel",
+      "name": "萨莉尔",
+      "nameEn": "Sariel",
+      "seed": 702001,
+      "positive": "1girl, solo, pale blonde hair, transparent golden eyes, small white feathered wings, white nun habit, cloth wraps on wrists, devout prayer, shy lowered gaze, slender figure"
+    },
+    {
+      "id": "sylph",
+      "name": "希尔菲",
+      "nameEn": "Sylph",
+      "seed": 703001,
+      "positive": "1girl, solo, pale green hair, translucent insect wings, tiny elemental fairy, flower and vine dress, glowing spores, cheerful curious expression, delicate body"
+    },
+    {
+      "id": "seraphina",
+      "name": "塞拉菲娜",
+      "nameEn": "Seraphina",
+      "seed": 704001,
+      "positive": "1girl, solo, translucent silver gray hair, faint ghostly glow, semi-transparent mourning veil, noble spectral dress, haunted battlefield, gentle melancholic expression, slender figure"
+    },
+    {
+      "id": "tia",
+      "name": "缇雅",
+      "nameEn": "Tia",
+      "seed": 705001,
+      "positive": "1girl, solo, dark hair, golden slit eyes, small curved horns, reddish skin, dark short cloak, leather straps, hidden tail, rogue assassin, guarded expression, nimble figure"
+    },
+    {
+      "id": "mimi",
+      "name": "咪咪",
+      "nameEn": "Mimi",
+      "seed": 706001,
+      "positive": "1girl, solo, light chestnut hair, pink cat ears, amber cat eyes, short apron dress, cropped pants, bare feet, fluffy tail, harbor kitchen, cheerful energetic expression"
+    },
+    {
+      "id": "kael",
+      "name": "凯尔",
+      "nameEn": "Kael",
+      "seed": 707001,
+      "positive": "1boy, short brown hair, upright expression, young holy knight, light plate armor, immaculate white cloak, disciplined posture, broad shouldered build"
+    },
+    {
+      "id": "lucius",
+      "name": "卢修斯",
+      "nameEn": "Lucius",
+      "seed": 708001,
+      "positive": "1boy, gray short hair, ascetic face, senior cardinal, deep red bishop robe, gold stole, cardinal ring, cathedral authority, composed political smile, lean build"
+    },
+    {
+      "id": "eludi",
+      "name": "艾露迪",
+      "nameEn": "Eludi",
+      "seed": 710001,
+      "positive": "1girl, solo, long white hair past knees, red eyes, twelve broken black wings, cracked dark gold holy cross on forehead, black lace priestess dress, void temple, mature majestic figure"
+    },
+    {
+      "id": "freya",
+      "name": "芙蕾雅",
+      "nameEn": "Freya",
+      "seed": 711001,
+      "positive": "1girl, solo, blonde short ponytail, sky blue eyes, silver-white war maiden armor, tight leather underlayer, spear, knight instructor, athletic muscular build, confident stance"
+    },
+    {
+      "id": "celine",
+      "name": "赛莲",
+      "nameEn": "Celine",
+      "seed": 712001,
+      "positive": "1girl, solo, water blue long curly hair, pearls, fin-like ears, blue tear-shaped beauty marks, seashell stage costume, harbor tavern singer, playful innocent expression, mermaid tail"
+    },
+    {
+      "id": "livia",
+      "name": "莉维亚",
+      "nameEn": "Livia",
+      "seed": 713001,
+      "positive": "1girl, solo, black hair in military updo, military cap, gold monocle, close-fitting officer uniform, black over-knee leather boots, discipline whip, frontier fortress, stern expression"
+    },
+    {
+      "id": "dorothy",
+      "name": "桃乐丝",
+      "nameEn": "Dorothy",
+      "seed": 714001,
+      "positive": "1girl, solo, brown curly short hair, oversized purple witch hat, loose alchemist robe, potion bottles, forest apothecary, timid expression, petite figure"
+    },
+    {
+      "id": "ophelia",
+      "name": "奥菲莉亚",
+      "nameEn": "Ophelia",
+      "seed": 715001,
+      "positive": "1girl, solo, ice blue ankle-length hair, white veil, translucent gold holy priestess robe, bare feet, sacred flame chamber, serene compassionate expression, elegant figure"
+    },
+    {
+      "id": "yuffie",
+      "name": "尤菲",
+      "nameEn": "Yuffie",
+      "seed": 716001,
+      "positive": "1girl, solo, fluffy brown short hair, cat ears, fluffy tail, tight high-slit dark ninja outfit, leather dagger straps on thighs, rooftop night scene, playful feline posture"
+    },
+    {
+      "id": "natasha",
+      "name": "娜塔莎",
+      "nameEn": "Natasha",
+      "seed": 717001,
+      "positive": "1girl, solo, dark green wavy hair, pointed elf ears, deep red velvet low-cut dress, tavern proprietress, mature alluring figure, soft knowing smile, candlelit wooden tavern"
+    },
+    {
+      "id": "roland",
+      "name": "罗兰",
+      "nameEn": "Roland",
+      "seed": 718001,
+      "positive": "1boy, blond hair, clear resolute eyes, young elite holy knight, light armor, holy cross greatsword, tall broad shouldered build, upright heroic posture"
+    },
+    {
+      "id": "jack",
+      "name": "杰克",
+      "nameEn": "Jack",
+      "seed": 719001,
+      "positive": "1boy, messy brown hair, faint facial scar, grass stalk in mouth, worn leather armor and arm guards, dagger, streetwise mercenary, agile build, sly expression"
+    }
+  ]
+}
