@@ -9,12 +9,14 @@ function parseArgs(argv) {
     const out = {
         only: '',
         variants: 1,
+        label: '',
         prompts: 'prompts/candidates.json',
-        project: 'projects/edina-dawn/v1.0.7',
+        project: 'projects/edina-dawn',
     };
     for (let i = 0; i < argv.length; i += 1) {
         if (argv[i] === '--only') out.only = argv[++i] || '';
         else if (argv[i] === '--variants') out.variants = Math.max(1, Number(argv[++i]) || 1);
+        else if (argv[i] === '--label') out.label = String(argv[++i] || '');
         else if (argv[i] === '--prompts') out.prompts = String(argv[++i] || '');
         else if (argv[i] === '--project') out.project = String(argv[++i] || '');
     }
@@ -127,7 +129,10 @@ async function main() {
     const project = path.resolve(ROOT, args.project);
     if (!project.startsWith(path.join(ROOT, 'projects'))) throw new Error(`Project escapes projects root: ${project}`);
     const workflowFile = path.join(project, 'prompts', 'workflow-anima.json');
-    const rawDir = path.join(project, 'portraits', 'raw');
+    const label = (args.label || `iteration-${new Date().toISOString().replace(/[:.]/g, '-')}`)
+        .replace(/[^0-9A-Za-z._-]+/g, '-')
+        .replace(/^-+|-+$/g, '') || 'iteration';
+    const rawDir = path.join(project, 'archive', 'iterations', label, 'raw');
     const recordFile = path.join(project, 'prompts', 'generation-records.json');
     const promptsFile = path.resolve(project, args.prompts);
     if (!promptsFile.startsWith(project)) throw new Error(`Prompt file escapes project: ${promptsFile}`);

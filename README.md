@@ -1,31 +1,34 @@
-# SillyTavern Character Asset Repository
+# SillyTavern Card and Asset Repository
 
-This repository is an image host for SillyTavern role-card projects.
+This repository stores SillyTavern role-card projects, their current portrait assets, archived iterations, prompts, manifests, and release packages.
 
 ## Layout
 
 ```text
 projects/
   <project-id>/
-    <version>/
-      manifest.json
-      prompts/
-      portraits/
+    README.md
+    manifest.json
+    resolved-urls.json
+    portraits/               # current active portraits
+    prompts/                 # current maintained prompts
+    cards/                    # released card packages
+      <version>/
+    archive/                 # retired versions and discarded iterations
+      <version>/
 ```
 
-Each card project keeps its prompts, generated images, source notes, and version metadata in its own directory. Do not place assets for different card projects in the same version folder.
+Do not create a new active image directory for every card revision. Update the current portrait in place and move the retired image or discarded iteration into `archive/`.
 
 ## URL policy
 
-Use immutable commit-pinned URLs in cards. Do not bind cards to `main`, because a later update could silently replace an older image.
-
-Example:
+Cards use stable `main` paths for current portrait assets:
 
 ```text
-https://raw.githubusercontent.com/chenmomizhi-arch/sillytavern--juesekacangku/<commit>/projects/edina-dawn/v1.0.7/portraits/victoria.webp
+https://raw.githubusercontent.com/chenmomizhi-arch/sillytavern--juesekacangku/main/projects/edina-dawn/portraits/victoria.webp
 ```
 
-The first Edina Dawn candidate release resolves to commit `0831babc8bb90f9f569f1c1095fd32b00d59984a` and is recorded in `projects/edina-dawn/v1.0.7/resolved-urls.json`. The complete 27-character worldbook release is under `projects/edina-dawn/v1.0.8/`.
+Retired assets remain recoverable under the project archive, but are not used as active card dependencies unless a rollback is explicitly requested.
 
 ## Content policy
 

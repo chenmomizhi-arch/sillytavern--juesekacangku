@@ -2,11 +2,14 @@
 
 Source project: `圣女今天也很努力（大概）！`
 
-This directory contains canonical portrait assets for the card's eight sacred-maiden candidates.
+Current active portraits live in `portraits/` and are referenced by stable `main` URLs. Prompts and generation records live in `prompts/`. Released card packages live in `cards/`.
 
-- Character source: the card's maintained worldbook entries.
-- Preferred style: the installed `anima` anime-illustration workflow in `st-chatu8`.
-- Portrait scope: one non-explicit upper-body or cowboy-shot portrait per candidate.
-- No age status, age number, or developmental-age wording is used in prompts.
+The complete current set contains 27 character portraits:
 
-Current complete worldbook set: `v1.0.8`, containing 27 character portraits.
+- 8 sacred-maiden candidates.
+- 15 open female characters.
+- 4 male characters.
+
+Current revisions include Eludi without a hand fan and with a subtle glowing forehead cross, Merl as a human idol, slender short-haired cat tails for Mimi and Yuffie, and one clean single-side beauty mark for Celine and Beatrix.
+
+Retired version folders and unused generated candidates live under `archive/`. Archived assets are backups, not active card dependencies.

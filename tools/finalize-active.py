@@ -8,10 +8,10 @@ from PIL import Image
 
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION_DIR = ROOT / "projects" / "edina-dawn" / "v1.0.9"
-RAW_DIR = VERSION_DIR / "portraits" / "raw"
-OUT_DIR = VERSION_DIR / "portraits"
-MANIFEST_FILE = VERSION_DIR / "manifest.json"
+PROJECT = ROOT / "projects" / "edina-dawn"
+RAW_DIR = PROJECT / "archive" / "v1.0.9" / "raw"
+OUT_DIR = PROJECT / "portraits"
+MANIFEST_FILE = PROJECT / "manifest.json"
 
 SELECTIONS = {
     "eludi": "eludi-s810003-3.png",
