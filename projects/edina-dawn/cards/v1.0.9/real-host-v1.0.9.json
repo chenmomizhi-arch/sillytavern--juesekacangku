@@ -1,7 +1,7 @@
 {
-  "stamp": "2026-09-18T15:31:48.441Z",
-  "artifact": "候补圣女今天也在好好努力（大概）v1.0.9-修正1",
-  "version": "1.0.9-修正1",
+  "stamp": "2026-09-18T16:07:14.945Z",
+  "artifact": "候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1",
+  "version": "1.0.9-稳定路径1",
   "mode": "remote",
   "viewport": 360,
   "checks": [
@@ -13,17 +13,17 @@
     {
       "id": "identity",
       "ok": true,
-      "detail": "候补圣女今天也在好好努力（大概）v1.0.9-修正1"
+      "detail": "候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1"
     },
     {
       "id": "scripts",
       "ok": true,
-      "detail": "[{\"name\":\"MVU 运行时（宿主/远程/卡内三级）\",\"content\":585881},{\"name\":\"变量结构\",\"content\":12575}]"
+      "detail": "[{\"name\":\"MVU 运行时（宿主/远程/卡内三级）\",\"content\":584724},{\"name\":\"变量结构\",\"content\":12575}]"
     },
     {
       "id": "worldbook-binding",
       "ok": true,
-      "detail": "候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书"
+      "detail": "候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书"
     },
     {
       "id": "worldbook-pack-02",
@@ -43,7 +43,7 @@
     {
       "id": "mvu-source",
       "ok": true,
-      "detail": "{\"phase\":\"ready\",\"source\":\"remote\",\"message\":\"远程 MVU 已就绪，变量已初始化\",\"commit\":\"dd4f1d92b450dc7eaa1b43e23b6e3fb832c909d1\",\"at\":1789745348638}"
+      "detail": "{\"phase\":\"ready\",\"source\":\"remote\",\"message\":\"远程 MVU 已就绪，变量已初始化\",\"commit\":\"dd4f1d92b450dc7eaa1b43e23b6e3fb832c909d1\",\"at\":1789747499272}"
     },
     {
       "id": "mvu-fallback-chain",
@@ -138,7 +138,7 @@
     {
       "id": "relation-auto-repair",
       "ok": true,
-      "detail": "{\"ok\":true,\"person\":{\"名字\":\"克拉拉\",\"身份\":\"在回廊尽头记录艾迪娜今日行程的人\",\"身份标签\":\"记录者\",\"位阶\":\"精英\",\"好感\":10,\"标签\":\"陌生\",\"在场\":true,\"性别\":\"女\",\"一句话\":\"她在回廊尽头停下脚步，微笑着向艾迪娜问好，并记下了她今天的行程。\",\"外貌\":\"如丝缎般柔顺垂落的及腰乌黑长发，头戴纤尘不染的白蕾丝黑修女头巾。那张清纯圣洁、柔美绝伦的脸蛋上，嵌着一双泛着淡紫色薄雾的神秘眼瞳；看似嘴角噙着圣母般慈悲温婉的微笑，但注视艾迪娜时，眼底深处却会流露出令人不寒而栗的病态占有欲与狂热执念。常穿一袭量身剪裁、紧贴胴体起伏的暗黑修女长裙。\",\"身材\":\"外表看似弱不禁风，实则身段极度妖娆多姿。纤细柔软、盈盈一握的柳腰下，连缀着浑圆肉感的臀部轮廓；胸前饱满柔软的D罩杯胸肉将修女服的前襟高高顶起，长裙随着无声的步伐摇曳，隐约透出内里诱人的白皙肉色。\",\"穿着\":\"如丝缎般柔顺垂落的及腰乌黑长发，头戴纤尘不染的白蕾丝黑修女头巾。那张清纯圣洁、柔美绝伦的脸蛋上，嵌着一双泛着淡紫色薄雾的神秘眼瞳；看似嘴角噙着圣母般慈悲温婉的微笑，但注视艾迪娜时，眼底深处却会流露出令人不寒而栗的病态占有欲与狂热执念。常穿一袭量身剪裁、紧贴胴体起伏的暗黑修女长裙。\",\"NSFW状态\":{\"嘴唇\":\"淡粉水润的唇瓣开合极轻，凑在耳边呢喃带有侵略性的爱意誓言时，吐出的湿热香气能瞬间麻痹听者的理智。\",\"胸部\":\"修女服包裹下的双乳极其柔软滑腻，紧紧将艾迪娜拥入怀中时，饱满的肉感会带来近乎窒息的压迫与母性沉沦。\",\"阴部\":\"平日里层层遮掩的长裙下，小穴因对艾迪娜的病态幻想而常年保持着温热多汁的敏感状态，极易泛滥成灾。\",\"臀部\":\"丰满软糯的修女翘臀，被纯白丝袜与吊袜带勾勒得无比色气，跪地祈祷时高高翘起的弧度充满背德的诱惑。\",\"肛门\":\"隐秘的后穴收缩紧致，在神圣修女服的掩护下极度敏感，稍加抚慰便会带起全身痉挛般的喘息。\",\"子宫\":\"温暖而空虚的子宫时刻渴望着与命中注定之人的血脉融合，被填满时会爆发出绝顶的殉道快感。\"},\"等级\":20,\"属性\":{\"力量\":21,\"敏捷\":21,\"魔力\":19,\"幸运\":20},\"装备\":[{\"名称\":\"黑檀祈祷书\",\"位阶\":\"精英\",\"效果\":\"引导净化术时降低精神干扰。\",\"描述\":\"书脊缠着黑色丝带，页边写满细密批注。\"},{\"名称\":\"银刃裁纸刀\",\"位阶\":\"精英\",\"效果\":\"近身防身，也可切断束缚术式。\",\"描述\":\"银刃藏在修女袖口，刀柄刻着十字。\"}],\"技能\":[{\"名称\":\"圣痕共鸣\",\"位阶\":\"精英\",\"效果\":\"感知目标身上的神术与情绪波动。\",\"描述\":\"指尖划过圣痕时，她会听见对方压住的呼吸。\"},{\"名称\":\"禁忌净化术\",\"位阶\":\"精英\",\"效果\":\"净化污染，也能反制精神寄生。\",\"描述\":\"祷词越温柔，术式越接近危险的边界。\"}],\"头像\":\"\"},\"messageId\":2,\"phase\":{\"pending\":false,\"messageId\":2,\"phase\":\"idle\",\"error\":\"\",\"at\":1789745415364}}"
+      "detail": "{\"ok\":true,\"person\":{\"名字\":\"克拉拉\",\"身份\":\"记录行程者\",\"身份标签\":\"圣女候选\",\"位阶\":\"精英\",\"好感\":10,\"标签\":\"陌生\",\"在场\":true,\"性别\":\"女\",\"一句话\":\"在回廊尽头停下脚步，微笑着向艾迪娜问好，并记下了她今天的行程。\",\"外貌\":\"如丝缎般柔顺垂落的及腰乌黑长发，头戴纤尘不染的白蕾丝黑修女头巾。那张清纯圣洁、柔美绝伦的脸蛋上，嵌着一双泛着淡紫色薄雾的神秘眼瞳；看似嘴角噙着圣母般慈悲温婉的微笑，但注视艾迪娜时，眼底深处却会流露出令人不寒而栗的病态占有欲与狂热执念。常穿一袭量身剪裁、紧贴胴体起伏的暗黑修女长裙。\",\"身材\":\"外表看似弱不禁风，实则身段极度妖娆多姿。纤细柔软、盈盈一握的柳腰下，连缀着浑圆肉感的臀部轮廓；胸前饱满柔软的D罩杯胸肉将修女服的前襟高高顶起，长裙随着无声的步伐摇曳，隐约透出内里诱人的白皙肉色。\",\"穿着\":\"如丝缎般柔顺垂落的及腰乌黑长发，头戴纤尘不染的白蕾丝黑修女头巾。那张清纯圣洁、柔美绝伦的脸蛋上，嵌着一双泛着淡紫色薄雾的神秘眼瞳；看似嘴角噙着圣母般慈悲温婉的微笑，但注视艾迪娜时，眼底深处却会流露出令人不寒而栗的病态占有欲与狂热执念。常穿一袭量身剪裁、紧贴胴体起伏的暗黑修女长裙。\",\"NSFW状态\":{\"嘴唇\":\"淡粉水润的唇瓣开合极轻，凑在耳边呢喃带有侵略性的爱意誓言时，吐出的湿热香气能瞬间麻痹听者的理智。\",\"胸部\":\"修女服包裹下的双乳极其柔软滑腻，紧紧将艾迪娜拥入怀中时，饱满的肉感会带来近乎窒息的压迫与母性沉沦。\",\"阴部\":\"平日里层层遮掩的长裙下，小穴因对艾迪娜的病态幻想而常年保持着温热多汁的敏感状态，极易泛滥成灾。\",\"臀部\":\"丰满软糯的修女翘臀，被纯白丝袜与吊袜带勾勒得无比色气，跪地祈祷时高高翘起的弧度充满背德的诱惑。\",\"肛门\":\"隐秘的后穴收缩紧致，在神圣修女服的掩护下极度敏感，稍加抚慰便会带起全身痉挛般的喘息。\",\"子宫\":\"温暖而空虚的子宫时刻渴望着与命中注定之人的血脉融合，被填满时会爆发出绝顶的殉道快感。\"},\"等级\":20,\"属性\":{\"力量\":21,\"敏捷\":21,\"魔力\":19,\"幸运\":20},\"装备\":[{\"名称\":\"黑檀祈祷书\",\"位阶\":\"精英\",\"效果\":\"引导净化术时降低精神干扰。\",\"描述\":\"书脊缠着黑色丝带，页边写满细密批注。\"},{\"名称\":\"银刃裁纸刀\",\"位阶\":\"精英\",\"效果\":\"近身防身，也可切断束缚术式。\",\"描述\":\"银刃藏在修女袖口，刀柄刻着十字。\"}],\"技能\":[{\"名称\":\"圣痕共鸣\",\"位阶\":\"精英\",\"效果\":\"感知目标身上的神术与情绪波动。\",\"描述\":\"指尖划过圣痕时，她会听见对方压住的呼吸。\"},{\"名称\":\"禁忌净化术\",\"位阶\":\"精英\",\"效果\":\"净化污染，也能反制精神寄生。\",\"描述\":\"祷词越温柔，术式越接近危险的边界。\"}],\"头像\":\"\"},\"messageId\":2,\"phase\":{\"pending\":false,\"messageId\":2,\"phase\":\"idle\",\"error\":\"\",\"at\":1789747551734}}"
     },
     {
       "id": "relation-auto-repair-ui",
@@ -153,7 +153,7 @@
     {
       "id": "profile-ui",
       "ok": true,
-      "detail": "{\"tab\":\"look\",\"portraitReady\":true,\"portraitSrc\":\"http://127.0.0.1:8000/characters/%E5%80%99%E8%A1%A5%E5%9C%A3%E5%A5%B3%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E5%A5%BD%E5%A5%BD%E5%8A%AA%E5%8A%9B%EF%BC%88%E5%A4%A7%E6%A6%82%EF%BC%89v1.0.9-%E4%BF%AE%E6%AD%A31.png\",\"portraitNaturalWidth\":1280,\"overall\":\"身姿娇小的银发赤瞳圣女，微卷银发垂落腰际，肌肤白皙，半垂红瞳带着刚醒的朦胧；体态娇小丰腴，腰肢纤细，胸前曲线饱满，圣洁与慵懒形成柔和反差。\",\"figureCells\":[\"身高约 155cm，站在多数人身边都显得娇小\",\"罩杯G罩杯，乳房饱满浑圆，乳晕较小，颜色是柔和的樱花粉，触感与形状会随姿态轻轻变化。\",\"三围B98 / W56 / H90\"],\"cupText\":\"罩杯G罩杯，乳房饱满浑圆，乳晕较小，颜色是柔和的樱花粉，触感与形状会随姿态轻轻变化。\",\"legacyLookNodes\":0,\"tempEffectSectionHidden\":true,\"tempEffectText\":\"\",\"headerRank\":\"LV 1 · 普通\",\"economy\":{\"public\":\"10\",\"secret\":\"10\",\"money\":\"300G\",\"text\":\"\\n    \\n      明面声望10\\n      在教区里只是不起眼的候补圣女，名声还没有真正传开。\\n    \\n    \\n      暗地声望10\\n      暗地里的存在感不高，偶尔会被人当成不值一提的小圣女。\\n    \\n    \\n      金钱300G\\n      够一户普通人家舒舒服服过上一年，对候补圣女而言十分清贫。\\n    \\n  \"}}"
+      "detail": "{\"tab\":\"look\",\"portraitReady\":true,\"portraitSrc\":\"http://127.0.0.1:8000/characters/%E5%80%99%E8%A1%A5%E5%9C%A3%E5%A5%B3%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E5%A5%BD%E5%A5%BD%E5%8A%AA%E5%8A%9B%EF%BC%88%E5%A4%A7%E6%A6%82%EF%BC%89v1.0.9-%E7%A8%B3%E5%AE%9A%E8%B7%AF%E5%BE%841.png\",\"portraitNaturalWidth\":1280,\"overall\":\"身姿娇小的银发赤瞳圣女，微卷银发垂落腰际，肌肤白皙，半垂红瞳带着刚醒的朦胧；体态娇小丰腴，腰肢纤细，胸前曲线饱满，圣洁与慵懒形成柔和反差。\",\"figureCells\":[\"身高约 155cm，站在多数人身边都显得娇小\",\"罩杯G罩杯，乳房饱满浑圆，乳晕较小，颜色是柔和的樱花粉，触感与形状会随姿态轻轻变化。\",\"三围B98 / W56 / H90\"],\"cupText\":\"罩杯G罩杯，乳房饱满浑圆，乳晕较小，颜色是柔和的樱花粉，触感与形状会随姿态轻轻变化。\",\"legacyLookNodes\":0,\"tempEffectSectionHidden\":true,\"tempEffectText\":\"\",\"headerRank\":\"LV 1 · 普通\",\"economy\":{\"public\":\"10\",\"secret\":\"10\",\"money\":\"300G\",\"text\":\"\\n    \\n      明面声望10\\n      在教区里只是不起眼的候补圣女，名声还没有真正传开。\\n    \\n    \\n      暗地声望10\\n      暗地里的存在感不高，偶尔会被人当成不值一提的小圣女。\\n    \\n    \\n      金钱300G\\n      够一户普通人家舒舒服服过上一年，对候补圣女而言十分清贫。\\n    \\n  \"}}"
     },
     {
       "id": "economy-ui",
@@ -228,7 +228,7 @@
     {
       "id": "avatar:viewer",
       "ok": true,
-      "detail": "{\"mainSource\":\"http://127.0.0.1:8000/characters/%E5%80%99%E8%A1%A5%E5%9C%A3%E5%A5%B3%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E5%A5%BD%E5%A5%BD%E5%8A%AA%E5%8A%9B%EF%BC%88%E5%A4%A7%E6%A6%82%EF%BC%89v1.0.9-%E4%BF%AE%E6%AD%A31.png\",\"mainOpen\":{\"open\":true,\"source\":\"http://127.0.0.1:8000/characters/%E5%80%99%E8%A1%A5%E5%9C%A3%E5%A5%B3%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E5%A5%BD%E5%A5%BD%E5%8A%AA%E5%8A%9B%EF%BC%88%E5%A4%A7%E6%A6%82%EF%BC%89v1.0.9-%E4%BF%AE%E6%AD%A31.png\",\"caption\":\"艾迪娜·晨曦\"},\"mainClosed\":true,\"relationSource\":\"https://raw.githubusercontent.com/chenmomizhi-arch/sillytavern--juesekacangku/b362b4bac430cf474646d3bbefa6f570df92f676/projects/edina-dawn/v1.0.9/portraits/victoria.webp\",\"relationOpen\":{\"open\":true,\"source\":\"https://raw.githubusercontent.com/chenmomizhi-arch/sillytavern--juesekacangku/b362b4bac430cf474646d3bbefa6f570df92f676/projects/edina-dawn/v1.0.9/portraits/victoria.webp\",\"caption\":\"维多利亚\"},\"relationClosed\":true}"
+      "detail": "{\"mainSource\":\"http://127.0.0.1:8000/characters/%E5%80%99%E8%A1%A5%E5%9C%A3%E5%A5%B3%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E5%A5%BD%E5%A5%BD%E5%8A%AA%E5%8A%9B%EF%BC%88%E5%A4%A7%E6%A6%82%EF%BC%89v1.0.9-%E7%A8%B3%E5%AE%9A%E8%B7%AF%E5%BE%841.png\",\"mainOpen\":{\"open\":true,\"source\":\"http://127.0.0.1:8000/characters/%E5%80%99%E8%A1%A5%E5%9C%A3%E5%A5%B3%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E5%A5%BD%E5%A5%BD%E5%8A%AA%E5%8A%9B%EF%BC%88%E5%A4%A7%E6%A6%82%EF%BC%89v1.0.9-%E7%A8%B3%E5%AE%9A%E8%B7%AF%E5%BE%841.png\",\"caption\":\"艾迪娜·晨曦\"},\"mainClosed\":true,\"relationSource\":\"https://raw.githubusercontent.com/chenmomizhi-arch/sillytavern--juesekacangku/main/projects/edina-dawn/portraits/victoria.webp\",\"relationOpen\":{\"open\":true,\"source\":\"https://raw.githubusercontent.com/chenmomizhi-arch/sillytavern--juesekacangku/main/projects/edina-dawn/portraits/victoria.webp\",\"caption\":\"维多利亚\"},\"relationClosed\":true}"
     },
     {
       "id": "avatar:url-local-override",
@@ -258,7 +258,7 @@
     {
       "id": "direct-affinity-write",
       "ok": true,
-      "detail": "{\"beforeAffinity\":10,\"afterAffinity\":15,\"writeMethod\":\"dom-click-fallback\",\"inputBeforeWrite\":\"\",\"inputAfterWrite\":\"\",\"tipAfterWrite\":\"维多利亚 好感已写入（+5）\",\"writeError\":\"\"}"
+      "detail": "{\"beforeAffinity\":10,\"afterAffinity\":15,\"writeMethod\":\"pointer\",\"inputBeforeWrite\":\"\",\"inputAfterWrite\":\"\",\"tipAfterWrite\":\"维多利亚 好感已写入（+5）\",\"writeError\":\"\"}"
     },
     {
       "id": "relation-detail-ui",
@@ -283,7 +283,7 @@
     {
       "id": "panel-interaction",
       "ok": true,
-      "detail": "{\"value\":\"[推进一天]\",\"method\":\"dom-fallback\"}"
+      "detail": "{\"value\":\"[推进一天]\",\"method\":\"pointer-force\"}"
     },
     {
       "id": "responsive-360",
@@ -298,12 +298,12 @@
     {
       "id": "task-event-host-render",
       "ok": true,
-      "detail": "{\"formatted\":\"<p>临时渲染验收。</p>\\n<p></p><details data-edina-task-event=\\\"1\\\" style=\\\"margin:9px 0;overflow:hidden;border:1px solid rgba(181,140,72,.42);border-left:4px solid #b58c48;border-radius:8px;background:linear-gradient(135deg,rgba(39,34,28,.96),rgba(20,20,21,.97));color:#f3e8d2;box-shadow:0 5px 14px rgba(0,0,0,.18)\\\"><summary style=\\\"display:flex;align-items:center;gap:8px;padding:8px 10px;color:#e8c889;font-size:.9em;font-weight:700;line-height:1.25;cursor:pointer;list-style:none\\\"><span>📜 任务事件</span><span st\",\"collapsed\":{\"open\":false,\"overflow\":false,\"summary\":\"📜 任务事件展开 / 收起\"},\"expanded\":{\"open\":true,\"overflow\":false,\"summary\":\"📜 任务事件展开 / 收起\",\"text\":\"📜 任务事件展开 / 收起\\n任务键: render_probe\\n动作: 新建\\n名称: 排版探针\\n类型: 委托\\n状态: 进行中\\n位阶: 普通\\n来源: 渲染测试\\n触发条件: 检查任务事件卡片\\n阶段: 展开检查\\n当前进度: 等待折叠与展开\\n完成条件: 无溢出且可见完整字段\\n奖励: 无\\n失败影响: 无\\n\"},\"screenshotBase\":\"E:\\\\games\\\\deepseek\\\\sillytavern_progress\\\\卡片工程\\\\圣女今天也很努力（大概）！\\\\reports\\\\real-host-v1.0.9-修正1-task-event-1789745505190\"}"
+      "detail": "{\"formatted\":\"<p>临时渲染验收。</p>\\n<p></p><details data-edina-task-event=\\\"1\\\" style=\\\"margin:9px 0;overflow:hidden;border:1px solid rgba(181,140,72,.42);border-left:4px solid #b58c48;border-radius:8px;background:linear-gradient(135deg,rgba(39,34,28,.96),rgba(20,20,21,.97));color:#f3e8d2;box-shadow:0 5px 14px rgba(0,0,0,.18)\\\"><summary style=\\\"display:flex;align-items:center;gap:8px;padding:8px 10px;color:#e8c889;font-size:.9em;font-weight:700;line-height:1.25;cursor:pointer;list-style:none\\\"><span>📜 任务事件</span><span st\",\"collapsed\":{\"open\":false,\"overflow\":false,\"summary\":\"📜 任务事件展开 / 收起\"},\"expanded\":{\"open\":true,\"overflow\":false,\"summary\":\"📜 任务事件展开 / 收起\",\"text\":\"📜 任务事件展开 / 收起\\n任务键: render_probe\\n动作: 新建\\n名称: 排版探针\\n类型: 委托\\n状态: 进行中\\n位阶: 普通\\n来源: 渲染测试\\n触发条件: 检查任务事件卡片\\n阶段: 展开检查\\n当前进度: 等待折叠与展开\\n完成条件: 无溢出且可见完整字段\\n奖励: 无\\n失败影响: 无\\n\"},\"screenshotBase\":\"E:\\\\games\\\\deepseek\\\\sillytavern_progress\\\\卡片工程\\\\圣女今天也很努力（大概）！\\\\reports\\\\real-host-v1.0.9-稳定路径1-task-event-1789747632916\"}"
     },
     {
       "id": "battle-snapshot-host-render",
       "ok": true,
-      "detail": "{\"formatted\":\"<p>临时渲染验收。</p>\\n<p></p><details data-edina-battle-snapshot=\\\"start\\\" data-round=\\\"2\\\" style=\\\"margin:9px 0;overflow:hidden;border:1px solid rgba(92,136,184,.46);border-left:4px solid #5c88b8;border-radius:8px;background:linear-gradient(135deg,rgba(27,36,49,.97),rgba(17,22,30,.98));color:#e8eef7;box-shadow:0 5px 14px rgba(0,0,0,.18)\\\"><summary style=\\\"display:flex;align-items:center;gap:8px;padding:8px 10px;color:#b9d7f5;font-size:.9em;font-weight:700;line-height:1.25;cursor:pointer;list-style:none\\\"><span>⚔ 战斗快照 · 第 2 回合开始</span><span style=\\\"margin-left:auto;color:#8298b2;font-size:.82em;font-weight:500\\\">展开 / 收起</span></summary><div style=\\\"padding:8px 10px 9px;border-top:1px solid rgba(92,136,184,.24\",\"collapsed\":[{\"phase\":\"start\",\"open\":false,\"overflow\":false,\"summary\":\"⚔ 战斗快照 · 第 2 回合开始展开 / 收起\"},{\"phase\":\"end\",\"open\":false,\"overflow\":false,\"summary\":\"⚔ 战斗快照 · 第 2 回合结束展开 / 收起\"}],\"expanded\":[{\"phase\":\"start\",\"open\":true,\"overflow\":false,\"text\":\"⚔ 战斗快照 · 第 2 回合开始展开 / 收起\\n【我方】艾迪娜｜HP 100/100｜MP 96/100｜攻击 16｜防御 6\\n【友方】维多利亚｜HP 148/160｜MP 40/40｜攻击 22｜防御 9\\n【敌方】泥沼魔蝇｜HP 21/35｜攻击 7｜防御 1\\n\"},{\"phase\":\"end\",\"open\":true,\"overflow\":false,\"text\":\"⚔ 战斗快照 · 第 2 回合结束展开 / 收起\\n【我方】艾迪娜｜HP 99/100（-1）｜MP 96/100（0）\\n【敌方】泥沼魔蝇｜HP 11/35（-10）\\n【战利品】魔蝇翅膜 x1\\n\"}],\"screenshotBase\":\"E:\\\\games\\\\deepseek\\\\sillytavern_progress\\\\卡片工程\\\\圣女今天也很努力（大概）！\\\\reports\\\\real-host-v1.0.9-修正1-battle-snapshot-1789745507798\"}"
+      "detail": "{\"formatted\":\"<p>临时渲染验收。</p>\\n<p></p><details data-edina-battle-snapshot=\\\"start\\\" data-round=\\\"2\\\" style=\\\"margin:9px 0;overflow:hidden;border:1px solid rgba(92,136,184,.46);border-left:4px solid #5c88b8;border-radius:8px;background:linear-gradient(135deg,rgba(27,36,49,.97),rgba(17,22,30,.98));color:#e8eef7;box-shadow:0 5px 14px rgba(0,0,0,.18)\\\"><summary style=\\\"display:flex;align-items:center;gap:8px;padding:8px 10px;color:#b9d7f5;font-size:.9em;font-weight:700;line-height:1.25;cursor:pointer;list-style:none\\\"><span>⚔ 战斗快照 · 第 2 回合开始</span><span style=\\\"margin-left:auto;color:#8298b2;font-size:.82em;font-weight:500\\\">展开 / 收起</span></summary><div style=\\\"padding:8px 10px 9px;border-top:1px solid rgba(92,136,184,.24\",\"collapsed\":[{\"phase\":\"start\",\"open\":false,\"overflow\":false,\"summary\":\"⚔ 战斗快照 · 第 2 回合开始展开 / 收起\"},{\"phase\":\"end\",\"open\":false,\"overflow\":false,\"summary\":\"⚔ 战斗快照 · 第 2 回合结束展开 / 收起\"}],\"expanded\":[{\"phase\":\"start\",\"open\":true,\"overflow\":false,\"text\":\"⚔ 战斗快照 · 第 2 回合开始展开 / 收起\\n【我方】艾迪娜｜HP 100/100｜MP 96/100｜攻击 16｜防御 6\\n【友方】维多利亚｜HP 148/160｜MP 40/40｜攻击 22｜防御 9\\n【敌方】泥沼魔蝇｜HP 21/35｜攻击 7｜防御 1\\n\"},{\"phase\":\"end\",\"open\":true,\"overflow\":false,\"text\":\"⚔ 战斗快照 · 第 2 回合结束展开 / 收起\\n【我方】艾迪娜｜HP 99/100（-1）｜MP 96/100（0）\\n【敌方】泥沼魔蝇｜HP 11/35（-10）\\n【战利品】魔蝇翅膜 x1\\n\"}],\"screenshotBase\":\"E:\\\\games\\\\deepseek\\\\sillytavern_progress\\\\卡片工程\\\\圣女今天也很努力（大概）！\\\\reports\\\\real-host-v1.0.9-稳定路径1-battle-snapshot-1789747634618\"}"
     }
   ],
   "snapshot": {
@@ -312,7 +312,7 @@
       "source": "remote",
       "message": "远程 MVU 已就绪，变量已初始化",
       "commit": "dd4f1d92b450dc7eaa1b43e23b6e3fb832c909d1",
-      "at": 1789745348638
+      "at": 1789747499272
     },
     "statKeys": [
       "基础",
@@ -395,7 +395,7 @@
       "summary": "📜 任务事件展开 / 收起",
       "text": "📜 任务事件展开 / 收起\n任务键: render_probe\n动作: 新建\n名称: 排版探针\n类型: 委托\n状态: 进行中\n位阶: 普通\n来源: 渲染测试\n触发条件: 检查任务事件卡片\n阶段: 展开检查\n当前进度: 等待折叠与展开\n完成条件: 无溢出且可见完整字段\n奖励: 无\n失败影响: 无\n"
     },
-    "screenshotBase": "E:\\games\\deepseek\\sillytavern_progress\\卡片工程\\圣女今天也很努力（大概）！\\reports\\real-host-v1.0.9-修正1-task-event-1789745505190"
+    "screenshotBase": "E:\\games\\deepseek\\sillytavern_progress\\卡片工程\\圣女今天也很努力（大概）！\\reports\\real-host-v1.0.9-稳定路径1-task-event-1789747632916"
   },
   "battleSnapshotRender": {
     "formatted": "<p>临时渲染验收。</p>\n<p></p><details data-edina-battle-snapshot=\"start\" data-round=\"2\" style=\"margin:9px 0;overflow:hidden;border:1px solid rgba(92,136,184,.46);border-left:4px solid #5c88b8;border-radius:8px;background:linear-gradient(135deg,rgba(27,36,49,.97),rgba(17,22,30,.98));color:#e8eef7;box-shadow:0 5px 14px rgba(0,0,0,.18)\"><summary style=\"display:flex;align-items:center;gap:8px;padding:8px 10px;color:#b9d7f5;font-size:.9em;font-weight:700;line-height:1.25;cursor:pointer;list-style:none\"><span>⚔ 战斗快照 · 第 2 回合开始</span><span style=\"margin-left:auto;color:#8298b2;font-size:.82em;font-weight:500\">展开 / 收起</span></summary><div style=\"padding:8px 10px 9px;border-top:1px solid rgba(92,136,184,.24",
@@ -427,12 +427,12 @@
         "text": "⚔ 战斗快照 · 第 2 回合结束展开 / 收起\n【我方】艾迪娜｜HP 99/100（-1）｜MP 96/100（0）\n【敌方】泥沼魔蝇｜HP 11/35（-10）\n【战利品】魔蝇翅膜 x1\n"
       }
     ],
-    "screenshotBase": "E:\\games\\deepseek\\sillytavern_progress\\卡片工程\\圣女今天也很努力（大概）！\\reports\\real-host-v1.0.9-修正1-battle-snapshot-1789745507798"
+    "screenshotBase": "E:\\games\\deepseek\\sillytavern_progress\\卡片工程\\圣女今天也很努力（大概）！\\reports\\real-host-v1.0.9-稳定路径1-battle-snapshot-1789747634618"
   },
   "profileUi": {
     "tab": "look",
     "portraitReady": true,
-    "portraitSrc": "http://127.0.0.1:8000/characters/%E5%80%99%E8%A1%A5%E5%9C%A3%E5%A5%B3%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E5%A5%BD%E5%A5%BD%E5%8A%AA%E5%8A%9B%EF%BC%88%E5%A4%A7%E6%A6%82%EF%BC%89v1.0.9-%E4%BF%AE%E6%AD%A31.png",
+    "portraitSrc": "http://127.0.0.1:8000/characters/%E5%80%99%E8%A1%A5%E5%9C%A3%E5%A5%B3%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E5%A5%BD%E5%A5%BD%E5%8A%AA%E5%8A%9B%EF%BC%88%E5%A4%A7%E6%A6%82%EF%BC%89v1.0.9-%E7%A8%B3%E5%AE%9A%E8%B7%AF%E5%BE%841.png",
     "portraitNaturalWidth": 1280,
     "overall": "身姿娇小的银发赤瞳圣女，微卷银发垂落腰际，肌肤白皙，半垂红瞳带着刚醒的朦胧；体态娇小丰腴，腰肢纤细，胸前曲线饱满，圣洁与慵懒形成柔和反差。",
     "figureCells": [
@@ -618,7 +618,7 @@
   "directWrite": {
     "beforeAffinity": 10,
     "afterAffinity": 15,
-    "writeMethod": "dom-click-fallback",
+    "writeMethod": "pointer",
     "inputBeforeWrite": "",
     "inputAfterWrite": "",
     "tipAfterWrite": "维多利亚 好感已写入（+5）",
@@ -635,23 +635,15 @@
     },
     {
       "type": "debug",
-      "text": "Vectors: Context: {accountStorage: AccountStorage, chat: Array(1), characters: Array(60), groups: Array(0), name1: 艾迪娜·晨曦}"
+      "text": "Vectors: Context: {accountStorage: AccountStorage, chat: Array(1), characters: Array(56), groups: Array(0), name1: 艾迪娜·晨曦}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 100 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
+      "text": "[WI] Entry 100 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
-    },
-    {
-      "type": "debug",
-      "text": "[WI] Entry 100 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
-    },
-    {
-      "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
@@ -663,11 +655,11 @@
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 100 activation successful, adding to prompt {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
+      "text": "[WI] Entry 100 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 100 activation successful, adding to prompt {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
@@ -683,51 +675,31 @@
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 100 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
+      "text": "[WI] Entry 100 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 100 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
+      "text": "[WI] Entry 100 activation successful, adding to prompt {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 100 activation successful, adding to prompt {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 100 activation successful, adding to prompt {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
+      "text": "[WI] Entry 100 activation successful, adding to prompt {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 100 activation successful, adding to prompt {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
-    },
-    {
-      "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
-    },
-    {
-      "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
-    },
-    {
-      "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
-    },
-    {
-      "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
-    },
-    {
-      "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "info",
@@ -735,147 +707,143 @@
     },
     {
       "type": "debug",
-      "text": "Vectors: Context: {accountStorage: AccountStorage, chat: Array(2), characters: Array(60), groups: Array(0), name1: 艾迪娜·晨曦}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 100 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "Vectors: Context: {accountStorage: AccountStorage, chat: Array(2), characters: Array(56), groups: Array(0), name1: 艾迪娜·晨曦}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 100 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
+      "text": "[WI] Entry 100 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 100 activation successful, adding to prompt {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
+      "text": "[WI] Entry 100 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 100 activation successful, adding to prompt {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
     },
     {
       "type": "debug",
-      "text": "Vectors: Context: {accountStorage: AccountStorage, chat: Array(3), characters: Array(60), groups: Array(0), name1: 艾迪娜·晨曦}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 100 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "Vectors: Context: {accountStorage: AccountStorage, chat: Array(3), characters: Array(56), groups: Array(0), name1: 艾迪娜·晨曦}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 100 activation successful, adding to prompt {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
+      "text": "[WI] Entry 100 activation successful, adding to prompt {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 100 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 100 activation successful, adding to prompt {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 100 activation successful, adding to prompt {uid: 100, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 13, comment: 🎲规则|系统|100-视角与MVU变量更新, disable: false}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
-    },
-    {
-      "type": "debug",
-      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-修正1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.0.9-稳定路径1·内置世界书, displayIndex: 177, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
     },
     {
       "type": "info",
-      "text": "ASSIGNED {\"名字\":\"克拉拉\",\"身份\":\"在回廊尽头记录艾迪娜今日行程的人\",\"身份标签\":\"记录者\",\"位阶\":\"精英\",\"好感\":10,\"标签\":\"陌生\",\"在场\":true,\"性别\":\"女\",\"一句话\":\"她在回廊尽头停下脚步，微笑着向艾迪娜问好，并记下了她今天的行程。\",\"外貌\":\"如丝缎般柔顺垂落的及腰乌黑长发，头戴纤尘不染的白蕾丝黑修女头巾。那张清纯圣洁、柔美绝伦的脸蛋上，嵌着一双泛着淡紫色薄雾的神秘眼瞳；看似嘴角噙着圣母般慈悲温婉的微笑，但注视艾迪娜时，眼底深处却会流露出令人不寒而栗的病态占有欲与狂热执念。常穿一袭量身剪裁、紧贴胴体起伏的暗黑修女长裙。\",\"身材\":\"外表看似弱不禁风，实则身段极度妖娆多姿。纤细柔软、盈盈一握的柳腰下，连缀着浑圆肉感的臀部轮廓；胸前饱满柔软的D罩杯胸肉将修女服的前襟高高顶起，长裙随着无声的步伐摇曳，隐约透出内里诱人的白皙肉色。\",\"穿着\":\"如丝缎般柔顺垂落的及腰乌黑长发，头戴纤尘不染的白蕾丝黑修女头巾。那张清纯圣洁、柔美绝伦的脸蛋上，嵌着一双泛着淡紫色薄雾的神秘眼瞳；看似嘴角噙着圣母般慈悲温婉的微笑，但注视艾迪娜时，眼底深处却会流露出令人不寒而栗的病态占有欲与狂热执念。常穿一袭量身剪裁、紧贴胴体起伏的暗黑修女长裙。\",\"NSFW状态\":{\"嘴唇\":\"淡粉水润的唇瓣开合极轻，凑在耳边呢喃带有侵略性的爱意誓言时，吐出的湿热香气能瞬间麻痹听者的理智。\",\"胸部\":\"修女服包裹下的双乳极其柔软滑腻，紧紧将艾迪娜拥入怀中时，饱满的肉感会带来近乎窒息的压迫与母性沉沦。\",\"阴部\":\"平日里层层遮掩的长裙下，小穴因对艾迪娜的病态幻想而常年保持着温热多汁的敏感状态，极易泛滥成灾。\",\"臀部\":\"丰满软糯的修女翘臀，被纯白丝袜与吊袜带勾勒得无比色气，跪地祈祷时高高翘起的弧度充满背德的诱惑。\",\"肛门\":\"隐秘的后穴收缩紧致，在神圣修女服的掩护下极度敏感，稍加抚慰便会带起全身痉挛般的喘息。\",\"子宫\":\"温暖而空虚的子宫时刻渴望着与命中注定之人的血脉融合，被填满时会爆发出绝顶的殉道快感。\"},\"等级\":20,\"属性\":{\"力量\":21,\"敏捷\":21,\"魔力\":19,\"幸运\":20},\"装备\":[{\"名称\":\"黑檀祈祷书\",\"位阶\":\"精英\",\"效果\":\"引导净化术时降低精神干扰。\",\"描述\":\"书脊缠着黑色丝带，页边写满细密批注。\"},{\"名称\":\"银刃裁纸刀\",\"位阶\":\"精英\",\"效果\":\"近身防身，也可切断束缚术式。\",\"描述\":\"银刃藏在修女袖口，刀柄刻着十字。\"}],\"技能\":[{\"名称\":\"圣痕共鸣\",\"位阶\":\"精英\",\"效果\":\"感知目标身上的神术与情绪波动。\",\"描述\":\"指尖划过圣痕时，她会听见对方压住的呼吸。\"},{\"名称\":\"禁忌净化术\",\"位阶\":\"精英\",\"效果\":\"净化污染，也能反制精神寄生。\",\"描述\":\"祷词越温柔，术式越接近危险的边界。\"}],\"头像\":\"\"} into '[\"关系\"][\"名册\"]' at index tail (json_patch)"
+      "text": "ASSIGNED {\"名字\":\"克拉拉\",\"身份\":\"记录行程者\",\"身份标签\":\"圣女候选\",\"位阶\":\"精英\",\"好感\":10,\"标签\":\"陌生\",\"在场\":true,\"性别\":\"女\",\"一句话\":\"在回廊尽头停下脚步，微笑着向艾迪娜问好，并记下了她今天的行程。\",\"外貌\":\"如丝缎般柔顺垂落的及腰乌黑长发，头戴纤尘不染的白蕾丝黑修女头巾。那张清纯圣洁、柔美绝伦的脸蛋上，嵌着一双泛着淡紫色薄雾的神秘眼瞳；看似嘴角噙着圣母般慈悲温婉的微笑，但注视艾迪娜时，眼底深处却会流露出令人不寒而栗的病态占有欲与狂热执念。常穿一袭量身剪裁、紧贴胴体起伏的暗黑修女长裙。\",\"身材\":\"外表看似弱不禁风，实则身段极度妖娆多姿。纤细柔软、盈盈一握的柳腰下，连缀着浑圆肉感的臀部轮廓；胸前饱满柔软的D罩杯胸肉将修女服的前襟高高顶起，长裙随着无声的步伐摇曳，隐约透出内里诱人的白皙肉色。\",\"穿着\":\"如丝缎般柔顺垂落的及腰乌黑长发，头戴纤尘不染的白蕾丝黑修女头巾。那张清纯圣洁、柔美绝伦的脸蛋上，嵌着一双泛着淡紫色薄雾的神秘眼瞳；看似嘴角噙着圣母般慈悲温婉的微笑，但注视艾迪娜时，眼底深处却会流露出令人不寒而栗的病态占有欲与狂热执念。常穿一袭量身剪裁、紧贴胴体起伏的暗黑修女长裙。\",\"NSFW状态\":{\"嘴唇\":\"淡粉水润的唇瓣开合极轻，凑在耳边呢喃带有侵略性的爱意誓言时，吐出的湿热香气能瞬间麻痹听者的理智。\",\"胸部\":\"修女服包裹下的双乳极其柔软滑腻，紧紧将艾迪娜拥入怀中时，饱满的肉感会带来近乎窒息的压迫与母性沉沦。\",\"阴部\":\"平日里层层遮掩的长裙下，小穴因对艾迪娜的病态幻想而常年保持着温热多汁的敏感状态，极易泛滥成灾。\",\"臀部\":\"丰满软糯的修女翘臀，被纯白丝袜与吊袜带勾勒得无比色气，跪地祈祷时高高翘起的弧度充满背德的诱惑。\",\"肛门\":\"隐秘的后穴收缩紧致，在神圣修女服的掩护下极度敏感，稍加抚慰便会带起全身痉挛般的喘息。\",\"子宫\":\"温暖而空虚的子宫时刻渴望着与命中注定之人的血脉融合，被填满时会爆发出绝顶的殉道快感。\"},\"等级\":20,\"属性\":{\"力量\":21,\"敏捷\":21,\"魔力\":19,\"幸运\":20},\"装备\":[{\"名称\":\"黑檀祈祷书\",\"位阶\":\"精英\",\"效果\":\"引导净化术时降低精神干扰。\",\"描述\":\"书脊缠着黑色丝带，页边写满细密批注。\"},{\"名称\":\"银刃裁纸刀\",\"位阶\":\"精英\",\"效果\":\"近身防身，也可切断束缚术式。\",\"描述\":\"银刃藏在修女袖口，刀柄刻着十字。\"}],\"技能\":[{\"名称\":\"圣痕共鸣\",\"位阶\":\"精英\",\"效果\":\"感知目标身上的神术与情绪波动。\",\"描述\":\"指尖划过圣痕时，她会听见对方压住的呼吸。\"},{\"名称\":\"禁忌净化术\",\"位阶\":\"精英\",\"效果\":\"净化污染，也能反制精神寄生。\",\"描述\":\"祷词越温柔，术式越接近危险的边界。\"}],\"头像\":\"\"} into '[\"关系\"][\"名册\"]' at index tail (json_patch)"
     },
     {
       "type": "info",

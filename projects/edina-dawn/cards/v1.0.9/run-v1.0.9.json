@@ -1,13 +1,13 @@
 {
-  "stamp": "2026-09-18T15-33-32-152Z",
+  "stamp": "2026-09-18T16-07-35-224Z",
   "artifact": {
     "name": "候补圣女今天也在好好努力（大概）v1.0.9",
     "version": "1.0.9",
     "testLabel": "",
     "json": "E:\\games\\deepseek\\sillytavern_progress\\卡片工程\\圣女今天也很努力（大概）！\\output\\候补圣女今天也在好好努力（大概）v1.0.9.json",
     "png": "E:\\games\\deepseek\\sillytavern_progress\\卡片工程\\圣女今天也很努力（大概）！\\output\\候补圣女今天也在好好努力（大概）v1.0.9.png",
-    "jsonSha256": "8b58e473e9bcbb94900770c5c7900689a955cf580a7b189eda2ac2f0245ee6e3",
-    "pngSha256": "bc53b86be5d696aabaef686b5d3d2f95316bbe669c9da9f55f9464c130b35762"
+    "jsonSha256": "a70de60f98ceca2887c2e8e4dfce947b26607f13e0c8f8aca271e93ff4cc0d47",
+    "pngSha256": "3221579403449e879ea35efa5a8dc2c50b9d1ade60f5b52c0b1d63347d293108"
   },
   "source": "source/",
   "preview": "E:\\games\\deepseek\\sillytavern_progress\\卡片工程\\圣女今天也很努力（大概）！\\output\\预览-v1.0.9-状态栏与开局页.html",
@@ -125,7 +125,7 @@
     {
       "id": "interactive:no-external",
       "ok": true,
-      "detail": "面板除固定提交号的候选头像外无外链资源"
+      "detail": "面板除稳定路径的候选头像外无外链资源"
     },
     {
       "id": "interactive:has-input",
@@ -920,7 +920,7 @@
     {
       "id": "redline:no-external-url",
       "ok": true,
-      "detail": "除固定 MVU 来源和固定提交号候选头像外无 http(s) 外链"
+      "detail": "除固定 MVU 来源和稳定路径候选头像外无 http(s) 外链"
     },
     {
       "id": "redline:no-iframe",
@@ -985,7 +985,7 @@
     {
       "id": "media:candidate-avatars",
       "ok": true,
-      "detail": "27 个世界书角色头像，固定提交 b362b4bac430，MVU 与面板均已注入"
+      "detail": "27 个世界书角色头像使用稳定 main 路径，MVU 与面板均已注入"
     },
     {
       "id": "worldbook:character-loadouts",
@@ -1508,21 +1508,21 @@
     {
       "id": "png:payload-share",
       "ok": true,
-      "detail": "chara+ccv3 载荷 3.44 MB（上限 4 MB）"
+      "detail": "chara+ccv3 载荷 3.43 MB（上限 4 MB）"
     }
   ],
   "sizes": {
     "cardName": "候补圣女今天也在好好努力（大概）v1.0.9",
     "characterVersion": "1.0.9",
-    "jsonBytes": 1391126,
-    "pngBytes": 6956967,
-    "displayHudChars": 145707,
+    "jsonBytes": 1388853,
+    "pngBytes": 6950903,
+    "displayHudChars": 144546,
     "displayOpeningChars": 15195,
     "embeddedMvu": {
       "scripts": [
         {
           "name": "MVU 运行时（宿主/远程/卡内三级）",
-          "chars": 585873
+          "chars": 584712
         },
         {
           "name": "变量结构",
