@@ -9,7 +9,8 @@
     "mode": "comfyui",
     "url": "http://192.168.1.5:8188",
     "model": "anima\\【轻柔二次元】miaomiaoHarem_anima13.safetensors",
-    "workflow": "生图anima专用 (1)"
+    "workflow": "生图anima专用 (1)",
+    "promptPreset": "测试anima提示词"
   },
   "promptFiles": [
     "prompts/candidates.json",
@@ -21,9 +22,9 @@
       "name": "艾迪娜·晨曦",
       "image": "portraits/edina.webp",
       "status": "ready",
-      "sourceRaw": "archive/iterations/edina-v1/raw/edina-s748002-2.png",
-      "sha256": "45faac3f4edbfcdc34270eada040f65207a41b532581ab5ed9fc9c5f868619b3",
-      "bytes": 174340
+      "sourceRaw": "archive/iterations/edina-v7/raw/edina-s748601-1.png",
+      "sha256": "e14b87312b65db2c8cfb449a98e6b89c7e4186c8a1bd4177e828d8525263b3a9",
+      "bytes": 259664
     },
     {
       "id": "victoria",

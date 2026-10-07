@@ -1,6 +1,16 @@
 {
   "schemaVersion": 1,
   "style": "anima-current",
+  "styleSource": {
+    "plugin": "st-chatu8",
+    "pluginVersion": "2.0.1",
+    "backendMode": "comfyui",
+    "globalPromptPreset": "测试anima提示词",
+    "globalQualityTags": "best quality, amazing quality, very aesthetic, absurdres",
+    "globalUniversalNegative": "UCP_comfyui (see negativeOverride on edina)",
+    "worker": "生图anima专用 (1)",
+    "comment": "Edina uses the real preset pulled from the live SillyTavern st-chatu8 settings, not a hand-rebuilt prompt. Character/outfit tags come from characterPresets['艾迪娜·晨曦'] and outfitPresets['[斗罗大陆Reborn V3.0 星海征途]纯白萝莉蕾丝长裙']; age-coded tokens and explicit anatomy tags are removed per the project 用户守则 (adult-by-default authoring, no age markers in prompts)."
+  },
   "width": 832,
   "height": 1216,
   "steps": 28,
@@ -71,8 +81,18 @@
       "id": "edina",
       "name": "艾迪娜·晨曦",
       "nameEn": "Edina Dawn",
-      "seed": 748001,
-      "positive": "silver hair, long wavy hair, ahoge, ruby red eyes, cheerful gentle smile, petite body, large breasts, white and gold holy dress, gold cross ornaments, detached white sleeves, white thighhighs, lace garter, high heels, saint candidate, radiant holy aura, playful saintly expression"
+      "seed": 748601,
+      "steps": 45,
+      "width": 1024,
+      "height": 1536,
+      "cfg": 5,
+      "sampler": "dpmpp_2m_sde_gpu",
+      "scheduler": "normal",
+      "presetSource": "st-chatu8 characterPresets[\"艾迪娜·晨曦\"] (SFW fields) + outfitPresets[\"[斗罗大陆Reborn V3.0 星海征途]纯白萝莉蕾丝长裙\"].upperBody",
+      "prefix": "best quality, amazing quality, very aesthetic, absurdres, @chibirisu, @oggu \\(neoguloliko\\), @kj \\(k777\\), 1girl, solo",
+      "positive": "innocent appearance, seductive body, deceptive, long silver hair, wavy hair ends, ruby red eyes, pale skin, adorable face, small nose, soft cheeks, watery eyes, petite body, huge breasts, G-cup, slender shoulders, heavy breasts, overflowing cleavage, petite legs, thick thighs, fleshy legs, short stature, white extremely deep plunge halter dress, backless, gold star necklace, gold cross pendant, detached white sleeves with gold trim, gold string holding dress together, side boob, white long dress, extremely high double side slits, gold edge trim on dress, gold patterned hem, gold chains on waist, white lace thigh strap on left leg, gold cross on right thigh strap, white roman sandals with straps",
+      "suffix": "fabric covering breasts, no exposed nipples, fully clothed, intricate details, highly detailed face, detailed eyes, detailed hair strands, detailed fabric texture, gold embroidery detail, ornate palace hall, warm golden hour light, marble columns, glass ceiling, glowing bokeh, best quality, ultra-detailed, absurdres, very aesthetic, detailed, masterpiece, 8k, 4k, best quality, amazing quality, very aesthetic, absurdres, upper body, cowboy shot, standing, facing viewer, looking at viewer, shallow depth of field",
+      "negativeOverride": "exposed breasts, exposed nipples, nipples, areola, areolae, topless, wardrobe malfunction, see-through clothing, translucent dress, breast slip, underboob, puffy nipples, cleavage cutout, torn clothing, bad proportions, out of focus, username, text, bad anatomy, lowres, worstquality, watermark, cropped, bad body, deformed, mutated, disfigured, poorly drawn face, malformed hands, extra arms, extra limb, missing limb, too many fingers, extra legs, bad feet, missing fingers, fused fingers, acnes, floating limbs, disconnected limbs, long neck, long body, mutation, ugly, blurry, low quality, sketches, normal quality, monochrome, grayscale, signature, logo, jpeg artifacts, unfinished, displeasing, chromatic aberration, extra digits, artistic error, scan, abstract, photo, realism, screencap, lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, crown, dark areola, dark pussy, extra fingers, multiple fingers, extra digits, watermark, text-only page, reference, username, signature, variant set, large variant set, 4koma, 2koma, toon style, oekaki, turnaround, monochrome, dated, old, 1990s style, mutation, deformed, distorted, disfigured, distorted anatomy, anatomical structure error, asymmetrical face, unnatural hair, bad eyes, cloudy eyes, blank eyes, bad proportions, bad limb, bad hands, extra hands, bad hand structure, fewer digits, bad legs, extra legs, amputee, distorted composition, bad perspective, animation error, disorganized colors, vertical lines, vertical banding, blurry, upscaled, fewer details, unfinished, incomplete, amateur, cheesy, unsatisfactory, inadequate, deficient, subpar, poor, displeasing, bad illustration, multiple girls, extra people, cropped head, out of frame, nude, nsfw, explicit"
     }
   ]
 }

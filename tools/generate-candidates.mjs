@@ -81,21 +81,27 @@ async function downloadImage(image, targetFile) {
 }
 
 async function generateOne(character, spec, workflowSnapshot, variant, project, rawDir) {
-    const positive = [spec.commonPrefix, character.positive, spec.commonSuffix].join(', ');
-    const negative = [spec.negative, character.negative].filter(Boolean).join(', ');
+    // A character may override any of the shared style fields so that a single
+    // entry can faithfully reproduce an upstream preset (for example st-chatu8's
+    // global fixed prompt plus a per-character tag set) without shifting the rest.
+    const prefix = character.prefix ?? spec.commonPrefix;
+    const suffix = character.suffix ?? spec.commonSuffix;
+    const positive = [prefix, character.positive, suffix].filter(Boolean).join(', ');
+    const negativeBase = character.negativeOverride ?? spec.negative;
+    const negative = [negativeBase, character.negative].filter(Boolean).join(', ');
     const seed = Number(character.seed) + variant;
     const replacements = {
         prompt: positive,
         negative_prompt: negative,
         MODEL_NAME: workflowSnapshot.model,
         vae: workflowSnapshot.vae,
-        width: spec.width,
-        height: spec.height,
+        width: character.width ?? spec.width,
+        height: character.height ?? spec.height,
         seed,
-        steps: spec.steps,
-        cfg_scale: spec.cfg,
-        sampler_name: spec.sampler,
-        scheduler: spec.scheduler,
+        steps: character.steps ?? spec.steps,
+        cfg_scale: character.cfg ?? spec.cfg,
+        sampler_name: character.sampler ?? spec.sampler,
+        scheduler: character.scheduler ?? spec.scheduler,
     };
     const prompt = replaceDeep(workflowSnapshot.workflow, replacements);
     const clientId = crypto.randomUUID();
