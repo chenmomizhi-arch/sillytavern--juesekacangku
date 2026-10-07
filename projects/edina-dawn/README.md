@@ -4,8 +4,9 @@ Source project: `圣女今天也很努力（大概）！`
 
 Current active portraits live in `portraits/` and are referenced by stable `main` URLs. Prompts and generation records live in `prompts/`. Released card packages live in `cards/`.
 
-The complete current set contains 27 character portraits:
+The complete current set contains 28 portraits: the protagonist plus 27 named characters.
 
+- Protagonist Edina Dawn (`portraits/edina.webp`).
 - 8 sacred-maiden candidates.
 - 15 open female characters.
 - 4 male characters.

@@ -7,7 +7,7 @@
   "backend": {
     "plugin": "st-chatu8",
     "mode": "comfyui",
-    "url": "http://192.168.1.2:8188",
+    "url": "http://192.168.1.5:8188",
     "model": "anima\\【轻柔二次元】miaomiaoHarem_anima13.safetensors",
     "workflow": "生图anima专用 (1)"
   },
@@ -16,6 +16,15 @@
     "prompts/worldbook-characters.json"
   ],
   "characters": [
+    {
+      "id": "edina",
+      "name": "艾迪娜·晨曦",
+      "image": "portraits/edina.webp",
+      "status": "ready",
+      "sourceRaw": "archive/iterations/edina-v1/raw/edina-s748002-2.png",
+      "sha256": "45faac3f4edbfcdc34270eada040f65207a41b532581ab5ed9fc9c5f868619b3",
+      "bytes": 174340
+    },
     {
       "id": "victoria",
       "name": "维多利亚",

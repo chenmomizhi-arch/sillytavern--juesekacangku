@@ -611,6 +611,58 @@
       "image": "portraits/raw/beatrix-s810503-3.png",
       "sha256": "d83bac352199506da896c6769c7fd7f0988df614ec403b7f5ee75142c912be71",
       "bytes": 1169067
+    },
+    {
+      "characterId": "edina",
+      "characterName": "艾迪娜·晨曦",
+      "seed": 748001,
+      "positive": "@chibirisu, @oggu \\(neoguloliko\\), @kj \\(k777\\), masterpiece, best quality, ultra-detailed, absurdres, very aesthetic, detailed, anime illustration, 1girl, solo, silver hair, long wavy hair, ahoge, ruby red eyes, cheerful gentle smile, petite body, large breasts, white and gold holy dress, gold cross ornaments, detached white sleeves, white thighhighs, lace garter, high heels, saint candidate, radiant holy aura, playful saintly expression, upper body, cowboy shot, standing, facing viewer, looking at viewer, soft holy light, dawn cathedral interior, elegant fantasy background, shallow depth of field",
+      "negative": "lowres, artistic error, film grain, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, multiple views, logo, watermark, text, username, signature, multiple girls, extra people, monochrome, photo, realism, 3d, toon style, oekaki, turnaround, mutation, deformed, distorted, disfigured, bad proportions, bad hands, extra hands, extra fingers, fewer fingers, bad legs, extra legs, cropped head, out of frame, blurry, unfinished, nsfw, nude, explicit",
+      "workflow": "生图anima专用 (1)",
+      "model": "anima\\【轻柔二次元】miaomiaoHarem_anima13.safetensors",
+      "promptId": "0cce4a4f-1ea7-4507-bf49-ae86ce0b71a2",
+      "image": "archive/iterations/edina-v1/raw/edina-s748001-1.png",
+      "sha256": "b0412380681dcc6dceaad8d85aedb47abc32db84bb6ed60c1d60fe9102812480",
+      "bytes": 1372676
+    },
+    {
+      "characterId": "edina",
+      "characterName": "艾迪娜·晨曦",
+      "seed": 748002,
+      "positive": "@chibirisu, @oggu \\(neoguloliko\\), @kj \\(k777\\), masterpiece, best quality, ultra-detailed, absurdres, very aesthetic, detailed, anime illustration, 1girl, solo, silver hair, long wavy hair, ahoge, ruby red eyes, cheerful gentle smile, petite body, large breasts, white and gold holy dress, gold cross ornaments, detached white sleeves, white thighhighs, lace garter, high heels, saint candidate, radiant holy aura, playful saintly expression, upper body, cowboy shot, standing, facing viewer, looking at viewer, soft holy light, dawn cathedral interior, elegant fantasy background, shallow depth of field",
+      "negative": "lowres, artistic error, film grain, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, multiple views, logo, watermark, text, username, signature, multiple girls, extra people, monochrome, photo, realism, 3d, toon style, oekaki, turnaround, mutation, deformed, distorted, disfigured, bad proportions, bad hands, extra hands, extra fingers, fewer fingers, bad legs, extra legs, cropped head, out of frame, blurry, unfinished, nsfw, nude, explicit",
+      "workflow": "生图anima专用 (1)",
+      "model": "anima\\【轻柔二次元】miaomiaoHarem_anima13.safetensors",
+      "promptId": "81391234-c099-4b04-abcd-85fac0741fee",
+      "image": "archive/iterations/edina-v1/raw/edina-s748002-2.png",
+      "sha256": "8c28b41a250b1ecc0113f52abb2c78e58ad5220fc119c3f50f32ba5835abd945",
+      "bytes": 1373303
+    },
+    {
+      "characterId": "edina",
+      "characterName": "艾迪娜·晨曦",
+      "seed": 748003,
+      "positive": "@chibirisu, @oggu \\(neoguloliko\\), @kj \\(k777\\), masterpiece, best quality, ultra-detailed, absurdres, very aesthetic, detailed, anime illustration, 1girl, solo, silver hair, long wavy hair, ahoge, ruby red eyes, cheerful gentle smile, petite body, large breasts, white and gold holy dress, gold cross ornaments, detached white sleeves, white thighhighs, lace garter, high heels, saint candidate, radiant holy aura, playful saintly expression, upper body, cowboy shot, standing, facing viewer, looking at viewer, soft holy light, dawn cathedral interior, elegant fantasy background, shallow depth of field",
+      "negative": "lowres, artistic error, film grain, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, multiple views, logo, watermark, text, username, signature, multiple girls, extra people, monochrome, photo, realism, 3d, toon style, oekaki, turnaround, mutation, deformed, distorted, disfigured, bad proportions, bad hands, extra hands, extra fingers, fewer fingers, bad legs, extra legs, cropped head, out of frame, blurry, unfinished, nsfw, nude, explicit",
+      "workflow": "生图anima专用 (1)",
+      "model": "anima\\【轻柔二次元】miaomiaoHarem_anima13.safetensors",
+      "promptId": "f9adc410-7d1c-4176-bceb-c1a91dc1047b",
+      "image": "archive/iterations/edina-v1/raw/edina-s748003-3.png",
+      "sha256": "21d7fb5983b5b17487079d969b8cea1a798fbeeb4cf88b24116735d66a826daf",
+      "bytes": 1400601
+    },
+    {
+      "characterId": "edina",
+      "characterName": "艾迪娜·晨曦",
+      "seed": 748004,
+      "positive": "@chibirisu, @oggu \\(neoguloliko\\), @kj \\(k777\\), masterpiece, best quality, ultra-detailed, absurdres, very aesthetic, detailed, anime illustration, 1girl, solo, silver hair, long wavy hair, ahoge, ruby red eyes, cheerful gentle smile, petite body, large breasts, white and gold holy dress, gold cross ornaments, detached white sleeves, white thighhighs, lace garter, high heels, saint candidate, radiant holy aura, playful saintly expression, upper body, cowboy shot, standing, facing viewer, looking at viewer, soft holy light, dawn cathedral interior, elegant fantasy background, shallow depth of field",
+      "negative": "lowres, artistic error, film grain, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, multiple views, logo, watermark, text, username, signature, multiple girls, extra people, monochrome, photo, realism, 3d, toon style, oekaki, turnaround, mutation, deformed, distorted, disfigured, bad proportions, bad hands, extra hands, extra fingers, fewer fingers, bad legs, extra legs, cropped head, out of frame, blurry, unfinished, nsfw, nude, explicit",
+      "workflow": "生图anima专用 (1)",
+      "model": "anima\\【轻柔二次元】miaomiaoHarem_anima13.safetensors",
+      "promptId": "6a693a6d-5a0c-493a-af48-d715e6fd4d66",
+      "image": "archive/iterations/edina-v1/raw/edina-s748004-4.png",
+      "sha256": "34cfe4e3b208d1c48e431ec56ad215ce27b30deb311c265a17b2d886ece2e893",
+      "bytes": 1386197
     }
   ]
 }
