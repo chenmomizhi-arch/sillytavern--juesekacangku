@@ -22,9 +22,9 @@
       "name": "艾迪娜·晨曦",
       "image": "portraits/edina.webp",
       "status": "ready",
-      "sourceRaw": "archive/iterations/edina-v7/raw/edina-s748601-1.png",
-      "sha256": "e14b87312b65db2c8cfb449a98e6b89c7e4186c8a1bd4177e828d8525263b3a9",
-      "bytes": 259664
+      "sourceRaw": "archive/iterations/edina-v8-userpick/raw/edina-userpick.png",
+      "sha256": "85c6fc223a12680cc85014edffe3271faafe33297cb1be8d5e1210541925a3e4",
+      "bytes": 193586
     },
     {
       "id": "victoria",
