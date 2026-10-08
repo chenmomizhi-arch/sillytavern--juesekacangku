@@ -3,7 +3,7 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
-const BASE_URL = process.env.COMFYUI_URL || 'http://192.168.1.2:8188';
+const BASE_URL = process.env.COMFYUI_URL || 'http://192.168.1.6:8188';
 
 function parseArgs(argv) {
     const out = {

@@ -7,7 +7,7 @@
   "backend": {
     "plugin": "st-chatu8",
     "mode": "comfyui",
-    "url": "http://192.168.1.5:8188",
+    "url": "http://192.168.1.6:8188",
     "model": "anima\\【轻柔二次元】miaomiaoHarem_anima13.safetensors",
     "workflow": "生图anima专用 (1)",
     "promptPreset": "测试anima提示词"
