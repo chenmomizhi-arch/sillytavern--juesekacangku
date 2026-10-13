@@ -1,0 +1,798 @@
+{
+  "stamp": "2026-10-13T03:29:24.128Z",
+  "artifact": "候补圣女今天也在好好努力（大概）v1.2.8-BP048主题精修4",
+  "version": "1.2.8-BP048主题精修4",
+  "mode": "remote",
+  "viewport": 360,
+  "checks": [
+    {
+      "id": "import",
+      "ok": true,
+      "detail": "复用已导入卡"
+    },
+    {
+      "id": "identity",
+      "ok": true,
+      "detail": "候补圣女今天也在好好努力（大概）v1.2.8-BP048主题精修4"
+    },
+    {
+      "id": "host-scope-lock",
+      "ok": true,
+      "detail": "{\"activeCharacterId\":\"15\",\"expectedCharacterId\":15,\"activeCharacterName\":\"候补圣女今天也在好好努力（大概）v1.2.8-BP048主题精修4\",\"expectedCharacterName\":\"候补圣女今天也在好好努力（大概）v1.2.8-BP048主题精修4\",\"activeAvatar\":\"候补圣女今天也在好好努力（大概）v1.2.8-BP048主题精修4.png\",\"expectedAvatar\":\"候补圣女今天也在好好努力（大概）v1.2.8-BP048主题精修4.png\",\"chatId\":\"候补圣女今天也在好好努力（大概）v1.2.8-BP048主题精修4 - 2026-10-13@11h27m34s596ms\"}"
+    },
+    {
+      "id": "scripts",
+      "ok": true,
+      "detail": "[{\"name\":\"MVU 运行时\",\"content\":74460},{\"name\":\"变量结构\",\"content\":13940}]"
+    },
+    {
+      "id": "script-iframe-registered",
+      "ok": true,
+      "detail": "{\"needed\":false,\"registered\":true,\"iframes\":[\"TH-script--MVU 运行时--edina-mvu-loader\",\"TH-script--变量结构--edina-mvu-schema\"]}"
+    },
+    {
+      "id": "script-whitelist-avatar",
+      "ok": true,
+      "detail": "脚本按头像 true｜正则按头像 true｜头像 候补圣女今天也在好好努力（大概）v1.2.8-BP048主题精修4.png"
+    },
+    {
+      "id": "worldbook-binding",
+      "ok": true,
+      "detail": "候补圣女今天也在好好努力（大概）v1.2.8-BP048主题精修4·内置世界书"
+    },
+    {
+      "id": "worldbook-import",
+      "ok": true,
+      "detail": "{\"attempted\":false,\"embedChid\":null,\"method\":null,\"skipped\":\"未指定 --import\",\"worldFileSeen\":true,\"worldListSize\":74}"
+    },
+    {
+      "id": "worldbook-pack-02",
+      "ok": true,
+      "detail": "条目 221"
+    },
+    {
+      "id": "worldbook-frames",
+      "ok": true,
+      "detail": "检查 6 类框架标记"
+    },
+    {
+      "id": "initvar",
+      "ok": true,
+      "detail": "[{\"comment\":\"[initvar]艾迪娜变量初始化勿开\",\"enabled\":false,\"bytes\":6307}]"
+    },
+    {
+      "id": "mvu-source",
+      "ok": true,
+      "detail": "{\"phase\":\"ready\",\"source\":\"remote-import\",\"message\":\"MVU 已从固定提交远程加载并就绪\",\"commit\":\"dd4f1d92b450dc7eaa1b43e23b6e3fb832c909d1\",\"at\":1791862053628}"
+    },
+    {
+      "id": "mvu-pure-runtime",
+      "ok": true,
+      "detail": "实际来源 remote-import"
+    },
+    {
+      "id": "mvu:update-fence-runtime",
+      "ok": true,
+      "detail": "{\"ok\":true,\"probe\":{\"ok\":true,\"version\":1,\"at\":1791862052843}}"
+    },
+    {
+      "id": "stat-groups",
+      "ok": true,
+      "detail": "[\"基础\",\"身体\",\"情欲\",\"气质\",\"外貌\",\"临时效果\",\"身体改造\",\"装备\",\"物品栏\",\"任务\",\"关系\",\"技能\",\"判定技能\",\"设置\"]"
+    },
+    {
+      "id": "skills-mapping",
+      "ok": true,
+      "detail": "{\"神性封印\":{\"名称\":\"神性封印\",\"位阶\":\"神话\",\"效果\":\"被动。压制全部神力与外放\",\"描述\":\"无形封印锁住远古圣女之力，只留下娇弱易欺的表象。\",\"来源\":\"\"}}"
+    },
+    {
+      "id": "equipment-mapping",
+      "ok": true,
+      "detail": "装备槽 10"
+    },
+    {
+      "id": "initial-equipment-baseline",
+      "ok": true,
+      "detail": "{\"头部\":{\"名称\":\"无\",\"位阶\":\"普通\",\"效果\":\"\",\"描述\":\"\",\"加成\":{\"力量\":0,\"敏捷\":0,\"感知\":0,\"智力\":0,\"生命上限\":0,\"魔力上限\":0,\"圣洁\":0,\"魅力\":0,\"诱惑\":0,\"威严\":0,\"羞耻\":0,\"敏感\":0,\"欲望\":0,\"堕落\":0},\"技能\":[],\"双手\":false},\"身体\":{\"名称\":\"修女服\",\"位阶\":\"普通\",\"效果\":\"普通教会修女的身份象征，较为保暖，提供基础防护。\",\"描述\":\"黑白分明的修女服，头巾压住银发，衣料一直盖到脖子；露出的纤细手腕与雪颈格外惹眼。\",\"加成\":{\"力量\":0,\"敏捷\":0,\"感知\":0,\"智力\":0,\"生命上限\":5,\"魔力上限\":0,\"圣洁\":4,\"魅力\":0,\"诱惑\":0,\"威严\":2,\"羞耻\":2,\"敏感\":0,\"欲望\":0,\"堕落\":0},\"技能\":[],\"双手\":false},\"下装\":{\"名称\":\"无\",\"位阶\":\"普通\",\"效果\":\"\",\"描述\":\"\",\"加成\":{\"力量\":0,\"敏捷\":0,\"感知\":0,\"智力\":0,\"生命上限\":0,\"魔力上限\":0,\"圣洁\":0,\"魅力\":0,\"诱惑\":0,\"威严\":0,\"羞耻\":0,\"敏感\":0,\"欲望\":0,\"堕落\":0},\"技能\":[],\"双手\":false},\"内衣\":{\"名称\":\"真空\",\"位阶\":\"普通\",\"效果\":\"\",\"描述\":\"没有内衣遮挡，裙摆每一次摩擦都直接落在最敏感的肌肤上；走动时会不自觉地放慢脚步。\",\"加成\":{\"力量\":0,\"敏捷\":0,\"感知\":0,\"智力\":0,\"生命上限\":0,\"魔力上限\":0,\"圣洁\":0,\"魅力\":0,\"诱惑\":0,\"威严\":0,\"羞耻\":4,\"敏感\":4,\"欲望\":0,\"堕落\":0},\"技能\":[],\"双手\":false},\"腿部\":{\"名称\":\"无\",\"位阶\":\"普通\",\"效果\":\"\",\"描述\":\"\",\"加成\":{\"力量\":0,\"敏捷\":0,\"感知\":0,\"智力\":0,\"生命上限\":0,\"魔力上限\":0,\"圣洁\":0,\"魅力\":0,\"诱惑\":0,\"威严\":0,\"羞耻\":0,\"敏感\":0,\"欲望\":0,\"堕落\":0},\"技能\":[],\"双手\":false},\"鞋子\":{\"名称\":\"无\",\"位阶\":\"普通\",\"效果\":\"\",\"描述\":\"\",\"加成\":{\"力量\":0,\"敏捷\":0,\"感知\":0,\"智力\":0,\"生命上限\":0,\"魔力上限\":0,\"圣洁\":0,\"魅力\":0,\"诱惑\":0,\"威严\":0,\"羞耻\":0,\"敏感\":0,\"欲望\":0,\"堕落\":0},\"技能\":[],\"双手\":false},\"主手\":{\"名称\":\"无\",\"位阶\":\"普通\",\"效果\":\"\",\"描述\":\"\",\"加成\":{\"力量\":0,\"敏捷\":0,\"感知\":0,\"智力\":0,\"生命上限\":0,\"魔力上限\":0,\"圣洁\":0,\"魅力\":0,\"诱惑\":0,\"威严\":0,\"羞耻\":0,\"敏感\":0,\"欲望\":0,\"堕落\":0},\"技能\":[],\"双手\":false},\"副手\":{\"名称\":\"无\",\"位阶\":\"普通\",\"效果\":\"\",\"描述\":\"\",\"加成\":{\"力量\":0,\"敏捷\":0,\"感知\":0,\"智力\":0,\"生命上限\":0,\"魔力上限\":0,\"圣洁\":0,\"魅力\":0,\"诱惑\":0,\"威严\":0,\"羞耻\":0,\"敏感\":0,\"欲望\":0,\"堕落\":0},\"技能\":[],\"双手\":false},\"饰品\":{\"名称\":\"无\",\"位阶\":\"普通\",\"效果\":\"\",\"描述\":\"\",\"加成\":{\"力量\":0,\"敏捷\":0,\"感知\":0,\"智力\":0,\"生命上限\":0,\"魔力上限\":0,\"圣洁\":0,\"魅力\":0,\"诱惑\":0,\"威严\":0,\"羞耻\":0,\"敏感\":0,\"欲望\":0,\"堕落\":0},\"技能\":[],\"双手\":false},\"特殊\":{\"名称\":\"无\",\"位阶\":\"普通\",\"效果\":\"\",\"描述\":\"\",\"加成\":{\"力量\":0,\"敏捷\":0,\"感知\":0,\"智力\":0,\"生命上限\":0,\"魔力上限\":0,\"圣洁\":0,\"魅力\":0,\"诱惑\":0,\"威严\":0,\"羞耻\":0,\"敏感\":0,\"欲望\":0,\"堕落\":0},\"技能\":[],\"双手\":false}}"
+    },
+    {
+      "id": "initial-items-baseline",
+      "ok": true,
+      "detail": "[]"
+    },
+    {
+      "id": "initial-attributes-baseline",
+      "ok": true,
+      "detail": "{\"基础\":{\"姓名\":\"艾迪娜·晨曦\",\"等级\":1,\"位阶\":\"普通\",\"明面声望\":10,\"明面声望描述\":\"在教区里只是不起眼的候补圣女，名声还没有真正传开。\",\"暗地声望\":10,\"暗地声望描述\":\"暗地里的存在感不高，偶尔会被人当成不值一提的小圣女。\",\"金钱\":300,\"金钱描述\":\"\",\"经验\":0,\"升级所需\":50,\"属性点\":0,\"生命\":100,\"生命上限\":100,\"魔力\":100,\"魔力上限\":100,\"力量\":8,\"敏捷\":8,\"感知\":8,\"智力\":8,\"力量描述\":\"力气只够应付日常活计，搬重一点的东西就会脸红喘气。\",\"敏捷描述\":\"脚步轻快但还不够稳，跑久了就会露出疲惫的破绽。\",\"感知描述\":\"对风向、脚步和旁人情绪都算敏锐，只是还缺少真正的历练。\",\"智力描述\":\"读得懂经文与礼法，也能在临场判断中保持清醒，但远未到运筹帷幄。\",\"当前地点\":\"边陲教区-旧礼拜堂-堂前石阶\",\"日期时间\":\"第 1 天 · 清晨\"},\"情欲\":{\"欲望\":0,\"敏感\":0,\"羞耻\":0,\"堕落\":0}}"
+    },
+    {
+      "id": "task-mapping",
+      "ok": true,
+      "detail": "任务键 曾经的永恒圣女"
+    },
+    {
+      "id": "economy-mapping",
+      "ok": true,
+      "detail": "{\"明面声望\":10,\"暗地声望\":10,\"金钱\":300}"
+    },
+    {
+      "id": "relations-mapping",
+      "ok": true,
+      "detail": "开放名册初始 0 人（名字键）"
+    },
+    {
+      "id": "profile-schema",
+      "ok": true,
+      "detail": "总体描述、完整罩杯句与开放名册（名字键）结构存在"
+    },
+    {
+      "id": "growth-fields",
+      "ok": true,
+      "detail": "{\"经验\":0,\"升级所需\":50,\"属性点\":0}"
+    },
+    {
+      "id": "message-frames",
+      "ok": true,
+      "detail": "TH-message 2"
+    },
+    {
+      "id": "worldbook-prompt-order",
+      "ok": true,
+      "detail": "{\"ok\":true,\"promptChars\":135431,\"positions\":{\"core\":3,\"optionalRule\":9160,\"person\":31500,\"world\":43051,\"location\":56203,\"event\":56915,\"nsfw\":58759}}"
+    },
+    {
+      "id": "opening-ui",
+      "ok": true,
+      "detail": "{\"world\":\"\\n    圣辉大陆\\n    晨曦教会守护圣火，王冠诸国维持道路，星象院追踪裂隙。你可以以候补圣女艾迪娜的身份踏上遴选之路，也可以换一位角色、换一条线开局。所有开局都从平稳日常起步。\\n    圣女遴选冒险委托关系与位阶圣辉世界\\n  \",\"tags\":[\"圣女遴选\",\"冒险委托\",\"关系与位阶\",\"圣辉世界\"],\"options\":[\"1 · 出身她从哪里来，要做什么\",\"2 · 实力位阶·能力·判定技能\",\"3 · 装备道具随身的底牌\",\"4 · 外貌身材详细捏形与开发度\",\"5 · NSFW 属性敏感度·边界·档位\",\"6 · 总览确认并生成开局\"]}"
+    },
+    {
+      "id": "all-tabs",
+      "ok": true,
+      "detail": "[{\"id\":\"look\",\"visible\":true,\"selected\":true},{\"id\":\"nsfw\",\"visible\":true,\"selected\":true},{\"id\":\"attr\",\"visible\":true,\"selected\":true},{\"id\":\"gear\",\"visible\":true,\"selected\":true},{\"id\":\"task\",\"visible\":true,\"selected\":true},{\"id\":\"rel\",\"visible\":true,\"selected\":true}]"
+    },
+    {
+      "id": "panel-layout-initial",
+      "ok": true,
+      "detail": "{\"viewport\":{\"width\":735,\"height\":726},\"root\":{\"clientWidth\":733,\"scrollWidth\":733,\"clientHeight\":708,\"scrollHeight\":708},\"nav\":{\"clientWidth\":733,\"scrollWidth\":733},\"squeezedButtons\":[]}"
+    },
+    {
+      "id": "hud-bonus-order",
+      "ok": true,
+      "detail": "{\"ok\":true,\"order\":[\"力量\",\"敏捷\",\"感知\",\"智力\",\"生命上限\",\"魔力上限\",\"圣洁\",\"魅力\",\"诱惑\",\"威严\",\"羞耻\",\"敏感\",\"欲望\",\"堕落\"]}"
+    },
+    {
+      "id": "panel-settings-theme-text",
+      "ok": false,
+      "detail": "{\"api\":true,\"themeOrnate\":true,\"themeClassic\":true,\"themeStored\":true,\"textOverridden\":false,\"textPersisted\":false,\"textRestored\":true,\"editMode\":true,\"settingsDrawer\":true}"
+    },
+    {
+      "id": "panel-settings-feature-switches",
+      "ok": true,
+      "detail": "{\"nsfw\":{\"before\":true,\"after\":false},\"tier\":{\"before\":\"女性精选·男关\",\"after\":\"女性全开·男关\",\"restored\":\"女性精选·男关\"},\"mode\":{\"before\":{\"mode\":\"随AI输出\",\"reminder\":true},\"changed\":{\"mode\":\"额外模型解析\",\"reminder\":false}},\"tierClickMethod\":{\"method\":\"real\",\"before\":{\"disabled\":false,\"tag\":\"BUTTON\",\"text\":\"女性全开·男关\"},\"attempts\":[{\"attempt\":1,\"method\":\"real\"}]},\"tierRestoreMethod\":{\"method\":\"real\",\"before\":{\"disabled\":false,\"tag\":\"BUTTON\",\"text\":\"女性精选·男关\"},\"attempts\":[{\"attempt\":1,\"method\":\"real\"}]},\"tierDiag\":{\"tip\":\"NSFW角色档已切换为「女性全开·男关」\",\"status\":\"NSFW角色档已切换为「女性全开·男关」。\",\"lastWriteError\":\"\",\"pending\":0,\"buttons\":[\"女性精选·男关:false:enabled\",\"女性全开·男关:true:enabled\",\"女性精选·男开:false:enabled\",\"全开:false:enabled\"],\"settingsDelegated\":true,\"settingsLayerPresent\":true,\"nsfwDelegated\":true,\"trace\":[\"pointerdown:BUTTON:女性全开·男关:女性全开·男\",\"mousedown:BUTTON:女性全开·男关:女性全开·男\",\"mouseup:BUTTON:女性全开·男关:女性全开·男\",\"click:BUTTON:女性全开·男关:女性全开·男\"]}}"
+    },
+    {
+      "id": "nsfw-tier-real-click",
+      "ok": true,
+      "detail": "{\"tierClickMethod\":{\"method\":\"real\",\"before\":{\"disabled\":false,\"tag\":\"BUTTON\",\"text\":\"女性全开·男关\"},\"attempts\":[{\"attempt\":1,\"method\":\"real\"}]},\"tierRestoreMethod\":{\"method\":\"real\",\"before\":{\"disabled\":false,\"tag\":\"BUTTON\",\"text\":\"女性精选·男关\"},\"attempts\":[{\"attempt\":1,\"method\":\"real\"}]}}"
+    },
+    {
+      "id": "relation-partial-full-update",
+      "ok": true,
+      "detail": "{\"ok\":true,\"person\":{\"名字\":\"尤利娅\",\"身份\":\"晨曦大教堂神殿见习斥候，本届圣女候选之一\",\"身份标签\":\"见习斥候\",\"位阶\":\"稀有\",\"好感\":14,\"标签\":\"陌生\",\"在场\":true,\"性别\":\"女\",\"一句话\":\"元气满满的见习斥候。\",\"外貌\":\"暖橙色短发元气少女，笑起来有小虎牙。\",\"身材\":\"娇小灵动，腰肢纤细结实。\",\"穿着\":\"轻便短小的白色见习学徒斗篷。\",\"NSFW状态\":{\"嘴唇\":\"唇形饱满润泽。\",\"胸部\":\"\",\"阴部\":\"\",\"臀部\":\"\",\"肛门\":\"\",\"子宫\":\"\"},\"等级\":8,\"属性\":{\"力量\":9,\"敏捷\":14,\"感知\":7,\"智力\":12},\"装备\":[{\"名称\":\"见习短弓\",\"位阶\":\"普通\",\"效果\":\"远程骚扰\",\"描述\":\"轻便短弓\"},{\"名称\":\"白棉短靴\",\"位阶\":\"普通\",\"效果\":\"急停稳定\",\"描述\":\"刷洗得很干净\"}],\"技能\":[{\"名称\":\"疾步追踪\",\"位阶\":\"稀有\",\"效果\":\"大幅提速\",\"描述\":\"顺着脚印前行\"},{\"名称\":\"危机第六感\",\"位阶\":\"稀有\",\"效果\":\"预警埋伏\",\"描述\":\"耳朵一动\"}],\"头像\":\"\"},\"commands\":[{\"op\":\"replace\",\"path\":\"/关系/名册/尤利娅/好感\",\"value\":14}]}"
+    },
+    {
+      "id": "relation-auto-repair",
+      "ok": true,
+      "detail": "{\"ok\":true,\"person\":{\"名字\":\"克拉拉\",\"好感\":10,\"身份\":\"晨曦大教堂高阶执事修女\",\"身份标签\":\"高阶修女\",\"位阶\":\"精英\",\"在场\":true,\"标签\":\"陌生\",\"性别\":\"女\",\"外貌\":\"及腰乌黑长发，淡紫眼眸温婉微笑。\",\"身材\":\"身段妖娆多姿，柳腰极细。\",\"穿着\":\"暗黑修女长裙垂坠顺滑。\",\"等级\":18,\"属性\":{\"力量\":8,\"敏捷\":11,\"感知\":21,\"智力\":10},\"装备\":[{\"名称\":\"黑檀祈祷书\",\"位阶\":\"稀有\",\"效果\":\"引导净化术\",\"描述\":\"书脊缠着黑色丝带。\"},{\"名称\":\"银刃裁纸刀\",\"位阶\":\"普通\",\"效果\":\"近身防卫\",\"描述\":\"刀柄铭刻十字圣纹。\"}],\"技能\":[{\"名称\":\"圣痕共鸣\",\"位阶\":\"精英\",\"效果\":\"感知神术波动\",\"描述\":\"指尖划过虚空。\"},{\"名称\":\"禁忌净化术\",\"位阶\":\"精英\",\"效果\":\"驱散精神污染\",\"描述\":\"温柔的危险低语。\"}],\"头像\":\"\"},\"commands\":[{\"op\":\"add\",\"path\":\"/关系/名册/克拉拉\",\"value\":{\"名字\":\"克拉拉\",\"好感\":10,\"身份\":\"晨曦大教堂高阶执事修女\",\"身份标签\":\"高阶修女\",\"位阶\":\"精英\",\"在场\":true,\"标签\":\"陌生\",\"性别\":\"女\",\"外貌\":\"及腰乌黑长发，淡紫眼眸温婉微笑。\",\"身材\":\"身段妖娆多姿，柳腰极细。\",\"穿着\":\"暗黑修女长裙垂坠顺滑。\",\"等级\":18,\"属性\":{\"力量\":8,\"敏捷\":11,\"感知\":21,\"智力\":10},\"装备\":[{\"名称\":\"黑檀祈祷书\",\"位阶\":\"稀有\",\"效果\":\"引导净化术\",\"描述\":\"书脊缠着黑色丝带。\"},{\"名称\":\"银刃裁纸刀\",\"位阶\":\"普通\",\"效果\":\"近身防卫\",\"描述\":\"刀柄铭刻十字圣纹。\"}],\"技能\":[{\"名称\":\"圣痕共鸣\",\"位阶\":\"精英\",\"效果\":\"感知神术波动\",\"描述\":\"指尖划过虚空。\"},{\"名称\":\"禁忌净化术\",\"位阶\":\"精英\",\"效果\":\"驱散精神污染\",\"描述\":\"温柔的危险低语。\"}],\"头像\":\"\"}}],\"phase\":null}"
+    },
+    {
+      "id": "relation-auto-repair-ui",
+      "ok": true,
+      "detail": "{\"names\":[\"维多利亚\",\"尤利娅\",\"克拉拉\"],\"detail\":\"维多利亚\",\"text\":\"更换头像维多利亚晨曦圣骑士团首席骑士，本届圣女候选之一精英圣女候选开放名册女NSFW·自动陌生好感 -5好感 +5删除人物概览外貌装备技能NSFW晨曦圣骑士团首席骑士，本届圣女候选之一好感度10档案完整度100%身份晨曦圣骑士团首席骑士，本届圣女候选之一身份标签圣女候选位阶精英等级Lv. 18名册类别开放名册性别女关系阶段陌生在场在场关系标签陌生一句话未填写⚔️ 基础属性力量16敏捷12感知10智力10\",\"currentNames\":[\"维多利亚\",\"尤利娅\",\"克拉拉\"],\"localLatestNames\":[\"维多利亚\",\"尤利娅\",\"克拉拉\"],\"parentLatestNames\":[\"维多利亚\",\"尤利娅\",\"克拉拉\"],\"sameMvu\":true,\"signatureNames\":[\"维多利亚\",\"尤利娅\",\"克拉拉\"],\"diag\":\"MVU 已同步：基础 / 身体 / 情欲 / 气质 / 外貌 / 临时效果 / 身体改造 / 装备 / 物品栏 / 任务 / 关系 / 技能 / 判定技能 / 设置\"}"
+    },
+    {
+      "id": "relation-auto-repair-ui-direct-refresh",
+      "ok": true,
+      "detail": "{\"type\":\"function\",\"before\":[\"维多利亚\",\"尤利娅\",\"克拉拉\"],\"after\":[\"维多利亚\",\"尤利娅\",\"克拉拉\"]}"
+    },
+    {
+      "id": "profile-ui",
+      "ok": true,
+      "detail": "{\"tab\":\"look\",\"portraitReady\":true,\"portraitSrc\":\"http://127.0.0.1:8000/characters/%E5%80%99%E8%A1%A5%E5%9C%A3%E5%A5%B3%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E5%A5%BD%E5%A5%BD%E5%8A%AA%E5%8A%9B%EF%BC%88%E5%A4%A7%E6%A6%82%EF%BC%89v1.2.8-BP048%E4%B8%BB%E9%A2%98%E7%B2%BE%E4%BF%AE4.png\",\"portraitNaturalWidth\":1280,\"overall\":\"身姿娇小的银发赤瞳圣女，微卷银发垂落腰际，肌肤白皙，半垂红瞳带着刚醒的朦胧；体态娇小丰腴，腰肢纤细，胸前曲线饱满，圣洁与慵懒形成柔和反差。\",\"figureCells\":[\"身高约 155cm，站在多数人身边都显得娇小\",\"罩杯G罩杯，乳房饱满浑圆，乳晕较小，颜色是柔和的樱花粉，触感与形状会随姿态轻轻变化。\",\"三围B98 / W56 / H90\"],\"cupText\":\"罩杯G罩杯，乳房饱满浑圆，乳晕较小，颜色是柔和的樱花粉，触感与形状会随姿态轻轻变化。\",\"legacyLookNodes\":0,\"tempEffectSectionHidden\":false,\"tempEffectText\":\"暂无临时效果\",\"legacyTierBadge\":false,\"overviewColumns\":\"242px 242px\",\"modsText\":\"没有身体改造\",\"headerRank\":\"LV 1 · 普通\",\"economy\":{\"public\":\"10\",\"secret\":\"10\",\"money\":\"300G\",\"text\":\"\\n    \\n      明面声望10\\n      在教区里只是不起眼的候补圣女，名声还没有真正传开。\\n    \\n    \\n      暗地声望10\\n      暗地里的存在感不高，偶尔会被人当成不值一提的小圣女。\\n    \\n    \\n      金钱300G\\n      够一户普通人家舒舒服服过上一年，对候补圣女而言十分清贫。\\n    \\n  \"}}"
+    },
+    {
+      "id": "economy-ui",
+      "ok": true,
+      "detail": "{\"public\":\"10\",\"secret\":\"10\",\"money\":\"300G\",\"text\":\"\\n    \\n      明面声望10\\n      在教区里只是不起眼的候补圣女，名声还没有真正传开。\\n    \\n    \\n      暗地声望10\\n      暗地里的存在感不高，偶尔会被人当成不值一提的小圣女。\\n    \\n    \\n      金钱300G\\n      够一户普通人家舒舒服服过上一年，对候补圣女而言十分清贫。\\n    \\n  \"}"
+    },
+    {
+      "id": "profile-overview",
+      "ok": true,
+      "detail": "{\"figureCells\":[\"身高约 155cm，站在多数人身边都显得娇小\",\"罩杯G罩杯，乳房饱满浑圆，乳晕较小，颜色是柔和的樱花粉，触感与形状会随姿态轻轻变化。\",\"三围B98 / W56 / H90\"],\"cupText\":\"罩杯G罩杯，乳房饱满浑圆，乳晕较小，颜色是柔和的樱花粉，触感与形状会随姿态轻轻变化。\",\"legacyLookNodes\":0,\"tempHidden\":false,\"tempText\":\"暂无临时效果\",\"mods\":\"没有身体改造\",\"overviewColumns\":\"242px 242px\",\"legacyTierBadge\":false}"
+    },
+    {
+      "id": "attribute-ui",
+      "ok": true,
+      "detail": "{\"visible\":true,\"growth\":\"经验 EXP0 / 50可分配属性点0晋升路线稀有 · 等级 1/7 · 属性 2/2 · 待剧情突破\",\"cards\":[{\"value\":\"8\",\"name\":\"力量 STR\",\"tier\":\"普通\",\"desc\":\"力气只够应付日常活计，搬重一点的东西就会脸红喘气。\"},{\"value\":\"8\",\"name\":\"敏捷 AGI\",\"tier\":\"普通\",\"desc\":\"脚步轻快但还不够稳，跑久了就会露出疲惫的破绽。\"},{\"value\":\"8\",\"name\":\"感知 PER\",\"tier\":\"普通\",\"desc\":\"对风向、脚步和旁人情绪都算敏锐，只是还缺少真正的历练。\"},{\"value\":\"8\",\"name\":\"智力 INT\",\"tier\":\"普通\",\"desc\":\"读得懂经文与礼法，也能在临场判断中保持清醒，但远未到运筹帷幄。\"}]}"
+    },
+    {
+      "id": "desktop-stat-grid-2col",
+      "ok": true,
+      "detail": "{\"tracks\":2,\"cards\":4,\"rows\":2,\"innerWidth\":735}"
+    },
+    {
+      "id": "growth-ui",
+      "ok": true,
+      "detail": "经验 EXP0 / 50可分配属性点0晋升路线稀有 · 等级 1/7 · 属性 2/2 · 待剧情突破"
+    },
+    {
+      "id": "task-ui",
+      "ok": true,
+      "detail": "{\"count\":2,\"compactFields\":true,\"deleteButtons\":1,\"fields\":[\"任务键\",\"类型与状态\",\"来源\",\"触发条件\",\"阶段\",\"描述\",\"完成条件\",\"当前进度\",\"奖励\",\"失败影响\",\"结算记录\"]}"
+    },
+    {
+      "id": "task-settlement",
+      "ok": true,
+      "detail": "{\"taskBefore\":{\"status\":\"进行中\",\"money\":300,\"mainlineProgress\":\"你刚刚醒来，世界仍在眼前展开。\"},\"taskAfter\":{\"status\":\"已完成\",\"progress\":\"已完成，奖励已结算\",\"settled\":true,\"money\":340,\"mainlineProgress\":\"你刚刚醒来，世界仍在眼前展开。\",\"writeError\":\"\",\"pending\":0}}"
+    },
+    {
+      "id": "interaction-item-use-to-input",
+      "ok": true,
+      "detail": "{\"inputBeforeUse\":\"\",\"inputAfterUse\":\"使用了[治疗药水]\",\"clicked\":{\"ok\":true,\"detail\":\"🧪治疗药水位阶 普通 · 背包 · 道具 · 数量 2使用物品 · 效果恢复 20 点生命物品 · 描述透明小瓶里漂着微光。\"}}"
+    },
+    {
+      "id": "gear-ui",
+      "ok": true,
+      "detail": "{\"visible\":true,\"equipmentView\":{\"tabs\":4,\"items\":10,\"name\":\"修女服\",\"meta\":\"位阶 普通 · 槽位 · 身体\",\"fields\":4,\"bodyOptions\":[\"无\",\"修女服\"]},\"underwearOptions\":[\"真空\"],\"emptySlotOptions\":{\"头部\":[\"无\"],\"下装\":[\"无\"],\"腿部\":[\"无\"],\"鞋子\":[\"无\"],\"主手\":[\"无\",\"备用短剑\"],\"副手\":[\"无\"],\"饰品\":[\"无\"],\"特殊\":[\"无\"]},\"itemView\":{\"items\":3,\"headings\":[\"装备 · 1\",\"道具 · 1\",\"杂物 · 1\"],\"name\":\"备用短剑\",\"meta\":\"位阶 普通 · 背包 · 装备 · 槽位 主手 · 数量 1\",\"fields\":2,\"emptyText\":\"\"},\"skillView\":{\"items\":1,\"name\":\"神性封印\",\"meta\":\"位阶 神话 · 技能\",\"fields\":2}}"
+    },
+    {
+      "id": "gear-direct-write",
+      "ok": true,
+      "detail": "{\"before\":\"修女服\",\"after\":\"无\",\"inputBefore\":\"\",\"inputAfter\":\"\",\"bonusBefore\":{\"圣洁\":30,\"羞耻\":0,\"位阶\":\"普通\",\"加成\":{\"力量\":0,\"敏捷\":0,\"感知\":0,\"智力\":0,\"生命上限\":5,\"魔力上限\":0,\"圣洁\":4,\"魅力\":0,\"诱惑\":0,\"威严\":2,\"羞耻\":2,\"敏感\":0,\"欲望\":0,\"堕落\":0}},\"bonusAfter\":{\"圣洁\":30,\"羞耻\":0,\"位阶\":\"普通\",\"加成\":{}},\"inventoryAfterUnequip\":[{\"名称\":\"修女服\",\"类别\":\"装备\",\"槽位\":\"身体\",\"数量\":1,\"位阶\":\"普通\",\"效果\":\"普通教会修女的身份象征，较为保暖，提供基础防护。\",\"描述\":\"黑白分明的修女服，头巾压住银发，衣料一直盖到脖子；露出的纤细手腕与雪颈格外惹眼。\",\"加成\":{\"力量\":0,\"敏捷\":0,\"感知\":0,\"智力\":0,\"生命上限\":5,\"魔力上限\":0,\"圣洁\":4,\"魅力\":0,\"诱惑\":0,\"威严\":2,\"羞耻\":2,\"敏感\":0,\"欲望\":0,\"堕落\":0},\"技能\":[],\"双手\":false}],\"writeError\":\"\",\"equipmentDebug\":{\"change\":null,\"write\":null,\"writeError\":\"\"}}"
+    },
+    {
+      "id": "gear-transfer-to-inventory",
+      "ok": true,
+      "detail": "[{\"名称\":\"修女服\",\"类别\":\"装备\",\"槽位\":\"身体\",\"数量\":1,\"位阶\":\"普通\",\"效果\":\"普通教会修女的身份象征，较为保暖，提供基础防护。\",\"描述\":\"黑白分明的修女服，头巾压住银发，衣料一直盖到脖子；露出的纤细手腕与雪颈格外惹眼。\",\"加成\":{\"力量\":0,\"敏捷\":0,\"感知\":0,\"智力\":0,\"生命上限\":5,\"魔力上限\":0,\"圣洁\":4,\"魅力\":0,\"诱惑\":0,\"威严\":2,\"羞耻\":2,\"敏感\":0,\"欲望\":0,\"堕落\":0},\"技能\":[],\"双手\":false}]"
+    },
+    {
+      "id": "gear-bonus-no-double-count",
+      "ok": true,
+      "detail": "{\"before\":{\"圣洁\":30,\"羞耻\":0,\"位阶\":\"普通\",\"加成\":{\"力量\":0,\"敏捷\":0,\"感知\":0,\"智力\":0,\"生命上限\":5,\"魔力上限\":0,\"圣洁\":4,\"魅力\":0,\"诱惑\":0,\"威严\":2,\"羞耻\":2,\"敏感\":0,\"欲望\":0,\"堕落\":0}},\"after\":{\"圣洁\":30,\"羞耻\":0,\"位阶\":\"普通\",\"加成\":{}}}"
+    },
+    {
+      "id": "equipment-skill-auto-sync",
+      "ok": true,
+      "detail": "{\"skill\":{\"名称\":\"同步测试祝福\",\"位阶\":\"普通\",\"效果\":\"装备时提供测试技能。\",\"描述\":\"只用于自动同步验证。\",\"来源\":\"装备：特殊\"},\"equipment\":{\"名称\":\"同步测试圣铃\",\"位阶\":\"稀有\",\"效果\":\"装备时提供测试技能。\",\"描述\":\"只用于自动同步验证。\",\"加成\":{\"力量\":12},\"技能\":[\"同步测试祝福\"],\"双手\":false}}"
+    },
+    {
+      "id": "interaction-stat-card-wrap-plus12",
+      "ok": true,
+      "detail": "{\"found\":true,\"paneOn\":true,\"text\":\"20（+12）\\n力量 STR\\n熟练\\n力气只够应付日常活计，搬重一点的东西就会脸红喘气。\",\"value\":\"20（+12）\",\"flexWrap\":\"wrap\",\"cardClientWidth\":350,\"cardScrollWidth\":350,\"topClientWidth\":334,\"topScrollWidth\":334}"
+    },
+    {
+      "id": "battle-ui-removed",
+      "ok": true,
+      "detail": "{\"battleTabCount\":0,\"battlePaneCount\":0,\"visibleTabs\":[\"总览\",\"NSFW\",\"属性\",\"装备道具\",\"任务\",\"关系\"]}"
+    },
+    {
+      "id": "relation-ui",
+      "ok": true,
+      "detail": "{\"seededRelation\":true,\"visible\":true,\"cards\":2,\"names\":[\"维多利亚\",\"尤利娅\"],\"filters\":[\"全部 2\",\"在场 2\",\"不在场 0\",\"女性 2\"],\"firstIdentity\":\"晨曦圣骑士团首席骑士，本届圣女候选之一\",\"detailName\":\"维多利亚\",\"hasRankField\":true,\"detailTabs\":[\"概览\",\"外貌\",\"装备技能\",\"NSFW\"]}"
+    },
+    {
+      "id": "avatar:controls",
+      "ok": true,
+      "detail": "{\"mainButton\":true,\"relationButton\":true,\"folderButton\":true}"
+    },
+    {
+      "id": "avatar:viewer",
+      "ok": true,
+      "detail": "{\"mainSource\":\"http://127.0.0.1:8000/characters/%E5%80%99%E8%A1%A5%E5%9C%A3%E5%A5%B3%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E5%A5%BD%E5%A5%BD%E5%8A%AA%E5%8A%9B%EF%BC%88%E5%A4%A7%E6%A6%82%EF%BC%89v1.2.8-BP048%E4%B8%BB%E9%A2%98%E7%B2%BE%E4%BF%AE4.png\",\"mainOpen\":{\"open\":true,\"source\":\"http://127.0.0.1:8000/characters/%E5%80%99%E8%A1%A5%E5%9C%A3%E5%A5%B3%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E5%A5%BD%E5%A5%BD%E5%8A%AA%E5%8A%9B%EF%BC%88%E5%A4%A7%E6%A6%82%EF%BC%89v1.2.8-BP048%E4%B8%BB%E9%A2%98%E7%B2%BE%E4%BF%AE4.png\",\"caption\":\"艾迪娜·晨曦\"},\"mainClosed\":true,\"relationSource\":\"https://raw.githubusercontent.com/chenmomizhi-arch/sillytavern--juesekacangku/main/projects/edina-dawn/portraits/victoria.webp\",\"relationOpen\":{\"open\":true,\"source\":\"https://raw.githubusercontent.com/chenmomizhi-arch/sillytavern--juesekacangku/main/projects/edina-dawn/portraits/victoria.webp\",\"caption\":\"维多利亚\"},\"relationClosed\":true}"
+    },
+    {
+      "id": "avatar:url-local-override",
+      "ok": true,
+      "detail": "{\"firstDialogs\":[\"confirm\",\"prompt\"],\"resetDialogs\":[\"confirm\",\"prompt\"],\"afterSet\":{\"avatar\":\"\",\"localStorageKeys\":1},\"displayedAfterSet\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAusB9Y9Z9ZkAAAAASUVORK5CYII=\",\"afterReset\":{\"avatar\":\"\",\"localStorageKeys\":0}}"
+    },
+    {
+      "id": "avatar:local-file",
+      "ok": true,
+      "detail": "{\"avatar\":\"\",\"displayed\":true,\"localKeys\":1}"
+    },
+    {
+      "id": "avatar:local-folder",
+      "ok": true,
+      "detail": "{\"localKeys\":3,\"displayed\":true,\"mvuAvatar\":\"\"}"
+    },
+    {
+      "id": "relation-subtabs",
+      "ok": true,
+      "detail": "单角色 NSFW 开关自动跟随分档；开启/关闭可单独覆盖。自动开启关闭跟随“女性精选”：由变量更新模型按人物定位判断；只有明确的女性魅力/亲密吸引力定位才会补写"
+    },
+    {
+      "id": "relation-gaze",
+      "ok": true,
+      "detail": "单角色 NSFW 开关自动跟随分档；开启/关闭可单独覆盖。自动开启关闭跟随“女性精选”：由变量更新模型按人物定位判断；只有明确的女性魅力/亲密吸引力定位才会补写"
+    },
+    {
+      "id": "relation-nsfw-switch",
+      "ok": true,
+      "detail": "{\"switchLabels\":[\"自动\",\"开启\",\"关闭\"],\"switchOwner\":\"维多利亚\",\"switchClickMethods\":[{\"method\":\"real\",\"before\":{\"disabled\":false,\"tag\":\"BUTTON\",\"text\":\"关闭\"},\"attempts\":[{\"attempt\":1,\"method\":\"real\"}]},{\"method\":\"real\",\"before\":{\"disabled\":false,\"tag\":\"BUTTON\",\"text\":\"开启\"},\"attempts\":[{\"attempt\":1,\"method\":\"real\"}]},{\"method\":\"real\",\"before\":{\"disabled\":false,\"tag\":\"BUTTON\",\"text\":\"自动\"},\"attempts\":[{\"attempt\":1,\"method\":\"real\"}]}],\"switchDiags\":[{\"tip\":\"维多利亚 的 NSFW 开关已设为「关闭」\",\"lastWriteError\":\"\",\"pending\":0,\"on\":[\"关闭\"],\"owner\":\"维多利亚\",\"nsfwDelegated\":true,\"trace\":[]},{\"tip\":\"维多利亚 的 NSFW 开关已设为「开启」\",\"lastWriteError\":\"\",\"pending\":0,\"on\":[\"开启\"],\"owner\":\"维多利亚\",\"nsfwDelegated\":true,\"trace\":[]},{\"tip\":\"维多利亚 的 NSFW 开关已设为「自动」\",\"lastWriteError\":\"\",\"pending\":0,\"on\":[\"自动\"],\"owner\":\"维多利亚\",\"nsfwDelegated\":true,\"trace\":[]}],\"tierOff\":\"关闭\",\"tierOn\":\"开启\",\"tierAuto\":\"自动\"}"
+    },
+    {
+      "id": "nsfw-switch-real-click",
+      "ok": true,
+      "detail": "[{\"method\":\"real\",\"before\":{\"disabled\":false,\"tag\":\"BUTTON\",\"text\":\"关闭\"},\"attempts\":[{\"attempt\":1,\"method\":\"real\"}]},{\"method\":\"real\",\"before\":{\"disabled\":false,\"tag\":\"BUTTON\",\"text\":\"开启\"},\"attempts\":[{\"attempt\":1,\"method\":\"real\"}]},{\"method\":\"real\",\"before\":{\"disabled\":false,\"tag\":\"BUTTON\",\"text\":\"自动\"},\"attempts\":[{\"attempt\":1,\"method\":\"real\"}]}]"
+    },
+    {
+      "id": "direct-affinity-write",
+      "ok": true,
+      "detail": "{\"beforeAffinity\":10,\"afterAffinity\":15,\"writeMethod\":\"pointer\",\"inputBeforeWrite\":\"\",\"inputAfterWrite\":\"\",\"tipAfterWrite\":\"维多利亚 好感已写入（+5）\",\"writeError\":\"\"}"
+    },
+    {
+      "id": "relation-detail-ui",
+      "ok": true,
+      "detail": "{\"name\":\"维多利亚\",\"bars\":2,\"chars\":203}"
+    },
+    {
+      "id": "relation-gear-skill",
+      "ok": true,
+      "detail": "{\"tabs\":[\"概览\",\"外貌\",\"装备技能\",\"NSFW\"],\"hasEquipTitle\":true,\"hasSkillTitle\":true,\"cards\":[\"精英白金佩剑效果：近战主武器，剑刃附带圣光附魔。剑身细长，护手刻着骑士团狮纹。\",\"精英圣卫轻甲效果：提供稳定防护，不影响行动。白金甲片贴合身形，内衬是吸汗白棉。\",\"稀有圣光斩效果：向前挥出一道圣光，造成伤害并短暂压制。剑锋过处会留下一线白光。\",\"精英盾防阵型效果：举盾格挡，替身边同伴分担伤害。她把盾面斜向上举，肩膀抵住盾背。\"]}"
+    },
+    {
+      "id": "relation-archive-actions",
+      "ok": true,
+      "detail": "{\"archiveActions\":{\"sync\":1,\"remove\":1,\"listActionContainers\":0,\"listButtons\":0},\"input\":\"[补全人物档案 维多利亚]\\n请先读取卡内与该角色相关的世界书人物条目和当前剧情。该人物已在名册（/关系/名册/维多利亚），本次必须按【针对性更新协议】只对该人物缺失的缺失项或本轮有变化的字段输出单个针对性 replace 补丁，禁止输出完整对象，严禁重复 add 同名人物。\\n缺失项或待补全字段包括：性别、等级、位阶、四项属性（力量/敏捷/感知/智力）、身份、身份标签、外貌、身材、穿着、装备或技能。这是玩家对该角色的明确补全请求：把 /NSFW启用 写成「开启」，并按「嘴唇、胸部、阴部、臀部、肛门、子宫」六项补全当前状态。\\n身份与身份标签不许留空。装备与技能需包含：名称、位阶、效果、描述。请不要改动、重写好感或在场状态，确保现有进度不丢失。\"}"
+    },
+    {
+      "id": "relation-delete-person",
+      "ok": true,
+      "detail": "true"
+    },
+    {
+      "id": "panel-interaction",
+      "ok": true,
+      "detail": "{\"value\":\"[推进一天]\",\"method\":\"pointer-force\"}"
+    },
+    {
+      "id": "responsive-360",
+      "ok": true,
+      "detail": "[{\"name\":\"TH-message--0--0\",\"scrollWidth\":325,\"clientWidth\":325,\"scrollHeight\":1300,\"root\":false,\"opening\":true},{\"name\":\"TH-message--0--1\",\"scrollWidth\":325,\"clientWidth\":325,\"scrollHeight\":729,\"root\":true,\"opening\":false}]"
+    },
+    {
+      "id": "panel-layout-360",
+      "ok": true,
+      "detail": "{\"viewport\":{\"width\":325,\"height\":729},\"root\":{\"clientWidth\":323,\"scrollWidth\":323,\"clientHeight\":658,\"scrollHeight\":658},\"nav\":{\"clientWidth\":323,\"scrollWidth\":323},\"squeezedButtons\":[]}"
+    },
+    {
+      "id": "judge-family-host-render",
+      "ok": true,
+      "detail": "{\"cardCount\":7,\"families\":[\"言语·立场\",\"言语·信息\",\"感知\",\"技艺\",\"物品·交易\",\"肢体·亲密\",\"兜底\"],\"allCollapsed\":true,\"overflow\":false,\"expanded\":{\"open\":true,\"overflow\":false,\"text\":\"💬 判定 · 言语·立场成功展开 / 收起\\n【判定】言语·立场｜1d20 10 + 属性修正 4 + 技能等级 3×2 = 20｜普通 15\\n【结果】第 1 族判定通过。\\n\"}}"
+    },
+    {
+      "id": "judge-theme-geometry",
+      "ok": true,
+      "detail": "{\"geometryStable\":true,\"backgrounds\":[\"linear-gradient(135deg, rgba(32, 29, 24, 0.97), rgba(19, 18, 17, 0.98))\",\"radial-gradient(circle at 0px 0px, rgba(110, 19, 10, 0.42), rgba(0, 0, 0, 0) 34%), linear-gradient(145deg, rgb(27, 20, 16), rgb(14, 12, 16) 74%)\",\"linear-gradient(145deg, rgba(243, 226, 183, 0.99), rgba(210, 181, 134, 0.99))\"]}"
+    },
+    {
+      "id": "task-event-host-render",
+      "ok": true,
+      "detail": "{\"formatted\":\"<p>临时渲染验收。</p>\\n<p></p><details class=\\\"custom-edina-task-card\\\" data-edina-task-event=\\\"1\\\" style=\\\"--ebc-border:rgba(181,140,72,.42);--ebc-strong:#b58c48;--ebc-accent:#e8c889;--ebc-bg:linear-gradient(135deg,rgba(39,34,28,.96),rgba(20,20,21,.97));--ebc-text:#f3e8d2;--ebc-muted:#aa9a7f;--ebc-divider:rgba(181,140,72,.22);--ebc-shadow:0 5px 14px rgba(0,0,0,.18);--ebc-radius:8px;margin:9px 0;overflow:hidden;border:1px solid var(--ebc-border);border-left:4px solid var(--ebc-strong);border-radius:var(--ebc\",\"collapsed\":{\"open\":false,\"overflow\":false,\"summary\":\"📜 任务事件展开 / 收起\"},\"expanded\":{\"open\":true,\"overflow\":false,\"summary\":\"📜 任务事件展开 / 收起\",\"text\":\"📜 任务事件展开 / 收起\\n任务键: render_probe\\n动作: 新建\\n名称: 排版探针\\n类型: 委托\\n状态: 进行中\\n位阶: 普通\\n来源: 渲染测试\\n触发条件: 检查任务事件卡片\\n阶段: 展开检查\\n当前进度: 等待折叠与展开\\n完成条件: 无溢出且可见完整字段\\n奖励: 无\\n失败影响: 无\\n\"},\"screenshotBase\":\"E:\\\\games\\\\deepseek\\\\sillytavern_progress\\\\卡片工程\\\\圣女今天也很努力（大概）！-低智模型测试\\\\reports\\\\real-host-v1.2.8-BP048主题精修4-task-event-1791862159348\"}"
+    },
+    {
+      "id": "battle-snapshot-host-render",
+      "ok": true,
+      "detail": "{\"formatted\":\"<p>临时渲染验收。</p>\\n<p></p><details class=\\\"custom-edina-battle-card custom-edina-battle-card--start\\\" data-edina-battle-snapshot=\\\"start\\\" data-round=\\\"2\\\" style=\\\"--ebc-border:rgba(92,136,184,.46);--ebc-strong:#5c88b8;--ebc-accent:#b9d7f5;--ebc-bg:linear-gradient(135deg,rgba(27,36,49,.97),rgba(17,22,30,.98));--ebc-text:#e8eef7;--ebc-muted:#8298b2;--ebc-divider:rgba(92,136,184,.24);--ebc-shadow:0 5px 14px rgba(0,0,0,.18);--ebc-radius:8px;margin:9px 0;overflow:hidden;border:1px solid var(--ebc-border);border-left:4px solid var(--ebc-strong);border-radius:var(--ebc-radius);background:var(--ebc-bg);color:var(--ebc-text);box-shadow:var(--ebc-shadow)\\\"><summary style=\\\"display:flex;align-items:center;gap:8px;\",\"collapsed\":[{\"phase\":\"start\",\"open\":false,\"overflow\":false,\"summary\":\"⚔ 战斗快照 · 第 2 回合开始展开 / 收起\"},{\"phase\":\"end\",\"open\":false,\"overflow\":false,\"summary\":\"⚔ 战斗快照 · 第 2 回合结束展开 / 收起\"}],\"expanded\":[{\"phase\":\"start\",\"open\":true,\"overflow\":false,\"text\":\"⚔ 战斗快照 · 第 2 回合开始展开 / 收起\\n【我方】艾迪娜｜HP 100/100｜MP 96/100｜攻击 16｜防御 6\\n【友方】维多利亚｜HP 148/160｜MP 40/40｜攻击 22｜防御 9\\n【敌方】泥沼魔蝇｜HP 21/35｜攻击 7｜防御 1\\n\"},{\"phase\":\"end\",\"open\":true,\"overflow\":false,\"text\":\"⚔ 战斗快照 · 第 2 回合结束展开 / 收起\\n【我方】艾迪娜｜HP 99/100（-1）｜MP 96/100（0）\\n【敌方】泥沼魔蝇｜HP 11/35（-10）\\n【战利品】魔蝇翅膜 x1\\n\"}],\"screenshotBase\":\"E:\\\\games\\\\deepseek\\\\sillytavern_progress\\\\卡片工程\\\\圣女今天也很努力（大概）！-低智模型测试\\\\reports\\\\real-host-v1.2.8-BP048主题精修4-battle-snapshot-1791862160181\",\"actionCardDomCount\":2}"
+    },
+    {
+      "id": "hud-single-per-floor",
+      "ok": true,
+      "detail": "{\"hudCount\":1,\"rawAnchor\":false,\"formatted\":\"<p>临时渲染验收。</p>\\n<pre><code class=\\\"custom-html custom-language-html\\\">&lt;!doctype html&gt;\\n&lt;html lang=\\\"zh-CN\\\"&gt;\\n&lt;head&gt;\\n&lt;meta charset=\\\"utf-8\\\" /&gt;\\n&lt;meta name=\\\"viewport\\\" content=\\\"width=device-width, initial-scale=1\\\" /&gt;\\n&lt;\"}"
+    },
+    {
+      "id": "acceptance-residue-restored",
+      "ok": true,
+      "detail": "{\"ok\":true}"
+    },
+    {
+      "id": "residue-persisted-to-disk",
+      "ok": true,
+      "detail": "{\"savedToDisk\":{\"ok\":true,\"chatId\":\"候补圣女今天也在好好努力（大概）v1.2.8-BP048主题精修4 - 2026-10-13@11h27m34s596ms\"},\"diskCheck\":{\"ok\":true,\"file\":\"候补圣女今天也在好好努力（大概）v1.2.8-BP048主题精修4 - 2026-10-13@11h27m34s596ms.jsonl\"}}"
+    }
+  ],
+  "snapshot": {
+    "status": {
+      "phase": "ready",
+      "source": "remote-import",
+      "message": "MVU 已从固定提交远程加载并就绪",
+      "commit": "dd4f1d92b450dc7eaa1b43e23b6e3fb832c909d1",
+      "at": 1791862053628
+    },
+    "statKeys": [
+      "基础",
+      "身体",
+      "情欲",
+      "气质",
+      "外貌",
+      "临时效果",
+      "身体改造",
+      "装备",
+      "物品栏",
+      "任务",
+      "关系",
+      "技能",
+      "判定技能",
+      "设置"
+    ],
+    "messageFrames": 2
+  },
+  "responsive": [
+    {
+      "name": "TH-message--0--0",
+      "scrollWidth": 325,
+      "clientWidth": 325,
+      "scrollHeight": 1300,
+      "root": false,
+      "opening": true
+    },
+    {
+      "name": "TH-message--0--1",
+      "scrollWidth": 325,
+      "clientWidth": 325,
+      "scrollHeight": 729,
+      "root": true,
+      "opening": false
+    }
+  ],
+  "interaction": "[推进一天]",
+  "worldbookImport": {
+    "attempted": false,
+    "embedChid": null,
+    "method": null,
+    "skipped": "未指定 --import",
+    "worldFileSeen": true,
+    "worldListSize": 74
+  },
+  "scriptWake": {
+    "needed": false,
+    "registered": true,
+    "iframes": [
+      "TH-script--MVU 运行时--edina-mvu-loader",
+      "TH-script--变量结构--edina-mvu-schema"
+    ]
+  },
+  "openingUi": {
+    "world": "\n    圣辉大陆\n    晨曦教会守护圣火，王冠诸国维持道路，星象院追踪裂隙。你可以以候补圣女艾迪娜的身份踏上遴选之路，也可以换一位角色、换一条线开局。所有开局都从平稳日常起步。\n    圣女遴选冒险委托关系与位阶圣辉世界\n  ",
+    "tags": [
+      "圣女遴选",
+      "冒险委托",
+      "关系与位阶",
+      "圣辉世界"
+    ],
+    "options": [
+      "1 · 出身她从哪里来，要做什么",
+      "2 · 实力位阶·能力·判定技能",
+      "3 · 装备道具随身的底牌",
+      "4 · 外貌身材详细捏形与开发度",
+      "5 · NSFW 属性敏感度·边界·档位",
+      "6 · 总览确认并生成开局"
+    ]
+  },
+  "taskEventRender": {
+    "formatted": "<p>临时渲染验收。</p>\n<p></p><details class=\"custom-edina-task-card\" data-edina-task-event=\"1\" style=\"--ebc-border:rgba(181,140,72,.42);--ebc-strong:#b58c48;--ebc-accent:#e8c889;--ebc-bg:linear-gradient(135deg,rgba(39,34,28,.96),rgba(20,20,21,.97));--ebc-text:#f3e8d2;--ebc-muted:#aa9a7f;--ebc-divider:rgba(181,140,72,.22);--ebc-shadow:0 5px 14px rgba(0,0,0,.18);--ebc-radius:8px;margin:9px 0;overflow:hidden;border:1px solid var(--ebc-border);border-left:4px solid var(--ebc-strong);border-radius:var(--ebc",
+    "collapsed": {
+      "open": false,
+      "overflow": false,
+      "summary": "📜 任务事件展开 / 收起"
+    },
+    "expanded": {
+      "open": true,
+      "overflow": false,
+      "summary": "📜 任务事件展开 / 收起",
+      "text": "📜 任务事件展开 / 收起\n任务键: render_probe\n动作: 新建\n名称: 排版探针\n类型: 委托\n状态: 进行中\n位阶: 普通\n来源: 渲染测试\n触发条件: 检查任务事件卡片\n阶段: 展开检查\n当前进度: 等待折叠与展开\n完成条件: 无溢出且可见完整字段\n奖励: 无\n失败影响: 无\n"
+    },
+    "screenshotBase": "E:\\games\\deepseek\\sillytavern_progress\\卡片工程\\圣女今天也很努力（大概）！-低智模型测试\\reports\\real-host-v1.2.8-BP048主题精修4-task-event-1791862159348"
+  },
+  "battleSnapshotRender": {
+    "formatted": "<p>临时渲染验收。</p>\n<p></p><details class=\"custom-edina-battle-card custom-edina-battle-card--start\" data-edina-battle-snapshot=\"start\" data-round=\"2\" style=\"--ebc-border:rgba(92,136,184,.46);--ebc-strong:#5c88b8;--ebc-accent:#b9d7f5;--ebc-bg:linear-gradient(135deg,rgba(27,36,49,.97),rgba(17,22,30,.98));--ebc-text:#e8eef7;--ebc-muted:#8298b2;--ebc-divider:rgba(92,136,184,.24);--ebc-shadow:0 5px 14px rgba(0,0,0,.18);--ebc-radius:8px;margin:9px 0;overflow:hidden;border:1px solid var(--ebc-border);border-left:4px solid var(--ebc-strong);border-radius:var(--ebc-radius);background:var(--ebc-bg);color:var(--ebc-text);box-shadow:var(--ebc-shadow)\"><summary style=\"display:flex;align-items:center;gap:8px;",
+    "collapsed": [
+      {
+        "phase": "start",
+        "open": false,
+        "overflow": false,
+        "summary": "⚔ 战斗快照 · 第 2 回合开始展开 / 收起"
+      },
+      {
+        "phase": "end",
+        "open": false,
+        "overflow": false,
+        "summary": "⚔ 战斗快照 · 第 2 回合结束展开 / 收起"
+      }
+    ],
+    "expanded": [
+      {
+        "phase": "start",
+        "open": true,
+        "overflow": false,
+        "text": "⚔ 战斗快照 · 第 2 回合开始展开 / 收起\n【我方】艾迪娜｜HP 100/100｜MP 96/100｜攻击 16｜防御 6\n【友方】维多利亚｜HP 148/160｜MP 40/40｜攻击 22｜防御 9\n【敌方】泥沼魔蝇｜HP 21/35｜攻击 7｜防御 1\n"
+      },
+      {
+        "phase": "end",
+        "open": true,
+        "overflow": false,
+        "text": "⚔ 战斗快照 · 第 2 回合结束展开 / 收起\n【我方】艾迪娜｜HP 99/100（-1）｜MP 96/100（0）\n【敌方】泥沼魔蝇｜HP 11/35（-10）\n【战利品】魔蝇翅膜 x1\n"
+      }
+    ],
+    "screenshotBase": "E:\\games\\deepseek\\sillytavern_progress\\卡片工程\\圣女今天也很努力（大概）！-低智模型测试\\reports\\real-host-v1.2.8-BP048主题精修4-battle-snapshot-1791862160181",
+    "actionCardDomCount": 2
+  },
+  "profileUi": {
+    "tab": "look",
+    "portraitReady": true,
+    "portraitSrc": "http://127.0.0.1:8000/characters/%E5%80%99%E8%A1%A5%E5%9C%A3%E5%A5%B3%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E5%A5%BD%E5%A5%BD%E5%8A%AA%E5%8A%9B%EF%BC%88%E5%A4%A7%E6%A6%82%EF%BC%89v1.2.8-BP048%E4%B8%BB%E9%A2%98%E7%B2%BE%E4%BF%AE4.png",
+    "portraitNaturalWidth": 1280,
+    "overall": "身姿娇小的银发赤瞳圣女，微卷银发垂落腰际，肌肤白皙，半垂红瞳带着刚醒的朦胧；体态娇小丰腴，腰肢纤细，胸前曲线饱满，圣洁与慵懒形成柔和反差。",
+    "figureCells": [
+      "身高约 155cm，站在多数人身边都显得娇小",
+      "罩杯G罩杯，乳房饱满浑圆，乳晕较小，颜色是柔和的樱花粉，触感与形状会随姿态轻轻变化。",
+      "三围B98 / W56 / H90"
+    ],
+    "cupText": "罩杯G罩杯，乳房饱满浑圆，乳晕较小，颜色是柔和的樱花粉，触感与形状会随姿态轻轻变化。",
+    "legacyLookNodes": 0,
+    "tempEffectSectionHidden": false,
+    "tempEffectText": "暂无临时效果",
+    "legacyTierBadge": false,
+    "overviewColumns": "242px 242px",
+    "modsText": "没有身体改造",
+    "headerRank": "LV 1 · 普通",
+    "economy": {
+      "public": "10",
+      "secret": "10",
+      "money": "300G",
+      "text": "\n    \n      明面声望10\n      在教区里只是不起眼的候补圣女，名声还没有真正传开。\n    \n    \n      暗地声望10\n      暗地里的存在感不高，偶尔会被人当成不值一提的小圣女。\n    \n    \n      金钱300G\n      够一户普通人家舒舒服服过上一年，对候补圣女而言十分清贫。\n    \n  "
+    }
+  },
+  "attributeUi": {
+    "visible": true,
+    "growth": "经验 EXP0 / 50可分配属性点0晋升路线稀有 · 等级 1/7 · 属性 2/2 · 待剧情突破",
+    "cards": [
+      {
+        "value": "8",
+        "name": "力量 STR",
+        "tier": "普通",
+        "desc": "力气只够应付日常活计，搬重一点的东西就会脸红喘气。"
+      },
+      {
+        "value": "8",
+        "name": "敏捷 AGI",
+        "tier": "普通",
+        "desc": "脚步轻快但还不够稳，跑久了就会露出疲惫的破绽。"
+      },
+      {
+        "value": "8",
+        "name": "感知 PER",
+        "tier": "普通",
+        "desc": "对风向、脚步和旁人情绪都算敏锐，只是还缺少真正的历练。"
+      },
+      {
+        "value": "8",
+        "name": "智力 INT",
+        "tier": "普通",
+        "desc": "读得懂经文与礼法，也能在临场判断中保持清醒，但远未到运筹帷幄。"
+      }
+    ]
+  },
+  "gearUi": {
+    "visible": true,
+    "equipmentView": {
+      "tabs": 4,
+      "items": 10,
+      "name": "修女服",
+      "meta": "位阶 普通 · 槽位 · 身体",
+      "fields": 4,
+      "bodyOptions": [
+        "无",
+        "修女服"
+      ]
+    },
+    "underwearOptions": [
+      "真空"
+    ],
+    "emptySlotOptions": {
+      "头部": [
+        "无"
+      ],
+      "下装": [
+        "无"
+      ],
+      "腿部": [
+        "无"
+      ],
+      "鞋子": [
+        "无"
+      ],
+      "主手": [
+        "无",
+        "备用短剑"
+      ],
+      "副手": [
+        "无"
+      ],
+      "饰品": [
+        "无"
+      ],
+      "特殊": [
+        "无"
+      ]
+    },
+    "itemView": {
+      "items": 3,
+      "headings": [
+        "装备 · 1",
+        "道具 · 1",
+        "杂物 · 1"
+      ],
+      "name": "备用短剑",
+      "meta": "位阶 普通 · 背包 · 装备 · 槽位 主手 · 数量 1",
+      "fields": 2,
+      "emptyText": ""
+    },
+    "skillView": {
+      "items": 1,
+      "name": "神性封印",
+      "meta": "位阶 神话 · 技能",
+      "fields": 2
+    }
+  },
+  "gearDirectWrite": {
+    "before": "修女服",
+    "after": "无",
+    "inputBefore": "",
+    "inputAfter": "",
+    "bonusBefore": {
+      "圣洁": 30,
+      "羞耻": 0,
+      "位阶": "普通",
+      "加成": {
+        "力量": 0,
+        "敏捷": 0,
+        "感知": 0,
+        "智力": 0,
+        "生命上限": 5,
+        "魔力上限": 0,
+        "圣洁": 4,
+        "魅力": 0,
+        "诱惑": 0,
+        "威严": 2,
+        "羞耻": 2,
+        "敏感": 0,
+        "欲望": 0,
+        "堕落": 0
+      }
+    },
+    "bonusAfter": {
+      "圣洁": 30,
+      "羞耻": 0,
+      "位阶": "普通",
+      "加成": {}
+    },
+    "inventoryAfterUnequip": [
+      {
+        "名称": "修女服",
+        "类别": "装备",
+        "槽位": "身体",
+        "数量": 1,
+        "位阶": "普通",
+        "效果": "普通教会修女的身份象征，较为保暖，提供基础防护。",
+        "描述": "黑白分明的修女服，头巾压住银发，衣料一直盖到脖子；露出的纤细手腕与雪颈格外惹眼。",
+        "加成": {
+          "力量": 0,
+          "敏捷": 0,
+          "感知": 0,
+          "智力": 0,
+          "生命上限": 5,
+          "魔力上限": 0,
+          "圣洁": 4,
+          "魅力": 0,
+          "诱惑": 0,
+          "威严": 2,
+          "羞耻": 2,
+          "敏感": 0,
+          "欲望": 0,
+          "堕落": 0
+        },
+        "技能": [],
+        "双手": false
+      }
+    ],
+    "writeError": "",
+    "equipmentDebug": {
+      "change": null,
+      "write": null,
+      "writeError": ""
+    }
+  },
+  "relationUi": {
+    "visible": true,
+    "cards": 2,
+    "names": [
+      "维多利亚",
+      "尤利娅"
+    ],
+    "filters": [
+      "全部 2",
+      "在场 2",
+      "不在场 0",
+      "女性 2"
+    ],
+    "firstIdentity": "晨曦圣骑士团首席骑士，本届圣女候选之一",
+    "detailName": "维多利亚",
+    "hasRankField": true,
+    "detailTabs": [
+      "概览",
+      "外貌",
+      "装备技能",
+      "NSFW"
+    ]
+  },
+  "directWrite": {
+    "beforeAffinity": 10,
+    "afterAffinity": 15,
+    "writeMethod": "pointer",
+    "inputBeforeWrite": "",
+    "inputAfterWrite": "",
+    "tipAfterWrite": "维多利亚 好感已写入（+5）",
+    "writeError": ""
+  },
+  "mvuLogs": [
+    {
+      "type": "debug",
+      "text": "[WI] Entry 709 from '候补圣女今天也在好好努力（大概）v1.2.8-BP048主题精修4·内置世界书' processing {uid: 709, world: 候补圣女今天也在好好努力（大概）v1.2.8-BP048主题精修4·内置世界书, displayIndex: 69, comment: 👤预设一号|主角|709-艾迪娜, disable: false}"
+    },
+    {
+      "type": "debug",
+      "text": "[WI] Entry 709 activated by primary key match 艾迪娜"
+    },
+    {
+      "type": "debug",
+      "text": "[WI] Entry 900 from '候补圣女今天也在好好努力（大概）v1.2.8-BP048主题精修4·内置世界书' processing {uid: 900, world: 候补圣女今天也在好好努力（大概）v1.2.8-BP048主题精修4·内置世界书, displayIndex: 214, comment: [initvar]艾迪娜变量初始化勿开, disable: true}"
+    },
+    {
+      "type": "debug",
+      "text": "Event emitted: th_unique_check.MVU变量框架"
+    },
+    {
+      "type": "debug",
+      "text": "[WI] Entry 709 activation successful, adding to prompt {uid: 709, world: 候补圣女今天也在好好努力（大概）v1.2.8-BP048主题精修4·内置世界书, displayIndex: 69, comment: 👤预设一号|主角|709-艾迪娜, disable: false}"
+    },
+    {
+      "type": "debug",
+      "text": "Event emitted: global_Mvu_initialized"
+    },
+    {
+      "type": "info",
+      "text": "[艾迪娜模式] 生效模式：随AI输出，提醒条目启用——一致"
+    },
+    {
+      "type": "debug",
+      "text": "Vectors: Context: {accountStorage: AccountStorage, chat: Array(1), characters: Array(53), groups: Array(0), name1: 艾迪娜·晨曦}"
+    }
+  ],
+  "mvuLogSummary": {
+    "total": 5252,
+    "matched": 48,
+    "kept": 8,
+    "deduped": 40,
+    "truncated": 0,
+    "maxText": 800,
+    "maxEntries": 60
+  },
+  "failures": [
+    {
+      "id": "panel-settings-theme-text",
+      "ok": false,
+      "detail": "{\"api\":true,\"themeOrnate\":true,\"themeClassic\":true,\"themeStored\":true,\"textOverridden\":false,\"textPersisted\":false,\"textRestored\":true,\"editMode\":true,\"settingsDrawer\":true}"
+    }
+  ]
+}
