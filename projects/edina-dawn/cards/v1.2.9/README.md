@@ -41,6 +41,11 @@ Artifact hashes:
 - JSON SHA-256: `6C626A66B65958E2C109C8F4AAF38A8EFF391E28C5767CC63511637C142B7AD7`
 - PNG SHA-256: `FB7ED9EC142A1BD1A75D444FBE4C4DBB203AD8D33319D25ADCE284A599DD8336`
 
+Runtime dependency boundary:
+
+- The MVU runtime bundle is pinned to `MagicalAstrogy/MagVarUpdate@dd4f1d92b450dc7eaa1b43e23b6e3fb832c909d1`.
+- The schema helper `mvu_zod.js` currently imports `StageDog/tavern_resource/dist/util/mvu_zod.js` without a commit or tag pin. This upstream drift risk is recorded in the card project's `NEXT.md`; it was not changed in this package.
+
 Distribution boundary:
 
 - This package contains a heavy NSFW SillyTavern card. The repository's public content policy says explicit NSFW variants should use separate private storage.
