@@ -3,7 +3,7 @@
 Packaged SillyTavern artifacts for `圣女今天也很努力（大概）！`.
 
 Card repository build revision: `af87b0f test(gates): 语义版本门禁 + 恒真断言重写 + v1.2.9 重建`.
-Card repository documentation revision for this package: `392c40f docs: 修正 v1.2.9 真机收据口径与当前门禁计数`.
+Card repository documentation revision for this package: `e0de909 docs: 登记 mvu_zod 滚动依赖为已知残留`.
 
 Lineage: v1.2.9 is the rebuilt formal artifact of the driver-accepted BP-048 batch 4 theme-refinement candidate `v1.2.8-BP048主题精修4` (driver acceptance recorded 2026-10-13). Portrait assets remain the stable v1.0.9 set under `projects/edina-dawn/portraits/` and are referenced by stable `main` URLs.
 
