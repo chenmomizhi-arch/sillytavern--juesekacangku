@@ -112,9 +112,9 @@
       "name": "爱丽丝",
       "image": "portraits/elise.webp",
       "status": "ready",
-      "sourceRaw": "archive/v1.0.9/raw/elise-s2026102320-2.png",
-      "sha256": "9402831ef80af917b960b88ebd416eb45ea4cfea772b2c9a170010994952ed53",
-      "bytes": 240216
+      "sourceRaw": "archive/v1.0.9/raw/elise-s701001-1.png",
+      "sha256": "8363a5c6eb834fbe50663d5a121bfae9c1ece4e2a4a9f383584decc0db27f915",
+      "bytes": 151356
     },
     {
       "id": "sariel",
@@ -130,9 +130,9 @@
       "name": "希尔菲",
       "image": "portraits/sylph.webp",
       "status": "ready",
-      "sourceRaw": "archive/v1.0.9/raw/sylph-s2026101819-3.png",
-      "sha256": "98f740f313dcdf65c52333269edf3a7f6c03aef8f237b62e6c063960e57c8a0b",
-      "bytes": 179752
+      "sourceRaw": "archive/v1.0.9/raw/sylph-s703001-1.png",
+      "sha256": "8710f6b666fff9ef74b921a4b299d00010d5c7a7276f9afa16dc13194b6429b7",
+      "bytes": 167018
     },
     {
       "id": "seraphina",
@@ -166,18 +166,18 @@
       "name": "凯尔",
       "image": "portraits/kael.webp",
       "status": "ready",
-      "sourceRaw": "archive/v1.0.9/raw/kael-s2026102125-1.png",
-      "sha256": "1520126d72c0ae49fda6db0b255a7bffd85279678094f2147722216fbe81650d",
-      "bytes": 233652
+      "sourceRaw": "archive/v1.0.9/raw/kael-s707001-1.png",
+      "sha256": "60fe061c1170b2eb5402a29326ff03b921abf6a95835d059e5de193791475b28",
+      "bytes": 159388
     },
     {
       "id": "lucius",
       "name": "卢修斯",
       "image": "portraits/lucius.webp",
       "status": "ready",
-      "sourceRaw": "archive/v1.0.9/raw/lucius-s2026102131-1.png",
-      "sha256": "124ca9fa4c6e504c1c3530353f0165339103f7ee8469aa6f11a81417d6bb086b",
-      "bytes": 224678
+      "sourceRaw": "archive/v1.0.9/raw/lucius-s708001-1.png",
+      "sha256": "cd370eb8b382e82a132d9be808daa4b014620bf35852a5135b189b0245f5eecf",
+      "bytes": 137856
     },
     {
       "id": "eludi",
@@ -220,9 +220,9 @@
       "name": "桃乐丝",
       "image": "portraits/dorothy.webp",
       "status": "ready",
-      "sourceRaw": "archive/v1.0.9/raw/dorothy-s2026102171-5.png",
-      "sha256": "17704cda2f40a928b81b7b0d2b8c49b0db9dff586f983000bc2d62c3f24e159a",
-      "bytes": 224104
+      "sourceRaw": "archive/v1.0.9/raw/dorothy-s714001-1.png",
+      "sha256": "3350aa665b54a25052dbb38a3ff6ad993719d9b9eaa5a1b0d3b5bac71da7336b",
+      "bytes": 150908
     },
     {
       "id": "ophelia",
