@@ -18,64 +18,93 @@ Source project: `圣女今天也很努力（大概）！`
 `图床仓库/_archive-snapshot/edina-dawn-2026-10-21/`，逐文件 SHA-256 记录于其 `manifest.json`，
 可整体回滚。
 
-## portraits/ 目录规则
+## portraits/ 目录规则（2026-10-21 起，`edina` 为参考实现）
 
-    portraits/<characterId>/avatar/           头像原图（PNG / 初版 WebP）
-    portraits/<characterId>/avatar/thumbs/    头像缩略图（WebP）
-    portraits/<characterId>/standee/          立绘原图
-    portraits/<characterId>/standee/thumbs/   立绘缩略图（WebP）
-    portraits/<characterId>/cg/               CG 图（当前全部为空，预留）
-    portraits/<characterId>/previous/         淘汰图与批次总览，仅供回滚
+    portraits/<characterId>/
+    ├─ avatar/                     运行时头像与立绘（编号变体）
+    │  ├─ <id>-1.png               头像（默认，always）
+    │  ├─ <id>-2.png               立绘（默认，always）
+    │  ├─ <id>-3.png               初版立绘（好感 ≥ 20 解锁）
+    │  ├─ <id>-N.png               其他运行时变体
+    │  └─ thumbs/<同名>.webp       缩略图
+    ├─ cg/                         事件 CG（运行时）
+    │  ├─ <id>-<事件名>.png        例：edina-好奇.png
+    │  └─ thumbs/<同名>.webp       缩略图
+    ├─ previous/                   淘汰下来、不再使用的正式图片（仅供回滚）
+    │  └─ thumbs/<同名>.webp
+    └─ standee/                    已定稿但尚未投入正式使用的图片（暂存）
+       └─ thumbs/<同名>.webp
 
-- `<characterId>` 为 ASCII 小写 id，共 28 个：`beatrix` `cecilia` `celine` `clara`
-  `dorothy` `edina` `elise` `eludi` `freya` `jack` `kael` `lilith` `livia` `lucius`
-  `lumina` `merl` `mimi` `natasha` `ophelia` `roland` `sariel` `seraphina` `sylph`
-  `sylvana` `tia` `victoria` `yuffie` `yulia`。
-- **子目录名与文件名一律 ASCII**。中文只出现在 `README.md` 等说明文本里。
-- 每个角色只有一个统一的 `previous/` 目录。
+### 硬性规则
+
+1. **`avatar/` 是运行时头像与立绘的唯一来源。** 编号语义固定：
+   - `<id>-1.png` = 头像（默认变体，`unlock: always`）
+   - `<id>-2.png` = 立绘（默认变体，`unlock: always`）
+   - `<id>-3.png` = 初版立绘（`unlock: affinity, minAffinity: 20`）
+   - 更高编号按需追加，必须在 `manifest.json` 与 `media-contract.json` 写明 label / unlock。
+2. **`cg/` 是事件 CG 的唯一来源。** 命名格式 `<id>-<事件名>.png`（如 `edina-好奇.png`）；
+   事件名可用中文，但 `portraits/<id>/` 前缀必须是 ASCII 小写 `<id>`。
+   事件 CG 由剧情状态推送，默认 `unlock: { type: "event", eventId: "<id>-<事件名>" }`。
+3. **`previous/` 只放淘汰下来、不再使用的正式图片。** 禁止放总览图、批次截图、缩略图或未使用候选；
+   这些应放 `备用/` 或 `standee/`（见下）。
+4. **`standee/` 只放已定稿但尚未投入正式使用的图片。** **禁止从此处推送任何图片到玩家角色卡或运行时 URL。**
+   一旦某张图投入正式使用，应移入 `avatar/`（立绘）或 `cg/`（事件 CG），不要留在 `standee/`。
+5. **缩略图**统一放对应 kind 的 `thumbs/`，文件名与原图同名（扩展名改 `.webp`）：
+   长边 768px、WebP q88、保持宽高比、不放大、不裁切（`fit: inside` + `withoutEnlargement`）。
+6. **运行时 URL 只允许指向 `avatar/` 与 `cg/`。** 禁止指向 `standee/`、`previous/`、`备用/`。
+7. 新增角色或迁移旧角色时，按本规则重建；旧结构（`<id>.png` / `initial-avatar.webp` / `standee/<id>.png`）
+   迁移完成后删除。迁移前旧角色仍按旧结构工作，但**新图不得再写入旧结构**。
+8. 每次改动后更新 `manifest.json` 与卡工程 `reports/media-contract.json`，
+   并跑 `node tools/verify-media-catalog.mjs`；缩略图必须重新生成，不得复用旧 thumbs。
+
+### 新旧命名对照
+
+| 旧结构 | 新结构 |
+| --- | --- |
+| `avatar/<id>.png` | `avatar/<id>-1.png` |
+| `avatar/initial-avatar.webp` | `avatar/<id>-3.png`（初版立绘，好感 ≥ 20） |
+| `standee/<id>.png` | `avatar/<id>-2.png`（默认立绘） |
+| `standee/<其它>.png` | `standee/<其它>.png`（只暂存，禁止运行时） |
+| `previous/<批次>-overview.jpg` | `previous/<旧正式图>.png`（禁止总览图） |
+| `cg/`（空） | `cg/<id>-<事件名>.png` |
+
+## 当前参考实现：`portraits/edina/`
+
+    portraits/edina/
+    ├─ avatar/
+    │  ├─ edina-1.png            头像，always
+    │  ├─ edina-2.png            立绘，always
+    │  ├─ edina-3.png            初版立绘，好感 ≥ 20
+    │  └─ thumbs/edina-1.webp / edina-2.webp / edina-3.webp
+    ├─ cg/
+    │  ├─ edina-好奇.png         事件 CG（剧情状态推送）
+    │  └─ thumbs/edina-好奇.webp
+    ├─ previous/                 淘汰正式图（当前待清理旧 thumb）
+    └─ standee/                  已定稿未使用（禁止运行时）
 
 ## 缩略图规格
 
-缩略图统一放在 `portraits/<characterId>/<kind>/thumbs/`，文件名与原图同名（扩展名改 `.webp`）：
-
 - 长边 768px、保持宽高比、**不放大、不裁切**（`fit: inside` + `withoutEnlargement`）
 - WebP 质量 q88
-- 生成命令：`sharp(src).resize({ width: 768, height: 768, fit: 'inside', withoutEnlargement: true }).webp({ quality: 88 })`
-
-原图长边本身小于 768px 时保持原尺寸。本轮 107 张缩略图长边全部为 768px。
-
-## 头像变体语义
-
-`avatar/` 下有两种变体并存，**互不覆盖**：
-
-| 文件 | 含义 |
-|---|---|
-| `initial-avatar.webp` | **初版头像**。原 `portraits/` 根目录那 28 张 WebP 收拢后的正式变体。 |
-| `<characterId>.png` | **默认头像**。由原 `备用/<id>/avatar/` 搬入的定稿半身像 PNG 原图。 |
-| 其它文件 | 备选头像（如 `chatgpt-20261018-halfbody.png`、`loli-recipe-20261020-portrait.png`、`alice-legacy.png`、`edina-avatar-closeup.png`）。 |
-
-艾迪娜特别说明：`portraits/edina.webp` 是驾驶员选定的现行正式版，同时落在那 28 张初版之列。
-按不覆盖原则，它移到 `portraits/edina/avatar/initial-avatar.webp`，
-而 `备用/edina/avatar/edina.png` 移到 `portraits/edina/avatar/edina.png` 作为默认头像源，
-两者并存，谁也没有覆盖谁；没有从 `_backup-备用-20261020/` 或任何候选目录另挑图替换艾迪娜素材。
-
-## previous/ 语义
-
-`previous/` 只放**淘汰图**，供回滚和查证用，不作为运行时素材：
-
-- 各角色原 `previous/` 里的旧立绘（如 `standee-20261012.png`）
-- 头像批次 2026-10-19 的编号总览图（`<批次号>-<角色>-<变体>-overview.jpg`）
-
-## 备用/ 的定位
-
-`备用/` 已降级为**入口/暂存区与批次记录目录**：只保留说明文档、选图复核记录、批次 README
-和历史清单，不再存放任何图片，也不再作为运行时 URL 来源。详见 `备用/README.md`。
+- 生成命令：
+  ```js
+  sharp(src).resize({ width: 768, height: 768, fit: 'inside', withoutEnlargement: true }).webp({ quality: 88 })
+  ```
 
 ## 运行时 URL
 
-素材真源是 `projects/edina-dawn/portraits/`，路径全 ASCII，raw URL 无需 percent-encoding：
+素材真源是 `projects/edina-dawn/portraits/`，`<characterId>` 与编号文件名均为 ASCII：
 
-    https://raw.githubusercontent.com/chenmomizhi-arch/sillytavern--juesekacangku/main/projects/edina-dawn/portraits/<characterId>/<kind>/<file>
+    https://raw.githubusercontent.com/chenmomizhi-arch/sillytavern--juesekacangku/main/projects/edina-dawn/portraits/<characterId>/avatar/<id>-<n>.png
+    https://raw.githubusercontent.com/chenmomizhi-arch/sillytavern--juesekacangku/main/projects/edina-dawn/portraits/<characterId>/cg/<id>-<事件名>.png
 
 卡侧 URL 契约见卡工程 `reports/media-contract.json`（含每个变体的 url、thumbnailUrl、sha256、尺寸）。
-本轮未执行 commit / push，线上可达性**未验证**。
+线上可达性以推送后 HEAD 校验为准。
+
+## 禁止事项（给后续模型）
+
+- 禁止从 `standee/` 推送任何图片到玩家角色卡。
+- 禁止把 `previous/` 当候选仓库；它只放淘汰正式图。
+- 禁止复用旧 thumbs；原图改名/改内容后必须重新生成缩略图。
+- 禁止把事件 CG 命名成 `<id>.png` 或塞进 `avatar/`；事件 CG 必须在 `cg/<id>-<事件名>.png`。
+- 禁止让运行时 URL 指向 `备用/`、`standee/`、`previous/`。

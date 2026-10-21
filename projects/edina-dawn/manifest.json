@@ -236,57 +236,54 @@
       "id": "edina",
       "name": "艾迪娜·晨曦",
       "status": "ready",
-      "image": "portraits/edina/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/edina/avatar/edina.png",
-      "sha256": "85c6fc223a12680cc85014edffe3271faafe33297cb1be8d5e1210541925a3e4",
-      "bytes": 193586,
+      "image": "portraits/edina/avatar/edina-1.png",
+      "sourceRaw": "portraits/edina/avatar/edina-1.png",
+      "sha256": "2cbe75b0422b3e96e86988964a34b9c7d2534db23a53b9217338c6e24540282c",
+      "bytes": 1496442,
       "initialAvatar": {
-        "path": "portraits/edina/avatar/initial-avatar.webp",
-        "sha256": "85c6fc223a12680cc85014edffe3271faafe33297cb1be8d5e1210541925a3e4",
-        "bytes": 193586,
+        "path": "portraits/edina/avatar/edina-3.png",
+        "sha256": "017c56bd7375406e45fa465401c060613183c57133bd74f43efd24393f97b217",
+        "bytes": 1648061,
         "width": 720,
         "height": 1080,
-        "label": "初版头像（艾迪娜现行正式版）"
+        "label": "初版立绘"
       },
       "defaultAvatar": {
-        "path": "portraits/edina/avatar/edina.png",
-        "sha256": "ea4c16ac36259520d4e858afb53137ca61dd05c3812bc89c5840d3d7dd455a7f",
-        "bytes": 1303821,
-        "width": 896,
-        "height": 1280,
+        "path": "portraits/edina/avatar/edina-1.png",
+        "sha256": "2cbe75b0422b3e96e86988964a34b9c7d2534db23a53b9217338c6e24540282c",
+        "bytes": 1496442,
+        "width": 832,
+        "height": 1216,
         "label": "默认头像"
       },
       "standee": [
         {
-          "path": "portraits/edina/standee/edina.png",
-          "sha256": "6b9cda47ab656d32ad97d7fb5b54ba8a9971076ba6fc5f513974316813e90359",
-          "bytes": 1459801,
+          "path": "portraits/edina/avatar/edina-2.png",
+          "sha256": "7a26dbd4e2dc7bb70ec6c66fbcff00e0b69ffbf5d86aa304d75419a151a7fdbb",
+          "bytes": 1519240,
           "width": 896,
-          "height": 1344,
+          "height": 1280,
           "label": "默认立绘"
         },
         {
-          "path": "portraits/edina/standee/loli-recipe-20261020-standee.png",
-          "sha256": "a1f753cb7a290a5c64eac4af7bb0022f39c53e1cfd4ef31069253b7e2e32010b",
-          "bytes": 1702450,
-          "width": 896,
-          "height": 1344,
-          "label": "备选立绘"
-        },
-        {
-          "path": "portraits/edina/standee/loli-recipe-20261021-standee.png",
-          "sha256": "2387990cb73564de632ca9712acfb717f1fb97514e4f6920a4e4b9d5be02c293",
-          "bytes": 1677360,
-          "width": 896,
-          "height": 1344,
-          "label": "备选立绘"
+          "path": "portraits/edina/avatar/edina-3.png",
+          "sha256": "017c56bd7375406e45fa465401c060613183c57133bd74f43efd24393f97b217",
+          "bytes": 1648061,
+          "width": 720,
+          "height": 1080,
+          "label": "初版立绘"
         }
       ],
-      "retiredSource": {
-        "path": "portraits/edina/avatar/edina.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/edina/avatar/edina.png"
-      }
+      "cg": [
+        {
+          "path": "portraits/edina/cg/edina-好奇.png",
+          "sha256": "c662db75a637803643b9f900a9d70725086bd4e74568e83733e78e23cb29a744",
+          "bytes": 1458224,
+          "width": 720,
+          "height": 1080,
+          "label": "好奇"
+        }
+      ]
     },
     {
       "id": "elise",
