@@ -52,8 +52,8 @@ Source project: `圣女今天也很努力（大概）！`
 5. **缩略图**统一放对应 kind 的 `thumbs/`，文件名与原图同名（扩展名改 `.webp`）：
    长边 768px、WebP q88、保持宽高比、不放大、不裁切（`fit: inside` + `withoutEnlargement`）。
 6. **运行时 URL 只允许指向 `avatar/` 与 `cg/`。** 禁止指向 `standee/`、`previous/`、`备用/`。
-7. 新增角色或迁移旧角色时，按本规则重建；旧结构（`<id>.png` / `initial-avatar.webp` / `standee/<id>.png`）
-   迁移完成后删除。迁移前旧角色仍按旧结构工作，但**新图不得再写入旧结构**。
+7. **所有 28 个角色已于 2026-10-21 迁移到新结构**；旧结构（`<id>.png` / `initial-avatar.webp` / `standee/<id>.png`）
+   已从运行时目录删除，删除前快照在 `图床仓库/_history/edina-dawn-structure-migration-2026-10-21/`。
 8. 每次改动后更新 `manifest.json` 与卡工程 `reports/media-contract.json`，
    并跑 `node tools/verify-media-catalog.mjs`；缩略图必须重新生成，不得复用旧 thumbs。
 
@@ -68,19 +68,22 @@ Source project: `圣女今天也很努力（大概）！`
 | `previous/<批次>-overview.jpg` | `previous/<旧正式图>.png`（禁止总览图） |
 | `cg/`（空） | `cg/<id>-<事件名>.png` |
 
-## 当前参考实现：`portraits/edina/`
+## 当前结构（28 角色已全部迁移）
 
-    portraits/edina/
+    portraits/<id>/
     ├─ avatar/
-    │  ├─ edina-1.png            头像，always
-    │  ├─ edina-2.png            立绘，always
-    │  ├─ edina-3.png            初版立绘，好感 ≥ 20
-    │  └─ thumbs/edina-1.webp / edina-2.webp / edina-3.webp
+    │  ├─ <id>-1.png             默认头像，always（所有角色都有）
+    │  ├─ <id>-2.png             默认立绘，always（有正式立绘的角色才有）
+    │  ├─ <id>-3.png             初版立绘，好感 ≥ 20（所有角色都有）
+    │  ├─ <id>-4.png ...         备选头像，好感 ≥ 40（有备选头像的角色才有）
+    │  └─ thumbs/<同名>.webp
     ├─ cg/
-    │  ├─ edina-好奇.png         事件 CG（剧情状态推送）
-    │  └─ thumbs/edina-好奇.webp
-    ├─ previous/                 淘汰正式图（当前待清理旧 thumb）
-    └─ standee/                  已定稿未使用（禁止运行时）
+    │  ├─ <id>-<事件名>.png      事件 CG（目前仅 edina-好奇）
+    │  └─ thumbs/<同名>.webp
+    ├─ previous/                 淘汰正式图（目前 beatrix / cecilia / clara 各 1 张旧立绘）
+    └─ standee/                  已定稿未使用（目前仅 victoria 的备选全身图；禁止运行时）
+
+> 例：`portraits/edina/` 有 -1/-2/-3 + cg；`portraits/celine/` 只有 -1/-3（无正式立绘）；`portraits/clara/` 有 -1/-2/-3/-4。
 
 ## 缩略图规格
 

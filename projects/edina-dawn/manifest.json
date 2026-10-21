@@ -54,200 +54,196 @@
       "id": "beatrix",
       "name": "贝阿朵莉丝",
       "status": "ready",
-      "image": "portraits/beatrix/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/beatrix/avatar/beatrix.png",
-      "sha256": "861e608b21f444620f5e6b647307f7d43478875fd82c1691b66278987d4357e3",
-      "bytes": 138622,
-      "initialAvatar": {
-        "path": "portraits/beatrix/avatar/initial-avatar.webp",
-        "sha256": "861e608b21f444620f5e6b647307f7d43478875fd82c1691b66278987d4357e3",
-        "bytes": 138622,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/beatrix/avatar/beatrix-1.png",
       "defaultAvatar": {
-        "path": "portraits/beatrix/avatar/beatrix.png",
+        "path": "portraits/beatrix/avatar/beatrix-1.png",
         "sha256": "56fc7ec93065903bf6701d8ecd9b02bb8e6de23121221e0d06bacb816e2c711b",
         "bytes": 1373959,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
+      "initialAvatar": {
+        "path": "portraits/beatrix/avatar/beatrix-3.png",
+        "sha256": "c165cdbcf1f056aa728f8cbac22621cb25a409c088f3c92256aa449de76042dc",
+        "bytes": 1478594,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
       "standee": [
         {
-          "path": "portraits/beatrix/standee/beatrix.png",
+          "path": "portraits/beatrix/avatar/beatrix-2.png",
           "sha256": "11cefdaaf7bd66bcdbd25d456341f6cada2a2d76eac5e2a8e14fb5c75e7cd890",
           "bytes": 4115455,
           "width": 1152,
           "height": 1664,
           "label": "默认立绘"
+        },
+        {
+          "path": "portraits/beatrix/avatar/beatrix-3.png",
+          "sha256": "c165cdbcf1f056aa728f8cbac22621cb25a409c088f3c92256aa449de76042dc",
+          "bytes": 1478594,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
         }
       ],
-      "retiredSource": {
-        "path": "portraits/beatrix/avatar/beatrix.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/beatrix/avatar/beatrix.png"
-      }
+      "cg": []
     },
     {
       "id": "cecilia",
       "name": "塞西莉亚",
       "status": "ready",
-      "image": "portraits/cecilia/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/cecilia/avatar/cecilia.png",
-      "sha256": "1ec9a9438972f85cea3857eed7e12c0e0e5859d01a61f6e859319a5662fe4a6f",
-      "bytes": 131140,
-      "initialAvatar": {
-        "path": "portraits/cecilia/avatar/initial-avatar.webp",
-        "sha256": "1ec9a9438972f85cea3857eed7e12c0e0e5859d01a61f6e859319a5662fe4a6f",
-        "bytes": 131140,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/cecilia/avatar/cecilia-1.png",
       "defaultAvatar": {
-        "path": "portraits/cecilia/avatar/cecilia.png",
+        "path": "portraits/cecilia/avatar/cecilia-1.png",
         "sha256": "b9bf6894cc2425e6eecd09a31a24f1091ee380d53c1e83bf431b8812057d0134",
         "bytes": 1375413,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
+      "initialAvatar": {
+        "path": "portraits/cecilia/avatar/cecilia-3.png",
+        "sha256": "7741afbbbc5101b8399925bbbf632ae945da26561cffa114d97d50d1adedcf4a",
+        "bytes": 1559571,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
       "standee": [
         {
-          "path": "portraits/cecilia/standee/cecilia.png",
+          "path": "portraits/cecilia/avatar/cecilia-2.png",
           "sha256": "6636f19e4da23c8173edc5c23dc1d6014bfe535b5f407a684f2c47bec622c897",
           "bytes": 2285864,
           "width": 1152,
           "height": 1664,
           "label": "默认立绘"
+        },
+        {
+          "path": "portraits/cecilia/avatar/cecilia-3.png",
+          "sha256": "7741afbbbc5101b8399925bbbf632ae945da26561cffa114d97d50d1adedcf4a",
+          "bytes": 1559571,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
         }
       ],
-      "retiredSource": {
-        "path": "portraits/cecilia/avatar/cecilia.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/cecilia/avatar/cecilia.png"
-      }
+      "cg": []
     },
     {
       "id": "celine",
       "name": "赛莲",
       "status": "ready",
-      "image": "portraits/celine/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/celine/avatar/celine.png",
-      "sha256": "bc4de12e5e83890e66e05dafc8c67c05ed312a754aa784985c9b1d8fb77544ec",
-      "bytes": 170106,
-      "initialAvatar": {
-        "path": "portraits/celine/avatar/initial-avatar.webp",
-        "sha256": "bc4de12e5e83890e66e05dafc8c67c05ed312a754aa784985c9b1d8fb77544ec",
-        "bytes": 170106,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/celine/avatar/celine-1.png",
       "defaultAvatar": {
-        "path": "portraits/celine/avatar/celine.png",
+        "path": "portraits/celine/avatar/celine-1.png",
         "sha256": "680fd81c857093fbb20387d0fadce1b153f5fb07dd946112933b62e86bf3876c",
         "bytes": 1744409,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
-      "standee": [],
-      "retiredSource": {
-        "path": "portraits/celine/avatar/celine.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/celine/avatar/celine.png"
-      }
+      "initialAvatar": {
+        "path": "portraits/celine/avatar/celine-3.png",
+        "sha256": "f26071fd311590530f7e5b49bdb7c4d6699a13e8b1a4d707bc9a00478f7687ba",
+        "bytes": 1762609,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
+      "standee": [
+        {
+          "path": "portraits/celine/avatar/celine-3.png",
+          "sha256": "f26071fd311590530f7e5b49bdb7c4d6699a13e8b1a4d707bc9a00478f7687ba",
+          "bytes": 1762609,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
+        }
+      ],
+      "cg": []
     },
     {
       "id": "clara",
       "name": "克拉拉",
       "status": "ready",
-      "image": "portraits/clara/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/clara/avatar/clara.png",
-      "sha256": "005e752a78a97ca21c3596d7ed5ffd7e077c034fc75a15a93dde4866003e38b4",
-      "bytes": 147452,
-      "initialAvatar": {
-        "path": "portraits/clara/avatar/initial-avatar.webp",
-        "sha256": "005e752a78a97ca21c3596d7ed5ffd7e077c034fc75a15a93dde4866003e38b4",
-        "bytes": 147452,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/clara/avatar/clara-1.png",
       "defaultAvatar": {
-        "path": "portraits/clara/avatar/clara.png",
+        "path": "portraits/clara/avatar/clara-1.png",
         "sha256": "8e5284437692cf10a4299243244a9b0b2a5eb7fe5aa77c458da11fe99c5b3a27",
         "bytes": 1449743,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
+      "initialAvatar": {
+        "path": "portraits/clara/avatar/clara-3.png",
+        "sha256": "72bafe1069d8f12f3104ebd2058edd9329eda8aa3033952632ef6f3646f432a7",
+        "bytes": 1699679,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
       "standee": [
         {
-          "path": "portraits/clara/standee/clara.png",
+          "path": "portraits/clara/avatar/clara-2.png",
           "sha256": "3e3e5bcec5538ce2a252dad9814cb423b1bb531a27f53dc75159a3c856a2b02b",
           "bytes": 2416572,
           "width": 1152,
           "height": 1664,
           "label": "默认立绘"
+        },
+        {
+          "path": "portraits/clara/avatar/clara-3.png",
+          "sha256": "72bafe1069d8f12f3104ebd2058edd9329eda8aa3033952632ef6f3646f432a7",
+          "bytes": 1699679,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
         }
       ],
-      "retiredSource": {
-        "path": "portraits/clara/avatar/clara.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/clara/avatar/clara.png"
-      }
+      "cg": []
     },
     {
       "id": "dorothy",
       "name": "桃乐丝",
       "status": "ready",
-      "image": "portraits/dorothy/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/dorothy/avatar/dorothy.png",
-      "sha256": "3350aa665b54a25052dbb38a3ff6ad993719d9b9eaa5a1b0d3b5bac71da7336b",
-      "bytes": 150908,
-      "initialAvatar": {
-        "path": "portraits/dorothy/avatar/initial-avatar.webp",
-        "sha256": "3350aa665b54a25052dbb38a3ff6ad993719d9b9eaa5a1b0d3b5bac71da7336b",
-        "bytes": 150908,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/dorothy/avatar/dorothy-1.png",
       "defaultAvatar": {
-        "path": "portraits/dorothy/avatar/dorothy.png",
+        "path": "portraits/dorothy/avatar/dorothy-1.png",
         "sha256": "1ce4531c3ddcdc72757d8d28cb53c03cb74d1207eb2079ed5093915397ac72f0",
         "bytes": 2494012,
         "width": 1152,
         "height": 1664,
         "label": "默认头像"
       },
-      "standee": [],
-      "retiredSource": {
-        "path": "portraits/dorothy/avatar/dorothy.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/dorothy/avatar/dorothy.png"
-      }
+      "initialAvatar": {
+        "path": "portraits/dorothy/avatar/dorothy-3.png",
+        "sha256": "cd39e2bc4c6cc024c83c09c9299e264407e52266ff760fd7b7970f94c3af1b7d",
+        "bytes": 1639944,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
+      "standee": [
+        {
+          "path": "portraits/dorothy/avatar/dorothy-3.png",
+          "sha256": "cd39e2bc4c6cc024c83c09c9299e264407e52266ff760fd7b7970f94c3af1b7d",
+          "bytes": 1639944,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
+        }
+      ],
+      "cg": []
     },
     {
       "id": "edina",
       "name": "艾迪娜·晨曦",
       "status": "ready",
       "image": "portraits/edina/avatar/edina-1.png",
-      "sourceRaw": "portraits/edina/avatar/edina-1.png",
-      "sha256": "2cbe75b0422b3e96e86988964a34b9c7d2534db23a53b9217338c6e24540282c",
-      "bytes": 1496442,
-      "initialAvatar": {
-        "path": "portraits/edina/avatar/edina-3.png",
-        "sha256": "017c56bd7375406e45fa465401c060613183c57133bd74f43efd24393f97b217",
-        "bytes": 1648061,
-        "width": 720,
-        "height": 1080,
-        "label": "初版立绘"
-      },
       "defaultAvatar": {
         "path": "portraits/edina/avatar/edina-1.png",
         "sha256": "2cbe75b0422b3e96e86988964a34b9c7d2534db23a53b9217338c6e24540282c",
@@ -256,13 +252,21 @@
         "height": 1216,
         "label": "默认头像"
       },
+      "initialAvatar": {
+        "path": "portraits/edina/avatar/edina-3.png",
+        "sha256": "017c56bd7375406e45fa465401c060613183c57133bd74f43efd24393f97b217",
+        "bytes": 1648061,
+        "width": 720,
+        "height": 1080,
+        "label": "初版立绘"
+      },
       "standee": [
         {
           "path": "portraits/edina/avatar/edina-2.png",
-          "sha256": "7a26dbd4e2dc7bb70ec6c66fbcff00e0b69ffbf5d86aa304d75419a151a7fdbb",
-          "bytes": 1519240,
+          "sha256": "6b9cda47ab656d32ad97d7fb5b54ba8a9971076ba6fc5f513974316813e90359",
+          "bytes": 1459801,
           "width": 896,
-          "height": 1280,
+          "height": 1344,
           "label": "默认立绘"
         },
         {
@@ -289,751 +293,781 @@
       "id": "elise",
       "name": "爱丽丝",
       "status": "ready",
-      "image": "portraits/elise/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/elise/avatar/elise.png",
-      "sha256": "8363a5c6eb834fbe50663d5a121bfae9c1ece4e2a4a9f383584decc0db27f915",
-      "bytes": 151356,
-      "initialAvatar": {
-        "path": "portraits/elise/avatar/initial-avatar.webp",
-        "sha256": "8363a5c6eb834fbe50663d5a121bfae9c1ece4e2a4a9f383584decc0db27f915",
-        "bytes": 151356,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/elise/avatar/elise-1.png",
       "defaultAvatar": {
-        "path": "portraits/elise/avatar/elise.png",
+        "path": "portraits/elise/avatar/elise-1.png",
         "sha256": "82cd1b195954e691ff45f94220481525ffbfe5034607d866c37da3a1b16754e8",
         "bytes": 2493433,
         "width": 1152,
         "height": 1664,
         "label": "默认头像"
       },
-      "standee": [],
-      "retiredSource": {
-        "path": "portraits/elise/avatar/elise.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/elise/avatar/elise.png"
-      }
+      "initialAvatar": {
+        "path": "portraits/elise/avatar/elise-3.png",
+        "sha256": "b00df94b2738eddc61ff53be1c3027467bf72e6d8944c1ce6856a2333014c843",
+        "bytes": 1674506,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
+      "standee": [
+        {
+          "path": "portraits/elise/avatar/elise-3.png",
+          "sha256": "b00df94b2738eddc61ff53be1c3027467bf72e6d8944c1ce6856a2333014c843",
+          "bytes": 1674506,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
+        }
+      ],
+      "cg": []
     },
     {
       "id": "eludi",
       "name": "艾露迪",
       "status": "ready",
-      "image": "portraits/eludi/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/eludi/avatar/eludi.png",
-      "sha256": "8a48a9778fb2a36313e7ca426b1c0c9f69e261590c8d0cb6ef6c85b5e511a87c",
-      "bytes": 154946,
-      "initialAvatar": {
-        "path": "portraits/eludi/avatar/initial-avatar.webp",
-        "sha256": "8a48a9778fb2a36313e7ca426b1c0c9f69e261590c8d0cb6ef6c85b5e511a87c",
-        "bytes": 154946,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/eludi/avatar/eludi-1.png",
       "defaultAvatar": {
-        "path": "portraits/eludi/avatar/eludi.png",
+        "path": "portraits/eludi/avatar/eludi-1.png",
         "sha256": "728000ea0498322c684ab3880b134fa4a764d2530809abd70364fd1e5b5a804c",
         "bytes": 1710504,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
-      "standee": [],
-      "retiredSource": {
-        "path": "portraits/eludi/avatar/eludi.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/eludi/avatar/eludi.png"
-      }
+      "initialAvatar": {
+        "path": "portraits/eludi/avatar/eludi-3.png",
+        "sha256": "e7e56d974e7fd55b513027ea32bd1b53c4022954f6849ed4d6638e2b3d0219d6",
+        "bytes": 1627532,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
+      "standee": [
+        {
+          "path": "portraits/eludi/avatar/eludi-3.png",
+          "sha256": "e7e56d974e7fd55b513027ea32bd1b53c4022954f6849ed4d6638e2b3d0219d6",
+          "bytes": 1627532,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
+        }
+      ],
+      "cg": []
     },
     {
       "id": "freya",
       "name": "芙蕾雅",
       "status": "ready",
-      "image": "portraits/freya/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/freya/avatar/freya.png",
-      "sha256": "e0465acb6467adacc012bf47725cb9c7aeb9a240a2073ae3dd1bf9d6d208c813",
-      "bytes": 154650,
-      "initialAvatar": {
-        "path": "portraits/freya/avatar/initial-avatar.webp",
-        "sha256": "e0465acb6467adacc012bf47725cb9c7aeb9a240a2073ae3dd1bf9d6d208c813",
-        "bytes": 154650,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/freya/avatar/freya-1.png",
       "defaultAvatar": {
-        "path": "portraits/freya/avatar/freya.png",
+        "path": "portraits/freya/avatar/freya-1.png",
         "sha256": "c19fe25acc6a0ac4f3e13e8e812ada19d52ec6e5d9c9cc0125dbd6a9d513578b",
         "bytes": 1714326,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
-      "standee": [],
-      "retiredSource": {
-        "path": "portraits/freya/avatar/freya.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/freya/avatar/freya.png"
-      }
+      "initialAvatar": {
+        "path": "portraits/freya/avatar/freya-3.png",
+        "sha256": "430fb9e18cca276f1b82b62c665ff1f70dbbe032ec348888b6b191bf58c54ed3",
+        "bytes": 1573580,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
+      "standee": [
+        {
+          "path": "portraits/freya/avatar/freya-3.png",
+          "sha256": "430fb9e18cca276f1b82b62c665ff1f70dbbe032ec348888b6b191bf58c54ed3",
+          "bytes": 1573580,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
+        }
+      ],
+      "cg": []
     },
     {
       "id": "jack",
       "name": "杰克",
       "status": "ready",
-      "image": "portraits/jack/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/jack/avatar/jack.png",
-      "sha256": "a64ec84a003621a0c4d406ab567e09bdaeeeca137dbfb9c2044a7627705fe4cc",
-      "bytes": 140096,
-      "initialAvatar": {
-        "path": "portraits/jack/avatar/initial-avatar.webp",
-        "sha256": "a64ec84a003621a0c4d406ab567e09bdaeeeca137dbfb9c2044a7627705fe4cc",
-        "bytes": 140096,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/jack/avatar/jack-1.png",
       "defaultAvatar": {
-        "path": "portraits/jack/avatar/jack.png",
+        "path": "portraits/jack/avatar/jack-1.png",
         "sha256": "f1115be16221be0ecc8531fde112e50634c6ab281b8d0165415cb5264cc8166a",
         "bytes": 1537611,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
-      "standee": [],
-      "retiredSource": {
-        "path": "portraits/jack/avatar/jack.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/jack/avatar/jack.png"
-      }
+      "initialAvatar": {
+        "path": "portraits/jack/avatar/jack-3.png",
+        "sha256": "82af7525388a587b11a7267e644c6e7794fd263b40bb481afd0fef24098f2787",
+        "bytes": 1514980,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
+      "standee": [
+        {
+          "path": "portraits/jack/avatar/jack-3.png",
+          "sha256": "82af7525388a587b11a7267e644c6e7794fd263b40bb481afd0fef24098f2787",
+          "bytes": 1514980,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
+        }
+      ],
+      "cg": []
     },
     {
       "id": "kael",
       "name": "凯尔",
       "status": "ready",
-      "image": "portraits/kael/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/kael/avatar/kael.png",
-      "sha256": "60fe061c1170b2eb5402a29326ff03b921abf6a95835d059e5de193791475b28",
-      "bytes": 159388,
-      "initialAvatar": {
-        "path": "portraits/kael/avatar/initial-avatar.webp",
-        "sha256": "60fe061c1170b2eb5402a29326ff03b921abf6a95835d059e5de193791475b28",
-        "bytes": 159388,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/kael/avatar/kael-1.png",
       "defaultAvatar": {
-        "path": "portraits/kael/avatar/kael.png",
+        "path": "portraits/kael/avatar/kael-1.png",
         "sha256": "7de6c65f81f3ba8a2f8b722d543c3755b3cdea0260b9eff8cbd1c78589e0de84",
         "bytes": 2486896,
         "width": 1152,
         "height": 1664,
         "label": "默认头像"
       },
-      "standee": [],
-      "retiredSource": {
-        "path": "portraits/kael/avatar/kael.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/kael/avatar/kael.png"
-      }
+      "initialAvatar": {
+        "path": "portraits/kael/avatar/kael-3.png",
+        "sha256": "f399948f3252a9bd6a7e2b12d7abdf33d83830faf7ddb011223364d053925ebf",
+        "bytes": 1646805,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
+      "standee": [
+        {
+          "path": "portraits/kael/avatar/kael-3.png",
+          "sha256": "f399948f3252a9bd6a7e2b12d7abdf33d83830faf7ddb011223364d053925ebf",
+          "bytes": 1646805,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
+        }
+      ],
+      "cg": []
     },
     {
       "id": "lilith",
       "name": "莉莉丝",
       "status": "ready",
-      "image": "portraits/lilith/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/lilith/avatar/lilith.png",
-      "sha256": "4f4628e5693209c4d78848e379a4bb9b212fc13b67d43667bb5767417cfd218c",
-      "bytes": 155724,
-      "initialAvatar": {
-        "path": "portraits/lilith/avatar/initial-avatar.webp",
-        "sha256": "4f4628e5693209c4d78848e379a4bb9b212fc13b67d43667bb5767417cfd218c",
-        "bytes": 155724,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/lilith/avatar/lilith-1.png",
       "defaultAvatar": {
-        "path": "portraits/lilith/avatar/lilith.png",
+        "path": "portraits/lilith/avatar/lilith-1.png",
         "sha256": "4a2453a9da691f52751ff4647086b63d0773b65b9c02dc4b8e9b3439a116782f",
         "bytes": 1689956,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
-      "standee": [],
-      "retiredSource": {
-        "path": "portraits/lilith/avatar/lilith.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/lilith/avatar/lilith.png"
-      }
+      "initialAvatar": {
+        "path": "portraits/lilith/avatar/lilith-3.png",
+        "sha256": "f2189008652c334efce8340e02150087f3c9a92707c4421a73f12438bbb1ef51",
+        "bytes": 1684005,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
+      "standee": [
+        {
+          "path": "portraits/lilith/avatar/lilith-3.png",
+          "sha256": "f2189008652c334efce8340e02150087f3c9a92707c4421a73f12438bbb1ef51",
+          "bytes": 1684005,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
+        }
+      ],
+      "cg": []
     },
     {
       "id": "livia",
       "name": "莉维亚",
       "status": "ready",
-      "image": "portraits/livia/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/livia/avatar/livia.png",
-      "sha256": "78ceb3bb7b4a565ecb2e2f3038c1e1efbd997e5948b9dac037a2b27a65697198",
-      "bytes": 133434,
-      "initialAvatar": {
-        "path": "portraits/livia/avatar/initial-avatar.webp",
-        "sha256": "78ceb3bb7b4a565ecb2e2f3038c1e1efbd997e5948b9dac037a2b27a65697198",
-        "bytes": 133434,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/livia/avatar/livia-1.png",
       "defaultAvatar": {
-        "path": "portraits/livia/avatar/livia.png",
+        "path": "portraits/livia/avatar/livia-1.png",
         "sha256": "4246119f0f58a88f9b21040b7810852e70d43f3405142cf76354c672e81168ad",
         "bytes": 1608047,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
-      "standee": [],
-      "retiredSource": {
-        "path": "portraits/livia/avatar/livia.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/livia/avatar/livia.png"
-      }
+      "initialAvatar": {
+        "path": "portraits/livia/avatar/livia-3.png",
+        "sha256": "e0e10addddca0d8de9aab03c1ae05356fcc656cd8b6e30cba68c695f34a8f41f",
+        "bytes": 1463954,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
+      "standee": [
+        {
+          "path": "portraits/livia/avatar/livia-3.png",
+          "sha256": "e0e10addddca0d8de9aab03c1ae05356fcc656cd8b6e30cba68c695f34a8f41f",
+          "bytes": 1463954,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
+        }
+      ],
+      "cg": []
     },
     {
       "id": "lucius",
       "name": "卢修斯",
       "status": "ready",
-      "image": "portraits/lucius/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/lucius/avatar/lucius.png",
-      "sha256": "cd370eb8b382e82a132d9be808daa4b014620bf35852a5135b189b0245f5eecf",
-      "bytes": 137856,
-      "initialAvatar": {
-        "path": "portraits/lucius/avatar/initial-avatar.webp",
-        "sha256": "cd370eb8b382e82a132d9be808daa4b014620bf35852a5135b189b0245f5eecf",
-        "bytes": 137856,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/lucius/avatar/lucius-1.png",
       "defaultAvatar": {
-        "path": "portraits/lucius/avatar/lucius.png",
+        "path": "portraits/lucius/avatar/lucius-1.png",
         "sha256": "165a0b20ad94c901512586e9979165c4b59e9b61c266725579b23d08cc8eb4b5",
         "bytes": 2398436,
         "width": 1152,
         "height": 1664,
         "label": "默认头像"
       },
-      "standee": [],
-      "retiredSource": {
-        "path": "portraits/lucius/avatar/lucius.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/lucius/avatar/lucius.png"
-      }
+      "initialAvatar": {
+        "path": "portraits/lucius/avatar/lucius-3.png",
+        "sha256": "c21d3318e675495fa7525a035fe426fd45d3d53c296e438ae15b2c2f20839457",
+        "bytes": 1597561,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
+      "standee": [
+        {
+          "path": "portraits/lucius/avatar/lucius-3.png",
+          "sha256": "c21d3318e675495fa7525a035fe426fd45d3d53c296e438ae15b2c2f20839457",
+          "bytes": 1597561,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
+        }
+      ],
+      "cg": []
     },
     {
       "id": "lumina",
       "name": "露米娜",
       "status": "ready",
-      "image": "portraits/lumina/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/lumina/avatar/lumina.png",
-      "sha256": "ed18a80ac33a18200ef1812b340954659ee1f28263f937114dfe92ef6bef69c5",
-      "bytes": 176324,
-      "initialAvatar": {
-        "path": "portraits/lumina/avatar/initial-avatar.webp",
-        "sha256": "ed18a80ac33a18200ef1812b340954659ee1f28263f937114dfe92ef6bef69c5",
-        "bytes": 176324,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/lumina/avatar/lumina-1.png",
       "defaultAvatar": {
-        "path": "portraits/lumina/avatar/lumina.png",
+        "path": "portraits/lumina/avatar/lumina-1.png",
         "sha256": "4436ee98c1f23458c2936670342653d746155aca714518c189bca8dd782c33f4",
         "bytes": 1562992,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
+      "initialAvatar": {
+        "path": "portraits/lumina/avatar/lumina-3.png",
+        "sha256": "029033b25148696316db840a7553560c1cada71327515d3b80520b692d14c9f0",
+        "bytes": 1894408,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
       "standee": [
         {
-          "path": "portraits/lumina/standee/lumina.png",
+          "path": "portraits/lumina/avatar/lumina-2.png",
           "sha256": "e5a14d0372690a2817cb3ba7df622d6f18126040d36c5e4262b91ed02474a934",
           "bytes": 1582434,
           "width": 896,
           "height": 1344,
           "label": "默认立绘"
+        },
+        {
+          "path": "portraits/lumina/avatar/lumina-3.png",
+          "sha256": "029033b25148696316db840a7553560c1cada71327515d3b80520b692d14c9f0",
+          "bytes": 1894408,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
         }
       ],
-      "retiredSource": {
-        "path": "portraits/lumina/avatar/lumina.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/lumina/avatar/lumina.png"
-      }
+      "cg": []
     },
     {
       "id": "merl",
       "name": "梅尔尔",
       "status": "ready",
-      "image": "portraits/merl/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/merl/avatar/merl.png",
-      "sha256": "3c3876c2f43902ed4dcd8a0167acdf19371905931ab4d6530443987635744b50",
-      "bytes": 174554,
-      "initialAvatar": {
-        "path": "portraits/merl/avatar/initial-avatar.webp",
-        "sha256": "3c3876c2f43902ed4dcd8a0167acdf19371905931ab4d6530443987635744b50",
-        "bytes": 174554,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/merl/avatar/merl-1.png",
       "defaultAvatar": {
-        "path": "portraits/merl/avatar/merl.png",
+        "path": "portraits/merl/avatar/merl-1.png",
         "sha256": "2b3ed877035a711b1b27d4637ad49b4585c8c1cfe8ec99dc3518f28aefd14d85",
         "bytes": 1797088,
         "width": 896,
         "height": 998,
         "label": "默认头像"
       },
+      "initialAvatar": {
+        "path": "portraits/merl/avatar/merl-3.png",
+        "sha256": "aaa960308e42d5e51e184eb3a47c989fa142efb826b18f0b2ec2430dc8e56e25",
+        "bytes": 1833705,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
       "standee": [
         {
-          "path": "portraits/merl/standee/merl.png",
+          "path": "portraits/merl/avatar/merl-2.png",
           "sha256": "5c4a3829fb2abbb9c9191479589f8b3ceecde1b1573920e820f04e2678f551aa",
           "bytes": 1420919,
           "width": 896,
           "height": 1344,
           "label": "默认立绘"
+        },
+        {
+          "path": "portraits/merl/avatar/merl-3.png",
+          "sha256": "aaa960308e42d5e51e184eb3a47c989fa142efb826b18f0b2ec2430dc8e56e25",
+          "bytes": 1833705,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
         }
       ],
-      "retiredSource": {
-        "path": "portraits/merl/avatar/merl.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/merl/avatar/merl.png"
-      }
+      "cg": []
     },
     {
       "id": "mimi",
       "name": "咪咪",
       "status": "ready",
-      "image": "portraits/mimi/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/mimi/avatar/mimi.png",
-      "sha256": "3b19c8c33ac6589ea9dad8b21a11b30992b5c9a25d592c3d4c3ce49490d8e101",
-      "bytes": 129154,
-      "initialAvatar": {
-        "path": "portraits/mimi/avatar/initial-avatar.webp",
-        "sha256": "3b19c8c33ac6589ea9dad8b21a11b30992b5c9a25d592c3d4c3ce49490d8e101",
-        "bytes": 129154,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/mimi/avatar/mimi-1.png",
       "defaultAvatar": {
-        "path": "portraits/mimi/avatar/mimi.png",
+        "path": "portraits/mimi/avatar/mimi-1.png",
         "sha256": "bb2a388488a225fefd8bc6fb27ee1ad9005c0973bae7509926a4a9c3f14e4527",
         "bytes": 1592832,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
-      "standee": [],
-      "retiredSource": {
-        "path": "portraits/mimi/avatar/mimi.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/mimi/avatar/mimi.png"
-      }
+      "initialAvatar": {
+        "path": "portraits/mimi/avatar/mimi-3.png",
+        "sha256": "6f2ac9ab3a30851fa512163c314a5260600fdbff41fcc6e12b47e0ccbdfc687f",
+        "bytes": 1384807,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
+      "standee": [
+        {
+          "path": "portraits/mimi/avatar/mimi-3.png",
+          "sha256": "6f2ac9ab3a30851fa512163c314a5260600fdbff41fcc6e12b47e0ccbdfc687f",
+          "bytes": 1384807,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
+        }
+      ],
+      "cg": []
     },
     {
       "id": "natasha",
       "name": "娜塔莎",
       "status": "ready",
-      "image": "portraits/natasha/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/natasha/avatar/natasha.png",
-      "sha256": "8bdafe1feb166260ecf66ec9c83990c48ab43ab80f8627c5cde8127b2183176e",
-      "bytes": 131262,
-      "initialAvatar": {
-        "path": "portraits/natasha/avatar/initial-avatar.webp",
-        "sha256": "8bdafe1feb166260ecf66ec9c83990c48ab43ab80f8627c5cde8127b2183176e",
-        "bytes": 131262,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/natasha/avatar/natasha-1.png",
       "defaultAvatar": {
-        "path": "portraits/natasha/avatar/natasha.png",
+        "path": "portraits/natasha/avatar/natasha-1.png",
         "sha256": "3c7c53f4e765a7240230adef2233b754bbe1b03659c05489a4787a0097060da8",
         "bytes": 1741519,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
-      "standee": [],
-      "retiredSource": {
-        "path": "portraits/natasha/avatar/natasha.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/natasha/avatar/natasha.png"
-      }
+      "initialAvatar": {
+        "path": "portraits/natasha/avatar/natasha-3.png",
+        "sha256": "755ec224513f786ada788cbcf5f06b5b1b9c0adf0565a1c2ba0622a098866e1c",
+        "bytes": 1535156,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
+      "standee": [
+        {
+          "path": "portraits/natasha/avatar/natasha-3.png",
+          "sha256": "755ec224513f786ada788cbcf5f06b5b1b9c0adf0565a1c2ba0622a098866e1c",
+          "bytes": 1535156,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
+        }
+      ],
+      "cg": []
     },
     {
       "id": "ophelia",
       "name": "奥菲莉亚",
       "status": "ready",
-      "image": "portraits/ophelia/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/ophelia/avatar/ophelia.png",
-      "sha256": "adac2140008296302a48cf832acf532f2d3d1376430a51ce639d4d984ccb4788",
-      "bytes": 178040,
-      "initialAvatar": {
-        "path": "portraits/ophelia/avatar/initial-avatar.webp",
-        "sha256": "adac2140008296302a48cf832acf532f2d3d1376430a51ce639d4d984ccb4788",
-        "bytes": 178040,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/ophelia/avatar/ophelia-1.png",
       "defaultAvatar": {
-        "path": "portraits/ophelia/avatar/ophelia.png",
+        "path": "portraits/ophelia/avatar/ophelia-1.png",
         "sha256": "876c65b4d57fe97c513a0b7dbc75cbc84d9b60ad5a94d287928f05aaf277d69f",
         "bytes": 1733359,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
-      "standee": [],
-      "retiredSource": {
-        "path": "portraits/ophelia/avatar/ophelia.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/ophelia/avatar/ophelia.png"
-      }
+      "initialAvatar": {
+        "path": "portraits/ophelia/avatar/ophelia-3.png",
+        "sha256": "fef34795e8b1cf46629452936f6d2b69aeba1131708e7111a759e98ab0cee543",
+        "bytes": 1835277,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
+      "standee": [
+        {
+          "path": "portraits/ophelia/avatar/ophelia-3.png",
+          "sha256": "fef34795e8b1cf46629452936f6d2b69aeba1131708e7111a759e98ab0cee543",
+          "bytes": 1835277,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
+        }
+      ],
+      "cg": []
     },
     {
       "id": "roland",
       "name": "罗兰",
       "status": "ready",
-      "image": "portraits/roland/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/roland/avatar/roland.png",
-      "sha256": "a97801c745040d9412eeb56e1abb92300d676a4ab60a16309b0d568dd49ecea0",
-      "bytes": 166050,
-      "initialAvatar": {
-        "path": "portraits/roland/avatar/initial-avatar.webp",
-        "sha256": "a97801c745040d9412eeb56e1abb92300d676a4ab60a16309b0d568dd49ecea0",
-        "bytes": 166050,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/roland/avatar/roland-1.png",
       "defaultAvatar": {
-        "path": "portraits/roland/avatar/roland.png",
+        "path": "portraits/roland/avatar/roland-1.png",
         "sha256": "60feb4dd08b0141931e2cc4aee7d0c88a791f1920ee17d2b42a64a6e6f8e9c53",
         "bytes": 1645712,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
-      "standee": [],
-      "retiredSource": {
-        "path": "portraits/roland/avatar/roland.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/roland/avatar/roland.png"
-      }
+      "initialAvatar": {
+        "path": "portraits/roland/avatar/roland-3.png",
+        "sha256": "3c7df23fe11ee908de25ac4ebac36a6149a821842bdf645eccf51d3fffad6a7e",
+        "bytes": 1696733,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
+      "standee": [
+        {
+          "path": "portraits/roland/avatar/roland-3.png",
+          "sha256": "3c7df23fe11ee908de25ac4ebac36a6149a821842bdf645eccf51d3fffad6a7e",
+          "bytes": 1696733,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
+        }
+      ],
+      "cg": []
     },
     {
       "id": "sariel",
       "name": "萨莉尔",
       "status": "ready",
-      "image": "portraits/sariel/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/sariel/avatar/sariel.png",
-      "sha256": "a2603569bc0a43e0779f6c627f8023df6de86ecb7fbdd57eb7b57bfce60cd1f0",
-      "bytes": 141686,
-      "initialAvatar": {
-        "path": "portraits/sariel/avatar/initial-avatar.webp",
-        "sha256": "a2603569bc0a43e0779f6c627f8023df6de86ecb7fbdd57eb7b57bfce60cd1f0",
-        "bytes": 141686,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/sariel/avatar/sariel-1.png",
       "defaultAvatar": {
-        "path": "portraits/sariel/avatar/sariel.png",
+        "path": "portraits/sariel/avatar/sariel-1.png",
         "sha256": "ad38c29ef482201e078ba599ef786f5c3cfd298de1bad6658c902e2e81d31b69",
         "bytes": 1647585,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
-      "standee": [],
-      "retiredSource": {
-        "path": "portraits/sariel/avatar/sariel.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/sariel/avatar/sariel.png"
-      }
+      "initialAvatar": {
+        "path": "portraits/sariel/avatar/sariel-3.png",
+        "sha256": "3e20a248cd7c90e5b3de5d792f4289863356fdbc6f4f958b91037d0ae3fdf87b",
+        "bytes": 1566863,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
+      "standee": [
+        {
+          "path": "portraits/sariel/avatar/sariel-3.png",
+          "sha256": "3e20a248cd7c90e5b3de5d792f4289863356fdbc6f4f958b91037d0ae3fdf87b",
+          "bytes": 1566863,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
+        }
+      ],
+      "cg": []
     },
     {
       "id": "seraphina",
       "name": "塞拉菲娜",
       "status": "ready",
-      "image": "portraits/seraphina/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/seraphina/avatar/seraphina.png",
-      "sha256": "46c0b9811ecee6691ee72c0500941235e53fe8b3ae3d0a6ae1a84f297806bdfa",
-      "bytes": 155762,
-      "initialAvatar": {
-        "path": "portraits/seraphina/avatar/initial-avatar.webp",
-        "sha256": "46c0b9811ecee6691ee72c0500941235e53fe8b3ae3d0a6ae1a84f297806bdfa",
-        "bytes": 155762,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/seraphina/avatar/seraphina-1.png",
       "defaultAvatar": {
-        "path": "portraits/seraphina/avatar/seraphina.png",
+        "path": "portraits/seraphina/avatar/seraphina-1.png",
         "sha256": "500eb1dc619999e15d4df71fba2ee66b52ffc6f6b957d5dae01e720e28718a0a",
         "bytes": 1711066,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
-      "standee": [],
-      "retiredSource": {
-        "path": "portraits/seraphina/avatar/seraphina.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/seraphina/avatar/seraphina.png"
-      }
+      "initialAvatar": {
+        "path": "portraits/seraphina/avatar/seraphina-3.png",
+        "sha256": "343958bae5009f476dfdf28f0877cdf87090e4e12d74c79547e4ce221c55bc60",
+        "bytes": 1664242,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
+      "standee": [
+        {
+          "path": "portraits/seraphina/avatar/seraphina-3.png",
+          "sha256": "343958bae5009f476dfdf28f0877cdf87090e4e12d74c79547e4ce221c55bc60",
+          "bytes": 1664242,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
+        }
+      ],
+      "cg": []
     },
     {
       "id": "sylph",
       "name": "希尔菲",
       "status": "ready",
-      "image": "portraits/sylph/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/sylph/avatar/sylph.png",
-      "sha256": "8710f6b666fff9ef74b921a4b299d00010d5c7a7276f9afa16dc13194b6429b7",
-      "bytes": 167018,
-      "initialAvatar": {
-        "path": "portraits/sylph/avatar/initial-avatar.webp",
-        "sha256": "8710f6b666fff9ef74b921a4b299d00010d5c7a7276f9afa16dc13194b6429b7",
-        "bytes": 167018,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/sylph/avatar/sylph-1.png",
       "defaultAvatar": {
-        "path": "portraits/sylph/avatar/sylph.png",
+        "path": "portraits/sylph/avatar/sylph-1.png",
         "sha256": "2509e80701f3d0f8c1cb1f1dab776c14b0b4b0611afde44c0fef99000de2da36",
         "bytes": 1791272,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
+      "initialAvatar": {
+        "path": "portraits/sylph/avatar/sylph-3.png",
+        "sha256": "07abda36e4d4e4985d2a83e74915f71e7fe3d454b187a68b6429bb8df500c992",
+        "bytes": 1742103,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
       "standee": [
         {
-          "path": "portraits/sylph/standee/sylph.png",
+          "path": "portraits/sylph/avatar/sylph-2.png",
           "sha256": "f7b7ef9eb9be67deb8fbeb3d63550d2b8291e0d007311367333e1b8aa9c57746",
           "bytes": 2666601,
           "width": 1152,
           "height": 1664,
           "label": "默认立绘"
+        },
+        {
+          "path": "portraits/sylph/avatar/sylph-3.png",
+          "sha256": "07abda36e4d4e4985d2a83e74915f71e7fe3d454b187a68b6429bb8df500c992",
+          "bytes": 1742103,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
         }
       ],
-      "retiredSource": {
-        "path": "portraits/sylph/avatar/sylph.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/sylph/avatar/sylph.png"
-      }
+      "cg": []
     },
     {
       "id": "sylvana",
       "name": "希尔瓦娜",
       "status": "ready",
-      "image": "portraits/sylvana/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/sylvana/avatar/sylvana.png",
-      "sha256": "aadba186a71cadb34a19fb7017d517a23b566361e2d6311e6c0a05aff2b49461",
-      "bytes": 177854,
-      "initialAvatar": {
-        "path": "portraits/sylvana/avatar/initial-avatar.webp",
-        "sha256": "aadba186a71cadb34a19fb7017d517a23b566361e2d6311e6c0a05aff2b49461",
-        "bytes": 177854,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/sylvana/avatar/sylvana-1.png",
       "defaultAvatar": {
-        "path": "portraits/sylvana/avatar/sylvana.png",
+        "path": "portraits/sylvana/avatar/sylvana-1.png",
         "sha256": "31eb97318148c0002020c6adc0fe6954fdac5ccfca069b268211761b208792b3",
         "bytes": 1983724,
         "width": 896,
         "height": 1024,
         "label": "默认头像"
       },
+      "initialAvatar": {
+        "path": "portraits/sylvana/avatar/sylvana-3.png",
+        "sha256": "8b81e57b4ae05f0eb424b4391ebc6d67f994811576b6014115d4682d65ed5485",
+        "bytes": 1870530,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
       "standee": [
         {
-          "path": "portraits/sylvana/standee/sylvana.png",
+          "path": "portraits/sylvana/avatar/sylvana-2.png",
           "sha256": "924cc6fada7c5a24539a99e282ed574aba7bb2617a4742a9c561438632f5c3e5",
           "bytes": 1454483,
           "width": 896,
           "height": 1344,
           "label": "默认立绘"
+        },
+        {
+          "path": "portraits/sylvana/avatar/sylvana-3.png",
+          "sha256": "8b81e57b4ae05f0eb424b4391ebc6d67f994811576b6014115d4682d65ed5485",
+          "bytes": 1870530,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
         }
       ],
-      "retiredSource": {
-        "path": "portraits/sylvana/avatar/sylvana.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/sylvana/avatar/sylvana.png"
-      }
+      "cg": []
     },
     {
       "id": "tia",
       "name": "缇雅",
       "status": "ready",
-      "image": "portraits/tia/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/tia/avatar/tia.png",
-      "sha256": "862c8dd087ddd2b58d10934f7bc9ceaa297c52d330d1b11971e34ddaa8c5187e",
-      "bytes": 123210,
-      "initialAvatar": {
-        "path": "portraits/tia/avatar/initial-avatar.webp",
-        "sha256": "862c8dd087ddd2b58d10934f7bc9ceaa297c52d330d1b11971e34ddaa8c5187e",
-        "bytes": 123210,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/tia/avatar/tia-1.png",
       "defaultAvatar": {
-        "path": "portraits/tia/avatar/tia.png",
+        "path": "portraits/tia/avatar/tia-1.png",
         "sha256": "20dede19144c046487d41bbb5333c5a593a4e8144afcd8f9f596978054b94f78",
         "bytes": 1614521,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
-      "standee": [],
-      "retiredSource": {
-        "path": "portraits/tia/avatar/tia.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/tia/avatar/tia.png"
-      }
+      "initialAvatar": {
+        "path": "portraits/tia/avatar/tia-3.png",
+        "sha256": "6010c6a9aee28be7d205e048d015546fc1c9812d1a66decb5e6b8cb33d7b5e1b",
+        "bytes": 1431182,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
+      "standee": [
+        {
+          "path": "portraits/tia/avatar/tia-3.png",
+          "sha256": "6010c6a9aee28be7d205e048d015546fc1c9812d1a66decb5e6b8cb33d7b5e1b",
+          "bytes": 1431182,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
+        }
+      ],
+      "cg": []
     },
     {
       "id": "victoria",
       "name": "维多利亚",
       "status": "ready",
-      "image": "portraits/victoria/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/victoria/avatar/victoria.png",
-      "sha256": "d268fc388c76ec5121adb0d898d49d0585cc2d0399ed524823490f7e60f094a8",
-      "bytes": 195288,
-      "initialAvatar": {
-        "path": "portraits/victoria/avatar/initial-avatar.webp",
-        "sha256": "d268fc388c76ec5121adb0d898d49d0585cc2d0399ed524823490f7e60f094a8",
-        "bytes": 195288,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/victoria/avatar/victoria-1.png",
       "defaultAvatar": {
-        "path": "portraits/victoria/avatar/victoria.png",
+        "path": "portraits/victoria/avatar/victoria-1.png",
         "sha256": "2f71b6a877e52c8cac6716505acfb6c7e32fb8d01843abb9ec9e945dcb66961e",
         "bytes": 1602606,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
+      "initialAvatar": {
+        "path": "portraits/victoria/avatar/victoria-3.png",
+        "sha256": "ce105cb8855dc269fb184d9d82e626677ad444c454db68fd36e2d6e7ef15ec04",
+        "bytes": 1997525,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
       "standee": [
         {
-          "path": "portraits/victoria/standee/chatgpt-20261018-fullbody.png",
-          "sha256": "f7c2ea0edb8bf7720752c81fb5376e9d911e559bcab976c85ed8114dbdbe1815",
-          "bytes": 2617777,
-          "width": 1024,
-          "height": 1536,
-          "label": "备选立绘"
-        },
-        {
-          "path": "portraits/victoria/standee/victoria.png",
+          "path": "portraits/victoria/avatar/victoria-2.png",
           "sha256": "0beea8ed6d25257fba95713ce9b10d66798d26a23af291432b63f97122803db9",
           "bytes": 1611347,
           "width": 896,
           "height": 1344,
           "label": "默认立绘"
+        },
+        {
+          "path": "portraits/victoria/avatar/victoria-3.png",
+          "sha256": "ce105cb8855dc269fb184d9d82e626677ad444c454db68fd36e2d6e7ef15ec04",
+          "bytes": 1997525,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
         }
       ],
-      "retiredSource": {
-        "path": "portraits/victoria/avatar/victoria.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/victoria/avatar/victoria.png"
-      }
+      "cg": []
     },
     {
       "id": "yuffie",
       "name": "尤菲",
       "status": "ready",
-      "image": "portraits/yuffie/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/yuffie/avatar/yuffie.png",
-      "sha256": "8eb8d65d88d7d65bc503c9cf26d67a85b97f07021748a2c4c4ace9d3a3087703",
-      "bytes": 121334,
-      "initialAvatar": {
-        "path": "portraits/yuffie/avatar/initial-avatar.webp",
-        "sha256": "8eb8d65d88d7d65bc503c9cf26d67a85b97f07021748a2c4c4ace9d3a3087703",
-        "bytes": 121334,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/yuffie/avatar/yuffie-1.png",
       "defaultAvatar": {
-        "path": "portraits/yuffie/avatar/yuffie.png",
+        "path": "portraits/yuffie/avatar/yuffie-1.png",
         "sha256": "2cca37b8af03a1ab40dc8cdfdbda0d293638052833b7cb056c2335293865bde9",
         "bytes": 1725426,
         "width": 896,
         "height": 1280,
         "label": "默认头像"
       },
-      "standee": [],
-      "retiredSource": {
-        "path": "portraits/yuffie/avatar/yuffie.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/yuffie/avatar/yuffie.png"
-      }
+      "initialAvatar": {
+        "path": "portraits/yuffie/avatar/yuffie-3.png",
+        "sha256": "d172af5192720b534a2529595c3bd4ca7caab81d1e7909e22f03e1225929b011",
+        "bytes": 1403927,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
+      "standee": [
+        {
+          "path": "portraits/yuffie/avatar/yuffie-3.png",
+          "sha256": "d172af5192720b534a2529595c3bd4ca7caab81d1e7909e22f03e1225929b011",
+          "bytes": 1403927,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
+        }
+      ],
+      "cg": []
     },
     {
       "id": "yulia",
       "name": "尤利娅",
       "status": "ready",
-      "image": "portraits/yulia/avatar/initial-avatar.webp",
-      "sourceRaw": "portraits/yulia/avatar/yulia.png",
-      "sha256": "b16b52bf62540bf38651a09c3c12442a979500e31c48b4278bf5e5932e8813ed",
-      "bytes": 152114,
-      "initialAvatar": {
-        "path": "portraits/yulia/avatar/initial-avatar.webp",
-        "sha256": "b16b52bf62540bf38651a09c3c12442a979500e31c48b4278bf5e5932e8813ed",
-        "bytes": 152114,
-        "width": 832,
-        "height": 1216,
-        "label": "初版头像"
-      },
+      "image": "portraits/yulia/avatar/yulia-1.png",
       "defaultAvatar": {
-        "path": "portraits/yulia/avatar/yulia.png",
+        "path": "portraits/yulia/avatar/yulia-1.png",
         "sha256": "384bac4c1c8e62e958198d5a8624fffc96c849023904feb1c7221270e44d5b1f",
         "bytes": 1973818,
         "width": 896,
         "height": 1088,
         "label": "默认头像"
       },
+      "initialAvatar": {
+        "path": "portraits/yulia/avatar/yulia-3.png",
+        "sha256": "d7614a7201176d5ab409092c426abe206ee8f9c85d4727823d3e730dc523356a",
+        "bytes": 1729061,
+        "width": 832,
+        "height": 1216,
+        "label": "初版立绘"
+      },
       "standee": [
         {
-          "path": "portraits/yulia/standee/yulia.png",
+          "path": "portraits/yulia/avatar/yulia-2.png",
           "sha256": "9429ff3dd4796d2ec939e7fcaec45f8e8ecd7500105b3fe3b92ff5473bd96d4b",
           "bytes": 1375052,
           "width": 896,
           "height": 1344,
           "label": "默认立绘"
+        },
+        {
+          "path": "portraits/yulia/avatar/yulia-3.png",
+          "sha256": "d7614a7201176d5ab409092c426abe206ee8f9c85d4727823d3e730dc523356a",
+          "bytes": 1729061,
+          "width": 832,
+          "height": 1216,
+          "label": "初版立绘"
         }
       ],
-      "retiredSource": {
-        "path": "portraits/yulia/avatar/yulia.png",
-        "retired": true,
-        "snapshotPath": "_archive-snapshot/edina-dawn-2026-10-21/files/portraits/yulia/avatar/yulia.png"
-      }
+      "cg": []
     }
   ],
-  "assetCount": 214,
+  "assetCount": 73,
   "assets": [
     {
-      "path": "portraits/beatrix/avatar/beatrix.png",
+      "path": "portraits/beatrix/avatar/beatrix-1.png",
       "sha256": "56fc7ec93065903bf6701d8ecd9b02bb8e6de23121221e0d06bacb816e2c711b",
       "bytes": 1373959,
       "width": 896,
@@ -1041,43 +1075,10 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "beatrix",
-      "thumb": "portraits/beatrix/avatar/thumbs/beatrix.webp"
+      "thumb": "portraits/beatrix/avatar/thumbs/beatrix-1.webp"
     },
     {
-      "path": "portraits/beatrix/avatar/thumbs/beatrix.webp",
-      "sha256": "da847f60f7e99817a08ca03f7a0fd1f9029e17e72cdceef5b9718be42b35e46c",
-      "bytes": 78462,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "beatrix",
-      "thumb": null
-    },
-    {
-      "path": "portraits/beatrix/avatar/initial-avatar.webp",
-      "sha256": "861e608b21f444620f5e6b647307f7d43478875fd82c1691b66278987d4357e3",
-      "bytes": 138622,
-      "width": 832,
-      "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "beatrix",
-      "thumb": "portraits/beatrix/avatar/thumbs/initial-avatar.webp"
-    },
-    {
-      "path": "portraits/beatrix/avatar/thumbs/initial-avatar.webp",
-      "sha256": "edf0c0a67f62209aa4163e524b3f4dbef1810b3d630a0c1a9342e6a48fdb8ad1",
-      "bytes": 65294,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "beatrix",
-      "thumb": null
-    },
-    {
-      "path": "portraits/beatrix/standee/beatrix.png",
+      "path": "portraits/beatrix/avatar/beatrix-2.png",
       "sha256": "11cefdaaf7bd66bcdbd25d456341f6cada2a2d76eac5e2a8e14fb5c75e7cd890",
       "bytes": 4115455,
       "width": 1152,
@@ -1085,18 +1086,18 @@
       "mime": "image/png",
       "kind": "standee",
       "character": "beatrix",
-      "thumb": "portraits/beatrix/standee/thumbs/beatrix.webp"
+      "thumb": "portraits/beatrix/avatar/thumbs/beatrix-2.webp"
     },
     {
-      "path": "portraits/beatrix/standee/thumbs/beatrix.webp",
-      "sha256": "abc221ad80506362d4f6314f64d72f95bdb08f49e78e72a88f03902f3be12be3",
-      "bytes": 100154,
-      "width": 532,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "standee-thumb",
+      "path": "portraits/beatrix/avatar/beatrix-3.png",
+      "sha256": "c165cdbcf1f056aa728f8cbac22621cb25a409c088f3c92256aa449de76042dc",
+      "bytes": 1478594,
+      "width": 832,
+      "height": 1216,
+      "mime": "image/png",
+      "kind": "standee",
       "character": "beatrix",
-      "thumb": null
+      "thumb": "portraits/beatrix/avatar/thumbs/beatrix-3.webp"
     },
     {
       "path": "portraits/beatrix/previous/standee-20261012.png",
@@ -1106,22 +1107,10 @@
       "height": 1344,
       "mime": "image/png",
       "kind": "previous",
-      "character": "beatrix",
-      "thumb": "portraits/beatrix/previous/thumbs/standee-20261012.webp"
+      "character": "beatrix"
     },
     {
-      "path": "portraits/beatrix/previous/thumbs/standee-20261012.webp",
-      "sha256": "0486d971bd90f6440eeac7d3317b74ef784efec49aaf6e2a25408a17b3882c28",
-      "bytes": 68450,
-      "width": 512,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "beatrix",
-      "thumb": null
-    },
-    {
-      "path": "portraits/cecilia/avatar/cecilia.png",
+      "path": "portraits/cecilia/avatar/cecilia-1.png",
       "sha256": "b9bf6894cc2425e6eecd09a31a24f1091ee380d53c1e83bf431b8812057d0134",
       "bytes": 1375413,
       "width": 896,
@@ -1129,43 +1118,10 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "cecilia",
-      "thumb": "portraits/cecilia/avatar/thumbs/cecilia.webp"
+      "thumb": "portraits/cecilia/avatar/thumbs/cecilia-1.webp"
     },
     {
-      "path": "portraits/cecilia/avatar/thumbs/cecilia.webp",
-      "sha256": "ca89e7dc73fde6de0ca457a9bb45c76a170f9d91d6c045f0603ec0ffba30820e",
-      "bytes": 75984,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "cecilia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/cecilia/avatar/initial-avatar.webp",
-      "sha256": "1ec9a9438972f85cea3857eed7e12c0e0e5859d01a61f6e859319a5662fe4a6f",
-      "bytes": 131140,
-      "width": 832,
-      "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "cecilia",
-      "thumb": "portraits/cecilia/avatar/thumbs/initial-avatar.webp"
-    },
-    {
-      "path": "portraits/cecilia/avatar/thumbs/initial-avatar.webp",
-      "sha256": "1600c51efd09e3a8f1e2983cfa65bcec6ed72e6c9be321b761cf2925eb662194",
-      "bytes": 65094,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "cecilia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/cecilia/standee/cecilia.png",
+      "path": "portraits/cecilia/avatar/cecilia-2.png",
       "sha256": "6636f19e4da23c8173edc5c23dc1d6014bfe535b5f407a684f2c47bec622c897",
       "bytes": 2285864,
       "width": 1152,
@@ -1173,18 +1129,18 @@
       "mime": "image/png",
       "kind": "standee",
       "character": "cecilia",
-      "thumb": "portraits/cecilia/standee/thumbs/cecilia.webp"
+      "thumb": "portraits/cecilia/avatar/thumbs/cecilia-2.webp"
     },
     {
-      "path": "portraits/cecilia/standee/thumbs/cecilia.webp",
-      "sha256": "54e455f2a1358a0501e88f84df202899101ec010cfe5b9518caa9fbe4abfddc8",
-      "bytes": 64756,
-      "width": 532,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "standee-thumb",
+      "path": "portraits/cecilia/avatar/cecilia-3.png",
+      "sha256": "7741afbbbc5101b8399925bbbf632ae945da26561cffa114d97d50d1adedcf4a",
+      "bytes": 1559571,
+      "width": 832,
+      "height": 1216,
+      "mime": "image/png",
+      "kind": "standee",
       "character": "cecilia",
-      "thumb": null
+      "thumb": "portraits/cecilia/avatar/thumbs/cecilia-3.webp"
     },
     {
       "path": "portraits/cecilia/previous/standee-20261012.png",
@@ -1194,22 +1150,10 @@
       "height": 1344,
       "mime": "image/png",
       "kind": "previous",
-      "character": "cecilia",
-      "thumb": "portraits/cecilia/previous/thumbs/standee-20261012.webp"
+      "character": "cecilia"
     },
     {
-      "path": "portraits/cecilia/previous/thumbs/standee-20261012.webp",
-      "sha256": "7bc605027b22077268debb308a784895c98583b789167dabbd5859fda984a23b",
-      "bytes": 74174,
-      "width": 512,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "cecilia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/celine/avatar/celine.png",
+      "path": "portraits/celine/avatar/celine-1.png",
       "sha256": "680fd81c857093fbb20387d0fadce1b153f5fb07dd946112933b62e86bf3876c",
       "bytes": 1744409,
       "width": 896,
@@ -1217,109 +1161,21 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "celine",
-      "thumb": "portraits/celine/avatar/thumbs/celine.webp"
+      "thumb": "portraits/celine/avatar/thumbs/celine-1.webp"
     },
     {
-      "path": "portraits/celine/avatar/thumbs/celine.webp",
-      "sha256": "67bbd98dbd69cf6c7d90cd66084b90b56c0cb630d70be3781679c76ca198a092",
-      "bytes": 89112,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "celine",
-      "thumb": null
-    },
-    {
-      "path": "portraits/celine/avatar/initial-avatar.webp",
-      "sha256": "bc4de12e5e83890e66e05dafc8c67c05ed312a754aa784985c9b1d8fb77544ec",
-      "bytes": 170106,
+      "path": "portraits/celine/avatar/celine-3.png",
+      "sha256": "f26071fd311590530f7e5b49bdb7c4d6699a13e8b1a4d707bc9a00478f7687ba",
+      "bytes": 1762609,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "celine",
-      "thumb": "portraits/celine/avatar/thumbs/initial-avatar.webp"
-    },
-    {
-      "path": "portraits/celine/avatar/thumbs/initial-avatar.webp",
-      "sha256": "c4eb6e9f29268190a7dcc94e1de35193bd287558fe01ea8c144d6c2680d927f4",
-      "bytes": 81594,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "celine",
-      "thumb": null
-    },
-    {
-      "path": "portraits/celine/previous/712-celine-avatar-v3-overview.jpg",
-      "sha256": "608b63098736aa65b6f33747e89943ca35be41f12c5079e0b223cf2437fc1577",
-      "bytes": 752048,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "celine",
-      "thumb": "portraits/celine/previous/thumbs/712-celine-avatar-v3-overview.webp"
-    },
-    {
-      "path": "portraits/celine/previous/thumbs/712-celine-avatar-v3-overview.webp",
-      "sha256": "a1b1dd70b83d18811331eccbb1b74d1f9b9c9c6a802e1c001b158d1125295ea1",
-      "bytes": 166702,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "celine",
-      "thumb": null
-    },
-    {
-      "path": "portraits/celine/previous/712-celine-fix-v2-overview.jpg",
-      "sha256": "7ab00fd6b6f52a0336138050c37da8b2f5e7fe467f32f8ee341dacfb0056b29f",
-      "bytes": 373546,
-      "width": 1608,
-      "height": 867,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "celine",
-      "thumb": "portraits/celine/previous/thumbs/712-celine-fix-v2-overview.webp"
-    },
-    {
-      "path": "portraits/celine/previous/thumbs/712-celine-fix-v2-overview.webp",
-      "sha256": "38b5fe729f144f9060d37c003cb3210f19f48d5c063453278ac5cfd86b82b044",
-      "bytes": 86660,
-      "width": 768,
-      "height": 414,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "celine",
-      "thumb": null
-    },
-    {
-      "path": "portraits/clara/avatar/chatgpt-20261018-halfbody.png",
-      "sha256": "64406e082243d06460459ad60351f14f7c4a648ef4c915c84340990ff9d59b63",
-      "bytes": 2545868,
-      "width": 1024,
-      "height": 1536,
       "mime": "image/png",
-      "kind": "avatar",
-      "character": "clara",
-      "thumb": "portraits/clara/avatar/thumbs/chatgpt-20261018-halfbody.webp"
+      "kind": "standee",
+      "character": "celine",
+      "thumb": "portraits/celine/avatar/thumbs/celine-3.webp"
     },
     {
-      "path": "portraits/clara/avatar/thumbs/chatgpt-20261018-halfbody.webp",
-      "sha256": "b9c58466d75fba12a6e439e9abe551b15c9d8624094a4e5e7e926262cac57be4",
-      "bytes": 85742,
-      "width": 512,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "clara",
-      "thumb": null
-    },
-    {
-      "path": "portraits/clara/avatar/clara.png",
+      "path": "portraits/clara/avatar/clara-1.png",
       "sha256": "8e5284437692cf10a4299243244a9b0b2a5eb7fe5aa77c458da11fe99c5b3a27",
       "bytes": 1449743,
       "width": 896,
@@ -1327,43 +1183,21 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "clara",
-      "thumb": "portraits/clara/avatar/thumbs/clara.webp"
+      "thumb": "portraits/clara/avatar/thumbs/clara-1.webp"
     },
     {
-      "path": "portraits/clara/avatar/thumbs/clara.webp",
-      "sha256": "588f4c048844ce27e915bb81feb4a1d4498b3a914d93a55f74ab6818988e6f93",
-      "bytes": 86920,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "clara",
-      "thumb": null
-    },
-    {
-      "path": "portraits/clara/avatar/initial-avatar.webp",
-      "sha256": "005e752a78a97ca21c3596d7ed5ffd7e077c034fc75a15a93dde4866003e38b4",
-      "bytes": 147452,
-      "width": 832,
-      "height": 1216,
-      "mime": "image/webp",
+      "path": "portraits/clara/avatar/clara-4.png",
+      "sha256": "64406e082243d06460459ad60351f14f7c4a648ef4c915c84340990ff9d59b63",
+      "bytes": 2545868,
+      "width": 1024,
+      "height": 1536,
+      "mime": "image/png",
       "kind": "avatar",
       "character": "clara",
-      "thumb": "portraits/clara/avatar/thumbs/initial-avatar.webp"
+      "thumb": "portraits/clara/avatar/thumbs/clara-4.webp"
     },
     {
-      "path": "portraits/clara/avatar/thumbs/initial-avatar.webp",
-      "sha256": "7bbb09fcf84bfa0038024952570d74cbe262ba24fd3af5f0732e509a1d0cf71b",
-      "bytes": 70852,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "clara",
-      "thumb": null
-    },
-    {
-      "path": "portraits/clara/standee/clara.png",
+      "path": "portraits/clara/avatar/clara-2.png",
       "sha256": "3e3e5bcec5538ce2a252dad9814cb423b1bb531a27f53dc75159a3c856a2b02b",
       "bytes": 2416572,
       "width": 1152,
@@ -1371,18 +1205,18 @@
       "mime": "image/png",
       "kind": "standee",
       "character": "clara",
-      "thumb": "portraits/clara/standee/thumbs/clara.webp"
+      "thumb": "portraits/clara/avatar/thumbs/clara-2.webp"
     },
     {
-      "path": "portraits/clara/standee/thumbs/clara.webp",
-      "sha256": "0c60648f7512f6f2848895ca722fdb4a6e6388eea325032651d8ab79986f0db3",
-      "bytes": 77318,
-      "width": 532,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "standee-thumb",
+      "path": "portraits/clara/avatar/clara-3.png",
+      "sha256": "72bafe1069d8f12f3104ebd2058edd9329eda8aa3033952632ef6f3646f432a7",
+      "bytes": 1699679,
+      "width": 832,
+      "height": 1216,
+      "mime": "image/png",
+      "kind": "standee",
       "character": "clara",
-      "thumb": null
+      "thumb": "portraits/clara/avatar/thumbs/clara-3.webp"
     },
     {
       "path": "portraits/clara/previous/standee-20261012.png",
@@ -1392,22 +1226,10 @@
       "height": 1344,
       "mime": "image/png",
       "kind": "previous",
-      "character": "clara",
-      "thumb": "portraits/clara/previous/thumbs/standee-20261012.webp"
+      "character": "clara"
     },
     {
-      "path": "portraits/clara/previous/thumbs/standee-20261012.webp",
-      "sha256": "280107f800c2b50dbea82f8010aa212215ada16e9ea013877f605d836e93a0ee",
-      "bytes": 86886,
-      "width": 512,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "clara",
-      "thumb": null
-    },
-    {
-      "path": "portraits/dorothy/avatar/dorothy.png",
+      "path": "portraits/dorothy/avatar/dorothy-1.png",
       "sha256": "1ce4531c3ddcdc72757d8d28cb53c03cb74d1207eb2079ed5093915397ac72f0",
       "bytes": 2494012,
       "width": 1152,
@@ -1415,153 +1237,32 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "dorothy",
-      "thumb": "portraits/dorothy/avatar/thumbs/dorothy.webp"
+      "thumb": "portraits/dorothy/avatar/thumbs/dorothy-1.webp"
     },
     {
-      "path": "portraits/dorothy/avatar/thumbs/dorothy.webp",
-      "sha256": "c341bf13ccbedd2665c58bf983fd778bfec65428cef01667801a9c923d2eaf1b",
-      "bytes": 80398,
-      "width": 532,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "dorothy",
-      "thumb": null
-    },
-    {
-      "path": "portraits/dorothy/avatar/initial-avatar.webp",
-      "sha256": "3350aa665b54a25052dbb38a3ff6ad993719d9b9eaa5a1b0d3b5bac71da7336b",
-      "bytes": 150908,
+      "path": "portraits/dorothy/avatar/dorothy-3.png",
+      "sha256": "cd39e2bc4c6cc024c83c09c9299e264407e52266ff760fd7b7970f94c3af1b7d",
+      "bytes": 1639944,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
+      "mime": "image/png",
+      "kind": "standee",
       "character": "dorothy",
-      "thumb": "portraits/dorothy/avatar/thumbs/initial-avatar.webp"
+      "thumb": "portraits/dorothy/avatar/thumbs/dorothy-3.webp"
     },
     {
-      "path": "portraits/dorothy/avatar/thumbs/initial-avatar.webp",
-      "sha256": "4a06cd4cfb7bc001e3b4f388be9073f74495c42324c681c4fa2663283250e38e",
-      "bytes": 73084,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "dorothy",
-      "thumb": null
-    },
-    {
-      "path": "portraits/edina/avatar/edina-avatar-closeup.png",
-      "sha256": "7a26dbd4e2dc7bb70ec6c66fbcff00e0b69ffbf5d86aa304d75419a151a7fdbb",
-      "bytes": 1519240,
-      "width": 896,
-      "height": 1280,
+      "path": "portraits/edina/avatar/edina-1.png",
+      "sha256": "2cbe75b0422b3e96e86988964a34b9c7d2534db23a53b9217338c6e24540282c",
+      "bytes": 1496442,
+      "width": 832,
+      "height": 1216,
       "mime": "image/png",
       "kind": "avatar",
       "character": "edina",
-      "thumb": "portraits/edina/avatar/thumbs/edina-avatar-closeup.webp"
+      "thumb": "portraits/edina/avatar/thumbs/edina-1.webp"
     },
     {
-      "path": "portraits/edina/avatar/thumbs/edina-avatar-closeup.webp",
-      "sha256": "19962bc72ee7e5004ccafc7b50aa914863638d8e0d09758aa37700d94b37c9fc",
-      "bytes": 66448,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "edina",
-      "thumb": null
-    },
-    {
-      "path": "portraits/edina/avatar/edina.png",
-      "sha256": "ea4c16ac36259520d4e858afb53137ca61dd05c3812bc89c5840d3d7dd455a7f",
-      "bytes": 1303821,
-      "width": 896,
-      "height": 1280,
-      "mime": "image/png",
-      "kind": "avatar",
-      "character": "edina",
-      "thumb": "portraits/edina/avatar/thumbs/edina.webp"
-    },
-    {
-      "path": "portraits/edina/avatar/thumbs/edina.webp",
-      "sha256": "5a7a3d4676046dec195705ce4d0c5cfe30ad0ae5b61d8980e368495b6296ca3e",
-      "bytes": 67474,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "edina",
-      "thumb": null
-    },
-    {
-      "path": "portraits/edina/avatar/initial-avatar.webp",
-      "sha256": "85c6fc223a12680cc85014edffe3271faafe33297cb1be8d5e1210541925a3e4",
-      "bytes": 193586,
-      "width": 720,
-      "height": 1080,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "edina",
-      "thumb": "portraits/edina/avatar/thumbs/initial-avatar.webp"
-    },
-    {
-      "path": "portraits/edina/avatar/thumbs/initial-avatar.webp",
-      "sha256": "79f7dbe22c67509fbd5722ce20e1db6fe9e1ff1e1d3fd501344b1351388b8de1",
-      "bytes": 94976,
-      "width": 512,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "edina",
-      "thumb": null
-    },
-    {
-      "path": "portraits/edina/avatar/loli-recipe-20261020-portrait.png",
-      "sha256": "6cf6b36be5af3d4f47e5e9b65f1701caee04e8a15237166be82e967daae9b37d",
-      "bytes": 1645874,
-      "width": 896,
-      "height": 1280,
-      "mime": "image/png",
-      "kind": "avatar",
-      "character": "edina",
-      "thumb": "portraits/edina/avatar/thumbs/loli-recipe-20261020-portrait.webp"
-    },
-    {
-      "path": "portraits/edina/avatar/thumbs/loli-recipe-20261020-portrait.webp",
-      "sha256": "246a0933a026f98366df03b49244984a55ae24378bd5a1065f17ec6bd8e08aec",
-      "bytes": 77310,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "edina",
-      "thumb": null
-    },
-    {
-      "path": "portraits/edina/avatar/loli-recipe-20261021-portrait.png",
-      "sha256": "d2aa8e02963a97884b7d9a6a0eaf5273c2605b27f0da5aacd1dcada52b3e4669",
-      "bytes": 1645874,
-      "width": 896,
-      "height": 1280,
-      "mime": "image/png",
-      "kind": "avatar",
-      "character": "edina",
-      "thumb": "portraits/edina/avatar/thumbs/loli-recipe-20261021-portrait.webp"
-    },
-    {
-      "path": "portraits/edina/avatar/thumbs/loli-recipe-20261021-portrait.webp",
-      "sha256": "246a0933a026f98366df03b49244984a55ae24378bd5a1065f17ec6bd8e08aec",
-      "bytes": 77310,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "edina",
-      "thumb": null
-    },
-    {
-      "path": "portraits/edina/standee/edina.png",
+      "path": "portraits/edina/avatar/edina-2.png",
       "sha256": "6b9cda47ab656d32ad97d7fb5b54ba8a9971076ba6fc5f513974316813e90359",
       "bytes": 1459801,
       "width": 896,
@@ -1569,153 +1270,32 @@
       "mime": "image/png",
       "kind": "standee",
       "character": "edina",
-      "thumb": "portraits/edina/standee/thumbs/edina.webp"
+      "thumb": "portraits/edina/avatar/thumbs/edina-2.webp"
     },
     {
-      "path": "portraits/edina/standee/thumbs/edina.webp",
-      "sha256": "6aea1559d12e19192a0d75fe361e8072200a2a587b80d1e7d83f1cfdb5a73830",
-      "bytes": 75412,
-      "width": 512,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "standee-thumb",
-      "character": "edina",
-      "thumb": null
-    },
-    {
-      "path": "portraits/edina/standee/loli-recipe-20261020-standee.png",
-      "sha256": "a1f753cb7a290a5c64eac4af7bb0022f39c53e1cfd4ef31069253b7e2e32010b",
-      "bytes": 1702450,
-      "width": 896,
-      "height": 1344,
+      "path": "portraits/edina/avatar/edina-3.png",
+      "sha256": "017c56bd7375406e45fa465401c060613183c57133bd74f43efd24393f97b217",
+      "bytes": 1648061,
+      "width": 720,
+      "height": 1080,
       "mime": "image/png",
       "kind": "standee",
       "character": "edina",
-      "thumb": "portraits/edina/standee/thumbs/loli-recipe-20261020-standee.webp"
+      "thumb": "portraits/edina/avatar/thumbs/edina-3.webp"
     },
     {
-      "path": "portraits/edina/standee/thumbs/loli-recipe-20261020-standee.webp",
-      "sha256": "88b2bf88eef8b0576c4074a366f259281b351be316aa4ca4d0c5c04e2aa24d1b",
-      "bytes": 76780,
-      "width": 512,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "standee-thumb",
-      "character": "edina",
-      "thumb": null
-    },
-    {
-      "path": "portraits/edina/standee/loli-recipe-20261021-standee.png",
-      "sha256": "2387990cb73564de632ca9712acfb717f1fb97514e4f6920a4e4b9d5be02c293",
-      "bytes": 1677360,
-      "width": 896,
-      "height": 1344,
+      "path": "portraits/edina/cg/edina-好奇.png",
+      "sha256": "c662db75a637803643b9f900a9d70725086bd4e74568e83733e78e23cb29a744",
+      "bytes": 1458224,
+      "width": 720,
+      "height": 1080,
       "mime": "image/png",
-      "kind": "standee",
+      "kind": "cg",
       "character": "edina",
-      "thumb": "portraits/edina/standee/thumbs/loli-recipe-20261021-standee.webp"
+      "thumb": "portraits/edina/cg/thumbs/edina-好奇.webp"
     },
     {
-      "path": "portraits/edina/standee/thumbs/loli-recipe-20261021-standee.webp",
-      "sha256": "373a68ac38bdbec147c861487e500751bad872a3c8774a7edf2ae97eb48a06de",
-      "bytes": 73864,
-      "width": 512,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "standee-thumb",
-      "character": "edina",
-      "thumb": null
-    },
-    {
-      "path": "portraits/edina/previous/709-edina-avatar-v3-overview.jpg",
-      "sha256": "aaead792872a833cda827d32a640cd6ccf3db9b19f229060b4e07a01b70d431d",
-      "bytes": 648834,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "edina",
-      "thumb": "portraits/edina/previous/thumbs/709-edina-avatar-v3-overview.webp"
-    },
-    {
-      "path": "portraits/edina/previous/thumbs/709-edina-avatar-v3-overview.webp",
-      "sha256": "0dad2a22853365e532e07d1de58d6d9be7abda15c89d69e12e475b4cf909abc6",
-      "bytes": 138604,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "edina",
-      "thumb": null
-    },
-    {
-      "path": "portraits/edina/previous/709-edina-avatar-v4-overview.jpg",
-      "sha256": "9d105f74a85e835e06e1df1e677b244cc7abb38e1dd90b5481f456e7c7ecfeef",
-      "bytes": 674018,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "edina",
-      "thumb": "portraits/edina/previous/thumbs/709-edina-avatar-v4-overview.webp"
-    },
-    {
-      "path": "portraits/edina/previous/thumbs/709-edina-avatar-v4-overview.webp",
-      "sha256": "ffa530a7790bc09a380cc7db845d31b28b1ec9218bb7a030ebd19b3e18863579",
-      "bytes": 144274,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "edina",
-      "thumb": null
-    },
-    {
-      "path": "portraits/edina/previous/709-edina-avatar-v5-overview.jpg",
-      "sha256": "5db31793ec70bd6502de682368cf7d543a711e41624eea104313e600dc279f39",
-      "bytes": 658901,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "edina",
-      "thumb": "portraits/edina/previous/thumbs/709-edina-avatar-v5-overview.webp"
-    },
-    {
-      "path": "portraits/edina/previous/thumbs/709-edina-avatar-v5-overview.webp",
-      "sha256": "b925d051e7dfa4e05f349d7cd80dc303622c02a7dc0ba4b5d9879495d9ea2fbd",
-      "bytes": 140158,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "edina",
-      "thumb": null
-    },
-    {
-      "path": "portraits/elise/avatar/alice-legacy.png",
-      "sha256": "317a3c6d1ac1aa5f669daf97c87919f54ed06a319536a7441a20538087a18fdf",
-      "bytes": 2530264,
-      "width": 1152,
-      "height": 1664,
-      "mime": "image/png",
-      "kind": "avatar",
-      "character": "elise",
-      "thumb": "portraits/elise/avatar/thumbs/alice-legacy.webp"
-    },
-    {
-      "path": "portraits/elise/avatar/thumbs/alice-legacy.webp",
-      "sha256": "b1738b2648778202b3a128395218705ef63daa61748606c71073611e79d85729",
-      "bytes": 85638,
-      "width": 532,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "elise",
-      "thumb": null
-    },
-    {
-      "path": "portraits/elise/avatar/elise.png",
+      "path": "portraits/elise/avatar/elise-1.png",
       "sha256": "82cd1b195954e691ff45f94220481525ffbfe5034607d866c37da3a1b16754e8",
       "bytes": 2493433,
       "width": 1152,
@@ -1723,43 +1303,32 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "elise",
-      "thumb": "portraits/elise/avatar/thumbs/elise.webp"
+      "thumb": "portraits/elise/avatar/thumbs/elise-1.webp"
     },
     {
-      "path": "portraits/elise/avatar/thumbs/elise.webp",
-      "sha256": "580d9e025f0379d8735c8618c4dc2a688c4f8c0b298d313355337de27dbe7915",
-      "bytes": 85962,
-      "width": 532,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "elise",
-      "thumb": null
-    },
-    {
-      "path": "portraits/elise/avatar/initial-avatar.webp",
-      "sha256": "8363a5c6eb834fbe50663d5a121bfae9c1ece4e2a4a9f383584decc0db27f915",
-      "bytes": 151356,
-      "width": 832,
-      "height": 1216,
-      "mime": "image/webp",
+      "path": "portraits/elise/avatar/elise-4.png",
+      "sha256": "317a3c6d1ac1aa5f669daf97c87919f54ed06a319536a7441a20538087a18fdf",
+      "bytes": 2530264,
+      "width": 1152,
+      "height": 1664,
+      "mime": "image/png",
       "kind": "avatar",
       "character": "elise",
-      "thumb": "portraits/elise/avatar/thumbs/initial-avatar.webp"
+      "thumb": "portraits/elise/avatar/thumbs/elise-4.webp"
     },
     {
-      "path": "portraits/elise/avatar/thumbs/initial-avatar.webp",
-      "sha256": "aeea1dfb1bc2f0f2835fa170fa0566f4d9aa5d3e355922fe617bc6326575c23c",
-      "bytes": 75582,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
+      "path": "portraits/elise/avatar/elise-3.png",
+      "sha256": "b00df94b2738eddc61ff53be1c3027467bf72e6d8944c1ce6856a2333014c843",
+      "bytes": 1674506,
+      "width": 832,
+      "height": 1216,
+      "mime": "image/png",
+      "kind": "standee",
       "character": "elise",
-      "thumb": null
+      "thumb": "portraits/elise/avatar/thumbs/elise-3.webp"
     },
     {
-      "path": "portraits/eludi/avatar/eludi.png",
+      "path": "portraits/eludi/avatar/eludi-1.png",
       "sha256": "728000ea0498322c684ab3880b134fa4a764d2530809abd70364fd1e5b5a804c",
       "bytes": 1710504,
       "width": 896,
@@ -1767,65 +1336,21 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "eludi",
-      "thumb": "portraits/eludi/avatar/thumbs/eludi.webp"
+      "thumb": "portraits/eludi/avatar/thumbs/eludi-1.webp"
     },
     {
-      "path": "portraits/eludi/avatar/thumbs/eludi.webp",
-      "sha256": "e339ed82996fb78a966dd8eb6e7c60b40cf8a40b27f94513a1db291a55d2e5db",
-      "bytes": 88266,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "eludi",
-      "thumb": null
-    },
-    {
-      "path": "portraits/eludi/avatar/initial-avatar.webp",
-      "sha256": "8a48a9778fb2a36313e7ca426b1c0c9f69e261590c8d0cb6ef6c85b5e511a87c",
-      "bytes": 154946,
+      "path": "portraits/eludi/avatar/eludi-3.png",
+      "sha256": "e7e56d974e7fd55b513027ea32bd1b53c4022954f6849ed4d6638e2b3d0219d6",
+      "bytes": 1627532,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
+      "mime": "image/png",
+      "kind": "standee",
       "character": "eludi",
-      "thumb": "portraits/eludi/avatar/thumbs/initial-avatar.webp"
+      "thumb": "portraits/eludi/avatar/thumbs/eludi-3.webp"
     },
     {
-      "path": "portraits/eludi/avatar/thumbs/initial-avatar.webp",
-      "sha256": "ba7d9b7056560ebdec85fd789c4cb72b20a956163d4ec746a44c1cc920a06056",
-      "bytes": 74766,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "eludi",
-      "thumb": null
-    },
-    {
-      "path": "portraits/eludi/previous/710-eludi-avatar-v3-overview.jpg",
-      "sha256": "1f52424fdb1b3d8b28fd286845180bc2270e2629b0e3791ff753533e3d53d662",
-      "bytes": 752547,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "eludi",
-      "thumb": "portraits/eludi/previous/thumbs/710-eludi-avatar-v3-overview.webp"
-    },
-    {
-      "path": "portraits/eludi/previous/thumbs/710-eludi-avatar-v3-overview.webp",
-      "sha256": "a272e662e31122351e5eb913dcb8c56ce89ff80ee0a697ab0319f763e92e8b2a",
-      "bytes": 163028,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "eludi",
-      "thumb": null
-    },
-    {
-      "path": "portraits/freya/avatar/freya.png",
+      "path": "portraits/freya/avatar/freya-1.png",
       "sha256": "c19fe25acc6a0ac4f3e13e8e812ada19d52ec6e5d9c9cc0125dbd6a9d513578b",
       "bytes": 1714326,
       "width": 896,
@@ -1833,87 +1358,21 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "freya",
-      "thumb": "portraits/freya/avatar/thumbs/freya.webp"
+      "thumb": "portraits/freya/avatar/thumbs/freya-1.webp"
     },
     {
-      "path": "portraits/freya/avatar/thumbs/freya.webp",
-      "sha256": "c07ed26d9e1ff77914a1e1faaa00797f8792625ba502fe7bc9ca861e2884ab41",
-      "bytes": 83244,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "freya",
-      "thumb": null
-    },
-    {
-      "path": "portraits/freya/avatar/initial-avatar.webp",
-      "sha256": "e0465acb6467adacc012bf47725cb9c7aeb9a240a2073ae3dd1bf9d6d208c813",
-      "bytes": 154650,
+      "path": "portraits/freya/avatar/freya-3.png",
+      "sha256": "430fb9e18cca276f1b82b62c665ff1f70dbbe032ec348888b6b191bf58c54ed3",
+      "bytes": 1573580,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
+      "mime": "image/png",
+      "kind": "standee",
       "character": "freya",
-      "thumb": "portraits/freya/avatar/thumbs/initial-avatar.webp"
+      "thumb": "portraits/freya/avatar/thumbs/freya-3.webp"
     },
     {
-      "path": "portraits/freya/avatar/thumbs/initial-avatar.webp",
-      "sha256": "9e558255ce5bbbd93ebbc16ae14a5edf6e5d58c03f508cc26bc51f360f72a4b6",
-      "bytes": 72830,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "freya",
-      "thumb": null
-    },
-    {
-      "path": "portraits/freya/previous/711-freya-avatar-v3-overview.jpg",
-      "sha256": "de64ce1373b38a80c62a3ad4b0d5ddc158eed32647fd3b89b3754da82edb178b",
-      "bytes": 736249,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "freya",
-      "thumb": "portraits/freya/previous/thumbs/711-freya-avatar-v3-overview.webp"
-    },
-    {
-      "path": "portraits/freya/previous/thumbs/711-freya-avatar-v3-overview.webp",
-      "sha256": "0e66f8781fd88ebb274596caecac73f02ed96bf4c395df19f5a411843ba0a114",
-      "bytes": 160204,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "freya",
-      "thumb": null
-    },
-    {
-      "path": "portraits/jack/avatar/initial-avatar.webp",
-      "sha256": "a64ec84a003621a0c4d406ab567e09bdaeeeca137dbfb9c2044a7627705fe4cc",
-      "bytes": 140096,
-      "width": 832,
-      "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "jack",
-      "thumb": "portraits/jack/avatar/thumbs/initial-avatar.webp"
-    },
-    {
-      "path": "portraits/jack/avatar/thumbs/initial-avatar.webp",
-      "sha256": "368e2646c0fe24481f45aa00e4acff45d06a4874a460687338184c4f3f75d608",
-      "bytes": 66486,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "jack",
-      "thumb": null
-    },
-    {
-      "path": "portraits/jack/avatar/jack.png",
+      "path": "portraits/jack/avatar/jack-1.png",
       "sha256": "f1115be16221be0ecc8531fde112e50634c6ab281b8d0165415cb5264cc8166a",
       "bytes": 1537611,
       "width": 896,
@@ -1921,65 +1380,21 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "jack",
-      "thumb": "portraits/jack/avatar/thumbs/jack.webp"
+      "thumb": "portraits/jack/avatar/thumbs/jack-1.webp"
     },
     {
-      "path": "portraits/jack/avatar/thumbs/jack.webp",
-      "sha256": "5e8d4e4b422d23d5d5271fd9b50e4aa6250b77cc218fe5e051fd9328ae6caafa",
-      "bytes": 61840,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "jack",
-      "thumb": null
-    },
-    {
-      "path": "portraits/jack/previous/719-jack-avatar-v3-overview.jpg",
-      "sha256": "16a22b7475c3037c7dafc709d02d41784c7c8f311c35a037b113f2f29ee0542f",
-      "bytes": 593307,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "jack",
-      "thumb": "portraits/jack/previous/thumbs/719-jack-avatar-v3-overview.webp"
-    },
-    {
-      "path": "portraits/jack/previous/thumbs/719-jack-avatar-v3-overview.webp",
-      "sha256": "7869f6054221f6bc5ba1ddf3db420e2405a5db16e973728c13c83cb48c396309",
-      "bytes": 125574,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "jack",
-      "thumb": null
-    },
-    {
-      "path": "portraits/kael/avatar/initial-avatar.webp",
-      "sha256": "60fe061c1170b2eb5402a29326ff03b921abf6a95835d059e5de193791475b28",
-      "bytes": 159388,
+      "path": "portraits/jack/avatar/jack-3.png",
+      "sha256": "82af7525388a587b11a7267e644c6e7794fd263b40bb481afd0fef24098f2787",
+      "bytes": 1514980,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "kael",
-      "thumb": "portraits/kael/avatar/thumbs/initial-avatar.webp"
+      "mime": "image/png",
+      "kind": "standee",
+      "character": "jack",
+      "thumb": "portraits/jack/avatar/thumbs/jack-3.webp"
     },
     {
-      "path": "portraits/kael/avatar/thumbs/initial-avatar.webp",
-      "sha256": "9c60e954b819074b76898533c2722eef07bcf3f7f247ce8c17f75a02cd466a51",
-      "bytes": 77286,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "kael",
-      "thumb": null
-    },
-    {
-      "path": "portraits/kael/avatar/kael.png",
+      "path": "portraits/kael/avatar/kael-1.png",
       "sha256": "7de6c65f81f3ba8a2f8b722d543c3755b3cdea0260b9eff8cbd1c78589e0de84",
       "bytes": 2486896,
       "width": 1152,
@@ -1987,43 +1402,21 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "kael",
-      "thumb": "portraits/kael/avatar/thumbs/kael.webp"
+      "thumb": "portraits/kael/avatar/thumbs/kael-1.webp"
     },
     {
-      "path": "portraits/kael/avatar/thumbs/kael.webp",
-      "sha256": "64688ab0faf7915acdaf1e97e3eeb43d6c9ccad35b78e54c6b81e5d3f2512ac6",
-      "bytes": 84340,
-      "width": 532,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "kael",
-      "thumb": null
-    },
-    {
-      "path": "portraits/lilith/avatar/initial-avatar.webp",
-      "sha256": "4f4628e5693209c4d78848e379a4bb9b212fc13b67d43667bb5767417cfd218c",
-      "bytes": 155724,
+      "path": "portraits/kael/avatar/kael-3.png",
+      "sha256": "f399948f3252a9bd6a7e2b12d7abdf33d83830faf7ddb011223364d053925ebf",
+      "bytes": 1646805,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "lilith",
-      "thumb": "portraits/lilith/avatar/thumbs/initial-avatar.webp"
+      "mime": "image/png",
+      "kind": "standee",
+      "character": "kael",
+      "thumb": "portraits/kael/avatar/thumbs/kael-3.webp"
     },
     {
-      "path": "portraits/lilith/avatar/thumbs/initial-avatar.webp",
-      "sha256": "49b2913f401b2189ac9da1a478ca0d29dc11add21bb49e97311c796f6b95b2dd",
-      "bytes": 75726,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "lilith",
-      "thumb": null
-    },
-    {
-      "path": "portraits/lilith/avatar/lilith.png",
+      "path": "portraits/lilith/avatar/lilith-1.png",
       "sha256": "4a2453a9da691f52751ff4647086b63d0773b65b9c02dc4b8e9b3439a116782f",
       "bytes": 1689956,
       "width": 896,
@@ -2031,43 +1424,21 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "lilith",
-      "thumb": "portraits/lilith/avatar/thumbs/lilith.webp"
+      "thumb": "portraits/lilith/avatar/thumbs/lilith-1.webp"
     },
     {
-      "path": "portraits/lilith/avatar/thumbs/lilith.webp",
-      "sha256": "574217b25632ff55ce0469e19a4ec6142ca62de9dece56be94412cf5bb3e043d",
-      "bytes": 76818,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "lilith",
-      "thumb": null
-    },
-    {
-      "path": "portraits/livia/avatar/initial-avatar.webp",
-      "sha256": "78ceb3bb7b4a565ecb2e2f3038c1e1efbd997e5948b9dac037a2b27a65697198",
-      "bytes": 133434,
+      "path": "portraits/lilith/avatar/lilith-3.png",
+      "sha256": "f2189008652c334efce8340e02150087f3c9a92707c4421a73f12438bbb1ef51",
+      "bytes": 1684005,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "livia",
-      "thumb": "portraits/livia/avatar/thumbs/initial-avatar.webp"
+      "mime": "image/png",
+      "kind": "standee",
+      "character": "lilith",
+      "thumb": "portraits/lilith/avatar/thumbs/lilith-3.webp"
     },
     {
-      "path": "portraits/livia/avatar/thumbs/initial-avatar.webp",
-      "sha256": "67a4e9a4ccb849b35590870437a35038f9e4c13012c508e4676fbc5556858de7",
-      "bytes": 64828,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "livia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/livia/avatar/livia.png",
+      "path": "portraits/livia/avatar/livia-1.png",
       "sha256": "4246119f0f58a88f9b21040b7810852e70d43f3405142cf76354c672e81168ad",
       "bytes": 1608047,
       "width": 896,
@@ -2075,87 +1446,21 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "livia",
-      "thumb": "portraits/livia/avatar/thumbs/livia.webp"
+      "thumb": "portraits/livia/avatar/thumbs/livia-1.webp"
     },
     {
-      "path": "portraits/livia/avatar/thumbs/livia.webp",
-      "sha256": "42aa8b455fe9ec8cbb34051c9d1b8279f81869b435255f55ebf5c37a07029b47",
-      "bytes": 75952,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "livia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/livia/previous/713-livia-avatar-v3-overview.jpg",
-      "sha256": "1d5c66a3bf46085a9da56e52be82f99589f513080a81f92706634767a7322e5b",
-      "bytes": 633381,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "livia",
-      "thumb": "portraits/livia/previous/thumbs/713-livia-avatar-v3-overview.webp"
-    },
-    {
-      "path": "portraits/livia/previous/thumbs/713-livia-avatar-v3-overview.webp",
-      "sha256": "00221ca13d103291a5ca933a7e5102198da9ee96ba9a6ac35a42a1c56166710e",
-      "bytes": 132522,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "livia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/livia/previous/713-livia-avatar-v4-overview.jpg",
-      "sha256": "67463142e5548e335d28ea72aaedc6d0e9f505f450f49676643711ed1d66237d",
-      "bytes": 679378,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "livia",
-      "thumb": "portraits/livia/previous/thumbs/713-livia-avatar-v4-overview.webp"
-    },
-    {
-      "path": "portraits/livia/previous/thumbs/713-livia-avatar-v4-overview.webp",
-      "sha256": "7ce02e1ab3c72916906e7e5e084a036c97e3cfd99fb115ae9baf391be42b2dc2",
-      "bytes": 144314,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "livia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/lucius/avatar/initial-avatar.webp",
-      "sha256": "cd370eb8b382e82a132d9be808daa4b014620bf35852a5135b189b0245f5eecf",
-      "bytes": 137856,
+      "path": "portraits/livia/avatar/livia-3.png",
+      "sha256": "e0e10addddca0d8de9aab03c1ae05356fcc656cd8b6e30cba68c695f34a8f41f",
+      "bytes": 1463954,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "lucius",
-      "thumb": "portraits/lucius/avatar/thumbs/initial-avatar.webp"
+      "mime": "image/png",
+      "kind": "standee",
+      "character": "livia",
+      "thumb": "portraits/livia/avatar/thumbs/livia-3.webp"
     },
     {
-      "path": "portraits/lucius/avatar/thumbs/initial-avatar.webp",
-      "sha256": "b8c56bda1fcea282e26e02dcb77315d442a5fed498969489241d15e96d568c3c",
-      "bytes": 67406,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "lucius",
-      "thumb": null
-    },
-    {
-      "path": "portraits/lucius/avatar/lucius.png",
+      "path": "portraits/lucius/avatar/lucius-1.png",
       "sha256": "165a0b20ad94c901512586e9979165c4b59e9b61c266725579b23d08cc8eb4b5",
       "bytes": 2398436,
       "width": 1152,
@@ -2163,65 +1468,21 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "lucius",
-      "thumb": "portraits/lucius/avatar/thumbs/lucius.webp"
+      "thumb": "portraits/lucius/avatar/thumbs/lucius-1.webp"
     },
     {
-      "path": "portraits/lucius/avatar/thumbs/lucius.webp",
-      "sha256": "14f586c8b38d5db42414e41c0f4c070ece8f667ebdb8495dd9e3c6066fba2905",
-      "bytes": 76928,
-      "width": 532,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "lucius",
-      "thumb": null
-    },
-    {
-      "path": "portraits/lumina/avatar/chatgpt-20261018-halfbody.png",
-      "sha256": "e17d5791a2f575595dfad8f71068ff0ea17483a508c5affa173e6e71d8fa9f60",
-      "bytes": 2814534,
-      "width": 1049,
-      "height": 1499,
-      "mime": "image/png",
-      "kind": "avatar",
-      "character": "lumina",
-      "thumb": "portraits/lumina/avatar/thumbs/chatgpt-20261018-halfbody.webp"
-    },
-    {
-      "path": "portraits/lumina/avatar/thumbs/chatgpt-20261018-halfbody.webp",
-      "sha256": "0579fd85be4065e28fc309ad2d3943901748907449387f9033257dcdf5935bd4",
-      "bytes": 112740,
-      "width": 537,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "lumina",
-      "thumb": null
-    },
-    {
-      "path": "portraits/lumina/avatar/initial-avatar.webp",
-      "sha256": "ed18a80ac33a18200ef1812b340954659ee1f28263f937114dfe92ef6bef69c5",
-      "bytes": 176324,
+      "path": "portraits/lucius/avatar/lucius-3.png",
+      "sha256": "c21d3318e675495fa7525a035fe426fd45d3d53c296e438ae15b2c2f20839457",
+      "bytes": 1597561,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "lumina",
-      "thumb": "portraits/lumina/avatar/thumbs/initial-avatar.webp"
+      "mime": "image/png",
+      "kind": "standee",
+      "character": "lucius",
+      "thumb": "portraits/lucius/avatar/thumbs/lucius-3.webp"
     },
     {
-      "path": "portraits/lumina/avatar/thumbs/initial-avatar.webp",
-      "sha256": "543f3df430760298b1786dbdde860ffcacb95ff1992f51c03b8ab07e246643a5",
-      "bytes": 86688,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "lumina",
-      "thumb": null
-    },
-    {
-      "path": "portraits/lumina/avatar/lumina.png",
+      "path": "portraits/lumina/avatar/lumina-1.png",
       "sha256": "4436ee98c1f23458c2936670342653d746155aca714518c189bca8dd782c33f4",
       "bytes": 1562992,
       "width": 896,
@@ -2229,21 +1490,21 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "lumina",
-      "thumb": "portraits/lumina/avatar/thumbs/lumina.webp"
+      "thumb": "portraits/lumina/avatar/thumbs/lumina-1.webp"
     },
     {
-      "path": "portraits/lumina/avatar/thumbs/lumina.webp",
-      "sha256": "a4e6764eb84612a0c9f85835501b1edccdb093938037e5c3bafc65de2de9081e",
-      "bytes": 97612,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
+      "path": "portraits/lumina/avatar/lumina-4.png",
+      "sha256": "e17d5791a2f575595dfad8f71068ff0ea17483a508c5affa173e6e71d8fa9f60",
+      "bytes": 2814534,
+      "width": 1049,
+      "height": 1499,
+      "mime": "image/png",
+      "kind": "avatar",
       "character": "lumina",
-      "thumb": null
+      "thumb": "portraits/lumina/avatar/thumbs/lumina-4.webp"
     },
     {
-      "path": "portraits/lumina/standee/lumina.png",
+      "path": "portraits/lumina/avatar/lumina-2.png",
       "sha256": "e5a14d0372690a2817cb3ba7df622d6f18126040d36c5e4262b91ed02474a934",
       "bytes": 1582434,
       "width": 896,
@@ -2251,43 +1512,21 @@
       "mime": "image/png",
       "kind": "standee",
       "character": "lumina",
-      "thumb": "portraits/lumina/standee/thumbs/lumina.webp"
+      "thumb": "portraits/lumina/avatar/thumbs/lumina-2.webp"
     },
     {
-      "path": "portraits/lumina/standee/thumbs/lumina.webp",
-      "sha256": "0c99a038d50ef18d977d6e08b177a96c2e7c42136f70df3b417bf5ad81c4f382",
-      "bytes": 96356,
-      "width": 512,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "standee-thumb",
-      "character": "lumina",
-      "thumb": null
-    },
-    {
-      "path": "portraits/merl/avatar/initial-avatar.webp",
-      "sha256": "3c3876c2f43902ed4dcd8a0167acdf19371905931ab4d6530443987635744b50",
-      "bytes": 174554,
+      "path": "portraits/lumina/avatar/lumina-3.png",
+      "sha256": "029033b25148696316db840a7553560c1cada71327515d3b80520b692d14c9f0",
+      "bytes": 1894408,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "merl",
-      "thumb": "portraits/merl/avatar/thumbs/initial-avatar.webp"
+      "mime": "image/png",
+      "kind": "standee",
+      "character": "lumina",
+      "thumb": "portraits/lumina/avatar/thumbs/lumina-3.webp"
     },
     {
-      "path": "portraits/merl/avatar/thumbs/initial-avatar.webp",
-      "sha256": "bfbbd224ce5a71e51978203d34f7ad7c2652e5d3c41de978c518f1b3e0b99a46",
-      "bytes": 87700,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "merl",
-      "thumb": null
-    },
-    {
-      "path": "portraits/merl/avatar/merl.png",
+      "path": "portraits/merl/avatar/merl-1.png",
       "sha256": "2b3ed877035a711b1b27d4637ad49b4585c8c1cfe8ec99dc3518f28aefd14d85",
       "bytes": 1797088,
       "width": 896,
@@ -2295,21 +1534,10 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "merl",
-      "thumb": "portraits/merl/avatar/thumbs/merl.webp"
+      "thumb": "portraits/merl/avatar/thumbs/merl-1.webp"
     },
     {
-      "path": "portraits/merl/avatar/thumbs/merl.webp",
-      "sha256": "62249301427f5c7a80501290870dd019fe991fc50328d4d995b61027c6901467",
-      "bytes": 87144,
-      "width": 690,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "merl",
-      "thumb": null
-    },
-    {
-      "path": "portraits/merl/standee/merl.png",
+      "path": "portraits/merl/avatar/merl-2.png",
       "sha256": "5c4a3829fb2abbb9c9191479589f8b3ceecde1b1573920e820f04e2678f551aa",
       "bytes": 1420919,
       "width": 896,
@@ -2317,43 +1545,21 @@
       "mime": "image/png",
       "kind": "standee",
       "character": "merl",
-      "thumb": "portraits/merl/standee/thumbs/merl.webp"
+      "thumb": "portraits/merl/avatar/thumbs/merl-2.webp"
     },
     {
-      "path": "portraits/merl/standee/thumbs/merl.webp",
-      "sha256": "85993bcc6334cba0f3fa5b7ca5f6bce4aca9d176757363fb75914e6c70e7cd62",
-      "bytes": 77248,
-      "width": 512,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "standee-thumb",
-      "character": "merl",
-      "thumb": null
-    },
-    {
-      "path": "portraits/mimi/avatar/initial-avatar.webp",
-      "sha256": "3b19c8c33ac6589ea9dad8b21a11b30992b5c9a25d592c3d4c3ce49490d8e101",
-      "bytes": 129154,
+      "path": "portraits/merl/avatar/merl-3.png",
+      "sha256": "aaa960308e42d5e51e184eb3a47c989fa142efb826b18f0b2ec2430dc8e56e25",
+      "bytes": 1833705,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "mimi",
-      "thumb": "portraits/mimi/avatar/thumbs/initial-avatar.webp"
+      "mime": "image/png",
+      "kind": "standee",
+      "character": "merl",
+      "thumb": "portraits/merl/avatar/thumbs/merl-3.webp"
     },
     {
-      "path": "portraits/mimi/avatar/thumbs/initial-avatar.webp",
-      "sha256": "ba6ce86950583025aa9396d5cc11936e2d2fae1dd566f3a75eaa3e280f38ab4b",
-      "bytes": 62488,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "mimi",
-      "thumb": null
-    },
-    {
-      "path": "portraits/mimi/avatar/mimi.png",
+      "path": "portraits/mimi/avatar/mimi-1.png",
       "sha256": "bb2a388488a225fefd8bc6fb27ee1ad9005c0973bae7509926a4a9c3f14e4527",
       "bytes": 1592832,
       "width": 896,
@@ -2361,109 +1567,21 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "mimi",
-      "thumb": "portraits/mimi/avatar/thumbs/mimi.webp"
+      "thumb": "portraits/mimi/avatar/thumbs/mimi-1.webp"
     },
     {
-      "path": "portraits/mimi/avatar/thumbs/mimi.webp",
-      "sha256": "04d63870cc4b5cc62a1ed2ec1448bac3451294a07e0b3f9fa44951d5c0d504b1",
-      "bytes": 72492,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "mimi",
-      "thumb": null
-    },
-    {
-      "path": "portraits/mimi/previous/706-mimi-avatar-v4-overview.jpg",
-      "sha256": "73fe236e92e6f5a8b156c80069344c1cc6ae8adc02678357dbb764d2ab607095",
-      "bytes": 607512,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "mimi",
-      "thumb": "portraits/mimi/previous/thumbs/706-mimi-avatar-v4-overview.webp"
-    },
-    {
-      "path": "portraits/mimi/previous/thumbs/706-mimi-avatar-v4-overview.webp",
-      "sha256": "65e4ee4b352ec4775bb0fc135207e74801de5803f3d6bf023e740b3c7b57e047",
-      "bytes": 128630,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "mimi",
-      "thumb": null
-    },
-    {
-      "path": "portraits/mimi/previous/706-mimi-avatar-v5-overview.jpg",
-      "sha256": "1238ee7beceae3c3e1348d5b66a80da814a4d484452d68bb14a83b36596ea6a8",
-      "bytes": 655899,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "mimi",
-      "thumb": "portraits/mimi/previous/thumbs/706-mimi-avatar-v5-overview.webp"
-    },
-    {
-      "path": "portraits/mimi/previous/thumbs/706-mimi-avatar-v5-overview.webp",
-      "sha256": "f99f3f16272047f1e6ef6fae66c3ceb69215b97d55d3b48b3cb9ee16aa6b1ddf",
-      "bytes": 138772,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "mimi",
-      "thumb": null
-    },
-    {
-      "path": "portraits/mimi/previous/706-mimi-fix-v1-overview.jpg",
-      "sha256": "fac600c9bf2d1c1a0d33af81357f19f1ddee65ae4ffb361f424f9bd7e409be81",
-      "bytes": 300784,
-      "width": 1608,
-      "height": 867,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "mimi",
-      "thumb": "portraits/mimi/previous/thumbs/706-mimi-fix-v1-overview.webp"
-    },
-    {
-      "path": "portraits/mimi/previous/thumbs/706-mimi-fix-v1-overview.webp",
-      "sha256": "bd5e8511523ee524196014d607a7c77e86fea4c929614ee4301d45a4342e79f7",
-      "bytes": 66050,
-      "width": 768,
-      "height": 414,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "mimi",
-      "thumb": null
-    },
-    {
-      "path": "portraits/natasha/avatar/initial-avatar.webp",
-      "sha256": "8bdafe1feb166260ecf66ec9c83990c48ab43ab80f8627c5cde8127b2183176e",
-      "bytes": 131262,
+      "path": "portraits/mimi/avatar/mimi-3.png",
+      "sha256": "6f2ac9ab3a30851fa512163c314a5260600fdbff41fcc6e12b47e0ccbdfc687f",
+      "bytes": 1384807,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "natasha",
-      "thumb": "portraits/natasha/avatar/thumbs/initial-avatar.webp"
+      "mime": "image/png",
+      "kind": "standee",
+      "character": "mimi",
+      "thumb": "portraits/mimi/avatar/thumbs/mimi-3.webp"
     },
     {
-      "path": "portraits/natasha/avatar/thumbs/initial-avatar.webp",
-      "sha256": "9cd12b4151ebbbf10014903f15fe5d097c88c5a97b92e3d0caec7ba9f6c9139d",
-      "bytes": 63200,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "natasha",
-      "thumb": null
-    },
-    {
-      "path": "portraits/natasha/avatar/natasha.png",
+      "path": "portraits/natasha/avatar/natasha-1.png",
       "sha256": "3c7c53f4e765a7240230adef2233b754bbe1b03659c05489a4787a0097060da8",
       "bytes": 1741519,
       "width": 896,
@@ -2471,109 +1589,21 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "natasha",
-      "thumb": "portraits/natasha/avatar/thumbs/natasha.webp"
+      "thumb": "portraits/natasha/avatar/thumbs/natasha-1.webp"
     },
     {
-      "path": "portraits/natasha/avatar/thumbs/natasha.webp",
-      "sha256": "1e5544c3fb3bd4f27b457ae9a3cc7c36278efcca9aec309530a1436f9ea76cb2",
-      "bytes": 87310,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "natasha",
-      "thumb": null
-    },
-    {
-      "path": "portraits/natasha/previous/717-natasha-avatar-v3-overview.jpg",
-      "sha256": "e058185f6e045e4cad0ca5910e0459145a4138802f99698bbfd40487d76103f5",
-      "bytes": 691648,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "natasha",
-      "thumb": "portraits/natasha/previous/thumbs/717-natasha-avatar-v3-overview.webp"
-    },
-    {
-      "path": "portraits/natasha/previous/thumbs/717-natasha-avatar-v3-overview.webp",
-      "sha256": "7ae9c680ac6c041772cec30b770b02ab066eb34a3b9ddae436ccdee099becaf2",
-      "bytes": 150648,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "natasha",
-      "thumb": null
-    },
-    {
-      "path": "portraits/natasha/previous/717-natasha-avatar-v4-overview.jpg",
-      "sha256": "2ddfe82d94323420ed2afe04276ef091b58732bd782dd100f258640243c8ef47",
-      "bytes": 724213,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "natasha",
-      "thumb": "portraits/natasha/previous/thumbs/717-natasha-avatar-v4-overview.webp"
-    },
-    {
-      "path": "portraits/natasha/previous/thumbs/717-natasha-avatar-v4-overview.webp",
-      "sha256": "d4b86d0dc846bbc9ef0b4a187f3edb88b5a410cf6cb54ea89e722bdb193fa4e0",
-      "bytes": 156954,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "natasha",
-      "thumb": null
-    },
-    {
-      "path": "portraits/natasha/previous/717-natasha-avatar-v5-overview.jpg",
-      "sha256": "b9256243680a3e878021aa107ab7cd2ba0a5800d417bcafdc7d34c8f617cc99b",
-      "bytes": 755416,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "natasha",
-      "thumb": "portraits/natasha/previous/thumbs/717-natasha-avatar-v5-overview.webp"
-    },
-    {
-      "path": "portraits/natasha/previous/thumbs/717-natasha-avatar-v5-overview.webp",
-      "sha256": "2aa1ac75e9661d7aad318dfcda9d88f01df50b10c74cfade114b2979fe8ebceb",
-      "bytes": 167352,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "natasha",
-      "thumb": null
-    },
-    {
-      "path": "portraits/ophelia/avatar/initial-avatar.webp",
-      "sha256": "adac2140008296302a48cf832acf532f2d3d1376430a51ce639d4d984ccb4788",
-      "bytes": 178040,
+      "path": "portraits/natasha/avatar/natasha-3.png",
+      "sha256": "755ec224513f786ada788cbcf5f06b5b1b9c0adf0565a1c2ba0622a098866e1c",
+      "bytes": 1535156,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "ophelia",
-      "thumb": "portraits/ophelia/avatar/thumbs/initial-avatar.webp"
+      "mime": "image/png",
+      "kind": "standee",
+      "character": "natasha",
+      "thumb": "portraits/natasha/avatar/thumbs/natasha-3.webp"
     },
     {
-      "path": "portraits/ophelia/avatar/thumbs/initial-avatar.webp",
-      "sha256": "2413c3d8576ff21099b21e55dec8089aae42694bbad758892923cdb1b9537e35",
-      "bytes": 86166,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "ophelia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/ophelia/avatar/ophelia.png",
+      "path": "portraits/ophelia/avatar/ophelia-1.png",
       "sha256": "876c65b4d57fe97c513a0b7dbc75cbc84d9b60ad5a94d287928f05aaf277d69f",
       "bytes": 1733359,
       "width": 896,
@@ -2581,109 +1611,21 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "ophelia",
-      "thumb": "portraits/ophelia/avatar/thumbs/ophelia.webp"
+      "thumb": "portraits/ophelia/avatar/thumbs/ophelia-1.webp"
     },
     {
-      "path": "portraits/ophelia/avatar/thumbs/ophelia.webp",
-      "sha256": "a6b47c8ae24452b0ee2291a2207eaf97418920f5666c8710752d1143a680492d",
-      "bytes": 95714,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "ophelia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/ophelia/previous/715-ophelia-avatar-v3-overview.jpg",
-      "sha256": "a45ea1e96781d1b3845a8711a6495827f6c2f8f9269a1282d2ffcee6f117ef43",
-      "bytes": 761191,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "ophelia",
-      "thumb": "portraits/ophelia/previous/thumbs/715-ophelia-avatar-v3-overview.webp"
-    },
-    {
-      "path": "portraits/ophelia/previous/thumbs/715-ophelia-avatar-v3-overview.webp",
-      "sha256": "8027b9c21373341b7986a51437a40ab35c28408c7ee25a1d6814afd5d41af428",
-      "bytes": 166972,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "ophelia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/ophelia/previous/715-ophelia-avatar-v4-overview.jpg",
-      "sha256": "81330c81d59ca90299826e5ca8f445455fc69446021161f544f5b525c42b8aec",
-      "bytes": 754262,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "ophelia",
-      "thumb": "portraits/ophelia/previous/thumbs/715-ophelia-avatar-v4-overview.webp"
-    },
-    {
-      "path": "portraits/ophelia/previous/thumbs/715-ophelia-avatar-v4-overview.webp",
-      "sha256": "db2159905bcf3fe5dd05a41e9c59f1137325452287c818c76048815f86207a12",
-      "bytes": 165370,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "ophelia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/ophelia/previous/715-ophelia-avatar-v5-overview.jpg",
-      "sha256": "ade91095d7acccc4a34b262f3c6c512888aa20926fe39af358dadd7845c82e74",
-      "bytes": 780955,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "ophelia",
-      "thumb": "portraits/ophelia/previous/thumbs/715-ophelia-avatar-v5-overview.webp"
-    },
-    {
-      "path": "portraits/ophelia/previous/thumbs/715-ophelia-avatar-v5-overview.webp",
-      "sha256": "efefb2233f8ba15137404859e14fc830ade42aae68b16e24d31fcdf27a6b5d80",
-      "bytes": 171476,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "ophelia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/roland/avatar/initial-avatar.webp",
-      "sha256": "a97801c745040d9412eeb56e1abb92300d676a4ab60a16309b0d568dd49ecea0",
-      "bytes": 166050,
+      "path": "portraits/ophelia/avatar/ophelia-3.png",
+      "sha256": "fef34795e8b1cf46629452936f6d2b69aeba1131708e7111a759e98ab0cee543",
+      "bytes": 1835277,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "roland",
-      "thumb": "portraits/roland/avatar/thumbs/initial-avatar.webp"
+      "mime": "image/png",
+      "kind": "standee",
+      "character": "ophelia",
+      "thumb": "portraits/ophelia/avatar/thumbs/ophelia-3.webp"
     },
     {
-      "path": "portraits/roland/avatar/thumbs/initial-avatar.webp",
-      "sha256": "072c3282f2b8f200769e6387b122099f0cad3b63d657f03be26e569cdb90f956",
-      "bytes": 80376,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "roland",
-      "thumb": null
-    },
-    {
-      "path": "portraits/roland/avatar/roland.png",
+      "path": "portraits/roland/avatar/roland-1.png",
       "sha256": "60feb4dd08b0141931e2cc4aee7d0c88a791f1920ee17d2b42a64a6e6f8e9c53",
       "bytes": 1645712,
       "width": 896,
@@ -2691,65 +1633,21 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "roland",
-      "thumb": "portraits/roland/avatar/thumbs/roland.webp"
+      "thumb": "portraits/roland/avatar/thumbs/roland-1.webp"
     },
     {
-      "path": "portraits/roland/avatar/thumbs/roland.webp",
-      "sha256": "a4fec9cb598219ef5b276c6646f503765bdaa85e7d6a4bf80cf2319464908f3f",
-      "bytes": 79482,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "roland",
-      "thumb": null
-    },
-    {
-      "path": "portraits/roland/previous/718-roland-avatar-v3-overview.jpg",
-      "sha256": "6900859aabd577996e352234a6b50db8c2301fca1ccb7756ff16ccdaab91a917",
-      "bytes": 695506,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "roland",
-      "thumb": "portraits/roland/previous/thumbs/718-roland-avatar-v3-overview.webp"
-    },
-    {
-      "path": "portraits/roland/previous/thumbs/718-roland-avatar-v3-overview.webp",
-      "sha256": "aa5673eb13eb161f5f822ee80c95408dbf70d66dc661157b465e1e79cd30d356",
-      "bytes": 151706,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "roland",
-      "thumb": null
-    },
-    {
-      "path": "portraits/sariel/avatar/initial-avatar.webp",
-      "sha256": "a2603569bc0a43e0779f6c627f8023df6de86ecb7fbdd57eb7b57bfce60cd1f0",
-      "bytes": 141686,
+      "path": "portraits/roland/avatar/roland-3.png",
+      "sha256": "3c7df23fe11ee908de25ac4ebac36a6149a821842bdf645eccf51d3fffad6a7e",
+      "bytes": 1696733,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "sariel",
-      "thumb": "portraits/sariel/avatar/thumbs/initial-avatar.webp"
+      "mime": "image/png",
+      "kind": "standee",
+      "character": "roland",
+      "thumb": "portraits/roland/avatar/thumbs/roland-3.webp"
     },
     {
-      "path": "portraits/sariel/avatar/thumbs/initial-avatar.webp",
-      "sha256": "2425d4d1f94d97118713d4859c03f66e5ab814bb5968879ca395c2e6dd3767fc",
-      "bytes": 68274,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "sariel",
-      "thumb": null
-    },
-    {
-      "path": "portraits/sariel/avatar/sariel.png",
+      "path": "portraits/sariel/avatar/sariel-1.png",
       "sha256": "ad38c29ef482201e078ba599ef786f5c3cfd298de1bad6658c902e2e81d31b69",
       "bytes": 1647585,
       "width": 896,
@@ -2757,65 +1655,21 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "sariel",
-      "thumb": "portraits/sariel/avatar/thumbs/sariel.webp"
+      "thumb": "portraits/sariel/avatar/thumbs/sariel-1.webp"
     },
     {
-      "path": "portraits/sariel/avatar/thumbs/sariel.webp",
-      "sha256": "2696ca102ea41226afc92460e9cd466aada547c0b24373d3051d6dff0c6738ab",
-      "bytes": 80706,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "sariel",
-      "thumb": null
-    },
-    {
-      "path": "portraits/sariel/previous/702-sariel-avatar-v3-overview.jpg",
-      "sha256": "8a3d158dd9fc52583b37c87894c24e69013e530b97f3e7444b6431b3f96f67a8",
-      "bytes": 705341,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "sariel",
-      "thumb": "portraits/sariel/previous/thumbs/702-sariel-avatar-v3-overview.webp"
-    },
-    {
-      "path": "portraits/sariel/previous/thumbs/702-sariel-avatar-v3-overview.webp",
-      "sha256": "b8b69e3ad49d67a1ec303895ba6423d7808472a9f439ff83b91c76f2bdf48d2a",
-      "bytes": 154944,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "sariel",
-      "thumb": null
-    },
-    {
-      "path": "portraits/seraphina/avatar/initial-avatar.webp",
-      "sha256": "46c0b9811ecee6691ee72c0500941235e53fe8b3ae3d0a6ae1a84f297806bdfa",
-      "bytes": 155762,
+      "path": "portraits/sariel/avatar/sariel-3.png",
+      "sha256": "3e20a248cd7c90e5b3de5d792f4289863356fdbc6f4f958b91037d0ae3fdf87b",
+      "bytes": 1566863,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "seraphina",
-      "thumb": "portraits/seraphina/avatar/thumbs/initial-avatar.webp"
+      "mime": "image/png",
+      "kind": "standee",
+      "character": "sariel",
+      "thumb": "portraits/sariel/avatar/thumbs/sariel-3.webp"
     },
     {
-      "path": "portraits/seraphina/avatar/thumbs/initial-avatar.webp",
-      "sha256": "be5f72accdbf30eaa462bdfb8db1dfb40b14e2792244e281333228cc1a67fc64",
-      "bytes": 76392,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "seraphina",
-      "thumb": null
-    },
-    {
-      "path": "portraits/seraphina/avatar/seraphina.png",
+      "path": "portraits/seraphina/avatar/seraphina-1.png",
       "sha256": "500eb1dc619999e15d4df71fba2ee66b52ffc6f6b957d5dae01e720e28718a0a",
       "bytes": 1711066,
       "width": 896,
@@ -2823,65 +1677,21 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "seraphina",
-      "thumb": "portraits/seraphina/avatar/thumbs/seraphina.webp"
+      "thumb": "portraits/seraphina/avatar/thumbs/seraphina-1.webp"
     },
     {
-      "path": "portraits/seraphina/avatar/thumbs/seraphina.webp",
-      "sha256": "fbb60318be8e3dbcf4570b1d75c2801034d76c9786e2696de6f73261c555a80a",
-      "bytes": 75788,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "seraphina",
-      "thumb": null
-    },
-    {
-      "path": "portraits/seraphina/previous/704-seraphina-fix-v1-overview.jpg",
-      "sha256": "e58ebb5e94959f9a83ce588be0d53c3f620f527660f68101eb012e9f3f72b7c3",
-      "bytes": 350417,
-      "width": 1608,
-      "height": 867,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "seraphina",
-      "thumb": "portraits/seraphina/previous/thumbs/704-seraphina-fix-v1-overview.webp"
-    },
-    {
-      "path": "portraits/seraphina/previous/thumbs/704-seraphina-fix-v1-overview.webp",
-      "sha256": "3c5000d25353355dede581331eea9e7d881c142ee881a4838d98bf60df7ce413",
-      "bytes": 78466,
-      "width": 768,
-      "height": 414,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "seraphina",
-      "thumb": null
-    },
-    {
-      "path": "portraits/sylph/avatar/initial-avatar.webp",
-      "sha256": "8710f6b666fff9ef74b921a4b299d00010d5c7a7276f9afa16dc13194b6429b7",
-      "bytes": 167018,
+      "path": "portraits/seraphina/avatar/seraphina-3.png",
+      "sha256": "343958bae5009f476dfdf28f0877cdf87090e4e12d74c79547e4ce221c55bc60",
+      "bytes": 1664242,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "sylph",
-      "thumb": "portraits/sylph/avatar/thumbs/initial-avatar.webp"
+      "mime": "image/png",
+      "kind": "standee",
+      "character": "seraphina",
+      "thumb": "portraits/seraphina/avatar/thumbs/seraphina-3.webp"
     },
     {
-      "path": "portraits/sylph/avatar/thumbs/initial-avatar.webp",
-      "sha256": "3533f87746677a456f8967e262ec2ab848195462dcc36444600aa67e3345d7e7",
-      "bytes": 81354,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "sylph",
-      "thumb": null
-    },
-    {
-      "path": "portraits/sylph/avatar/sylph.png",
+      "path": "portraits/sylph/avatar/sylph-1.png",
       "sha256": "2509e80701f3d0f8c1cb1f1dab776c14b0b4b0611afde44c0fef99000de2da36",
       "bytes": 1791272,
       "width": 896,
@@ -2889,21 +1699,10 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "sylph",
-      "thumb": "portraits/sylph/avatar/thumbs/sylph.webp"
+      "thumb": "portraits/sylph/avatar/thumbs/sylph-1.webp"
     },
     {
-      "path": "portraits/sylph/avatar/thumbs/sylph.webp",
-      "sha256": "ca56f0c2889b2a0864af53795eb44a4c31bf954064ddd3b3cdf2b50860e030f2",
-      "bytes": 91772,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "sylph",
-      "thumb": null
-    },
-    {
-      "path": "portraits/sylph/standee/sylph.png",
+      "path": "portraits/sylph/avatar/sylph-2.png",
       "sha256": "f7b7ef9eb9be67deb8fbeb3d63550d2b8291e0d007311367333e1b8aa9c57746",
       "bytes": 2666601,
       "width": 1152,
@@ -2911,43 +1710,21 @@
       "mime": "image/png",
       "kind": "standee",
       "character": "sylph",
-      "thumb": "portraits/sylph/standee/thumbs/sylph.webp"
+      "thumb": "portraits/sylph/avatar/thumbs/sylph-2.webp"
     },
     {
-      "path": "portraits/sylph/standee/thumbs/sylph.webp",
-      "sha256": "7715c1613d205eb4f347811d4361ad5374f0b50fc316a5cd7ed6ad0e2b5a7361",
-      "bytes": 96834,
-      "width": 532,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "standee-thumb",
-      "character": "sylph",
-      "thumb": null
-    },
-    {
-      "path": "portraits/sylvana/avatar/initial-avatar.webp",
-      "sha256": "aadba186a71cadb34a19fb7017d517a23b566361e2d6311e6c0a05aff2b49461",
-      "bytes": 177854,
+      "path": "portraits/sylph/avatar/sylph-3.png",
+      "sha256": "07abda36e4d4e4985d2a83e74915f71e7fe3d454b187a68b6429bb8df500c992",
+      "bytes": 1742103,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "sylvana",
-      "thumb": "portraits/sylvana/avatar/thumbs/initial-avatar.webp"
+      "mime": "image/png",
+      "kind": "standee",
+      "character": "sylph",
+      "thumb": "portraits/sylph/avatar/thumbs/sylph-3.webp"
     },
     {
-      "path": "portraits/sylvana/avatar/thumbs/initial-avatar.webp",
-      "sha256": "7a4548fca4f1369db7316d984145f7269f5073a614ccbeeee39bfeea3d9fa3d7",
-      "bytes": 87734,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "sylvana",
-      "thumb": null
-    },
-    {
-      "path": "portraits/sylvana/avatar/sylvana.png",
+      "path": "portraits/sylvana/avatar/sylvana-1.png",
       "sha256": "31eb97318148c0002020c6adc0fe6954fdac5ccfca069b268211761b208792b3",
       "bytes": 1983724,
       "width": 896,
@@ -2955,21 +1732,10 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "sylvana",
-      "thumb": "portraits/sylvana/avatar/thumbs/sylvana.webp"
+      "thumb": "portraits/sylvana/avatar/thumbs/sylvana-1.webp"
     },
     {
-      "path": "portraits/sylvana/avatar/thumbs/sylvana.webp",
-      "sha256": "36a21c26bbf20165173bd1cbc09b8d9bc96c157fe2f8145cfb6e60e510ac787a",
-      "bytes": 96800,
-      "width": 672,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "sylvana",
-      "thumb": null
-    },
-    {
-      "path": "portraits/sylvana/standee/sylvana.png",
+      "path": "portraits/sylvana/avatar/sylvana-2.png",
       "sha256": "924cc6fada7c5a24539a99e282ed574aba7bb2617a4742a9c561438632f5c3e5",
       "bytes": 1454483,
       "width": 896,
@@ -2977,43 +1743,21 @@
       "mime": "image/png",
       "kind": "standee",
       "character": "sylvana",
-      "thumb": "portraits/sylvana/standee/thumbs/sylvana.webp"
+      "thumb": "portraits/sylvana/avatar/thumbs/sylvana-2.webp"
     },
     {
-      "path": "portraits/sylvana/standee/thumbs/sylvana.webp",
-      "sha256": "8fcf2c52dc91e9204edc4148374e8ebffb44fea006931b7b4b3a0d7c46176604",
-      "bytes": 82130,
-      "width": 512,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "standee-thumb",
-      "character": "sylvana",
-      "thumb": null
-    },
-    {
-      "path": "portraits/tia/avatar/initial-avatar.webp",
-      "sha256": "862c8dd087ddd2b58d10934f7bc9ceaa297c52d330d1b11971e34ddaa8c5187e",
-      "bytes": 123210,
+      "path": "portraits/sylvana/avatar/sylvana-3.png",
+      "sha256": "8b81e57b4ae05f0eb424b4391ebc6d67f994811576b6014115d4682d65ed5485",
+      "bytes": 1870530,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "tia",
-      "thumb": "portraits/tia/avatar/thumbs/initial-avatar.webp"
+      "mime": "image/png",
+      "kind": "standee",
+      "character": "sylvana",
+      "thumb": "portraits/sylvana/avatar/thumbs/sylvana-3.webp"
     },
     {
-      "path": "portraits/tia/avatar/thumbs/initial-avatar.webp",
-      "sha256": "f8ea757677eec8d16d0a9b4b8531025efcd3c5d834bcb6361e7b5e5952d6376e",
-      "bytes": 59306,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "tia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/tia/avatar/tia.png",
+      "path": "portraits/tia/avatar/tia-1.png",
       "sha256": "20dede19144c046487d41bbb5333c5a593a4e8144afcd8f9f596978054b94f78",
       "bytes": 1614521,
       "width": 896,
@@ -3021,175 +1765,21 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "tia",
-      "thumb": "portraits/tia/avatar/thumbs/tia.webp"
+      "thumb": "portraits/tia/avatar/thumbs/tia-1.webp"
     },
     {
-      "path": "portraits/tia/avatar/thumbs/tia.webp",
-      "sha256": "4372395e94a744524c4bd0c17899c7da53902f2fdeee3c8a34523c96afd7dad5",
-      "bytes": 73054,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "tia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/tia/previous/705-tia-avatar-v3-overview.jpg",
-      "sha256": "dda91c6c321b853517e12515af08a2568c482f703ad6c0a411ddc5434fc0d0c0",
-      "bytes": 685104,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "tia",
-      "thumb": "portraits/tia/previous/thumbs/705-tia-avatar-v3-overview.webp"
-    },
-    {
-      "path": "portraits/tia/previous/thumbs/705-tia-avatar-v3-overview.webp",
-      "sha256": "75c5b998f367d9b7bab5e7efd5323fa3c1f0d2da40cbb4ca7c63eeafdf6f585b",
-      "bytes": 144782,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "tia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/tia/previous/705-tia-avatar-v4-overview.jpg",
-      "sha256": "9cc3f60618344f3264d2d48225c27a3bbadfda0ed698bb811ae95e43ccc08427",
-      "bytes": 692302,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "tia",
-      "thumb": "portraits/tia/previous/thumbs/705-tia-avatar-v4-overview.webp"
-    },
-    {
-      "path": "portraits/tia/previous/thumbs/705-tia-avatar-v4-overview.webp",
-      "sha256": "550a6bf349e79809d9d2375c9235a9f1aadc3a71a75d53f6de04060ae3a35012",
-      "bytes": 148138,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "tia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/tia/previous/705-tia-avatar-v5-overview.jpg",
-      "sha256": "57c5941a8d13f4fb00b4460fb7ffbb2996b3bbacf34113dd6d3d6fd7df5b5a62",
-      "bytes": 703346,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "tia",
-      "thumb": "portraits/tia/previous/thumbs/705-tia-avatar-v5-overview.webp"
-    },
-    {
-      "path": "portraits/tia/previous/thumbs/705-tia-avatar-v5-overview.webp",
-      "sha256": "84f6a1e27c9416313f5d45d4842c806162035eb45945f5c5039a0f1f4881dda3",
-      "bytes": 152536,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "tia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/tia/previous/705-tia-avatar-v7-overview.jpg",
-      "sha256": "1e914e81e8ae16b28421c88454aaa9327c8fbc88629a51d52dc6616a36537987",
-      "bytes": 683463,
-      "width": 1608,
-      "height": 1660,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "tia",
-      "thumb": "portraits/tia/previous/thumbs/705-tia-avatar-v7-overview.webp"
-    },
-    {
-      "path": "portraits/tia/previous/thumbs/705-tia-avatar-v7-overview.webp",
-      "sha256": "89a41ece0528fb2df0764912db75c015bd6dc0248d0be2c08c8ec5cdd89a3201",
-      "bytes": 146068,
-      "width": 744,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "tia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/tia/previous/705-tia-hornfix-v5-overview.jpg",
-      "sha256": "2e964b7e4f8a87da9af0bb53881548e4d77a71f136a7471af94331dc7ce632fc",
-      "bytes": 346688,
-      "width": 1608,
-      "height": 867,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "tia",
-      "thumb": "portraits/tia/previous/thumbs/705-tia-hornfix-v5-overview.webp"
-    },
-    {
-      "path": "portraits/tia/previous/thumbs/705-tia-hornfix-v5-overview.webp",
-      "sha256": "7ce514c2203b74472d05f0a8d96d16aa5ac9f79708fd882252089e30e42d19fe",
-      "bytes": 77662,
-      "width": 768,
-      "height": 414,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "tia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/tia/previous/705-tia-tailfix-v4-overview.jpg",
-      "sha256": "f93abfc3f3f249a098063ae6401f8ab837b7f7b090b2f2fcf15e8c380c100cf3",
-      "bytes": 350671,
-      "width": 1608,
-      "height": 867,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "tia",
-      "thumb": "portraits/tia/previous/thumbs/705-tia-tailfix-v4-overview.webp"
-    },
-    {
-      "path": "portraits/tia/previous/thumbs/705-tia-tailfix-v4-overview.webp",
-      "sha256": "a0d19a98694c757e76cdd2332cc481559d089c5a29d3f13f4ca8581396822054",
-      "bytes": 79370,
-      "width": 768,
-      "height": 414,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "tia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/victoria/avatar/initial-avatar.webp",
-      "sha256": "d268fc388c76ec5121adb0d898d49d0585cc2d0399ed524823490f7e60f094a8",
-      "bytes": 195288,
+      "path": "portraits/tia/avatar/tia-3.png",
+      "sha256": "6010c6a9aee28be7d205e048d015546fc1c9812d1a66decb5e6b8cb33d7b5e1b",
+      "bytes": 1431182,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "victoria",
-      "thumb": "portraits/victoria/avatar/thumbs/initial-avatar.webp"
+      "mime": "image/png",
+      "kind": "standee",
+      "character": "tia",
+      "thumb": "portraits/tia/avatar/thumbs/tia-3.webp"
     },
     {
-      "path": "portraits/victoria/avatar/thumbs/initial-avatar.webp",
-      "sha256": "be354e5ed3dde8da96944b4250a43d6111e61e6f1672fe7ee83057df96b39a2d",
-      "bytes": 95012,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "victoria",
-      "thumb": null
-    },
-    {
-      "path": "portraits/victoria/avatar/victoria.png",
+      "path": "portraits/victoria/avatar/victoria-1.png",
       "sha256": "2f71b6a877e52c8cac6716505acfb6c7e32fb8d01843abb9ec9e945dcb66961e",
       "bytes": 1602606,
       "width": 896,
@@ -3197,43 +1787,10 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "victoria",
-      "thumb": "portraits/victoria/avatar/thumbs/victoria.webp"
+      "thumb": "portraits/victoria/avatar/thumbs/victoria-1.webp"
     },
     {
-      "path": "portraits/victoria/avatar/thumbs/victoria.webp",
-      "sha256": "966c5df33b82e6e29426192bfdb33a6fa04c15c29076f1524afe83114ecbe867",
-      "bytes": 104478,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "victoria",
-      "thumb": null
-    },
-    {
-      "path": "portraits/victoria/standee/chatgpt-20261018-fullbody.png",
-      "sha256": "f7c2ea0edb8bf7720752c81fb5376e9d911e559bcab976c85ed8114dbdbe1815",
-      "bytes": 2617777,
-      "width": 1024,
-      "height": 1536,
-      "mime": "image/png",
-      "kind": "standee",
-      "character": "victoria",
-      "thumb": "portraits/victoria/standee/thumbs/chatgpt-20261018-fullbody.webp"
-    },
-    {
-      "path": "portraits/victoria/standee/thumbs/chatgpt-20261018-fullbody.webp",
-      "sha256": "4407a5ce8199e772b5edcf941415e78c61ef17280fe03a3217929cda1c8c16cb",
-      "bytes": 100786,
-      "width": 512,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "standee-thumb",
-      "character": "victoria",
-      "thumb": null
-    },
-    {
-      "path": "portraits/victoria/standee/victoria.png",
+      "path": "portraits/victoria/avatar/victoria-2.png",
       "sha256": "0beea8ed6d25257fba95713ce9b10d66798d26a23af291432b63f97122803db9",
       "bytes": 1611347,
       "width": 896,
@@ -3241,43 +1798,21 @@
       "mime": "image/png",
       "kind": "standee",
       "character": "victoria",
-      "thumb": "portraits/victoria/standee/thumbs/victoria.webp"
+      "thumb": "portraits/victoria/avatar/thumbs/victoria-2.webp"
     },
     {
-      "path": "portraits/victoria/standee/thumbs/victoria.webp",
-      "sha256": "91cad30bc32224a4a887b0ef0811a865b26c884927d6702b840cd8d73553a6f5",
-      "bytes": 94590,
-      "width": 512,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "standee-thumb",
-      "character": "victoria",
-      "thumb": null
-    },
-    {
-      "path": "portraits/yuffie/avatar/initial-avatar.webp",
-      "sha256": "8eb8d65d88d7d65bc503c9cf26d67a85b97f07021748a2c4c4ace9d3a3087703",
-      "bytes": 121334,
+      "path": "portraits/victoria/avatar/victoria-3.png",
+      "sha256": "ce105cb8855dc269fb184d9d82e626677ad444c454db68fd36e2d6e7ef15ec04",
+      "bytes": 1997525,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "yuffie",
-      "thumb": "portraits/yuffie/avatar/thumbs/initial-avatar.webp"
+      "mime": "image/png",
+      "kind": "standee",
+      "character": "victoria",
+      "thumb": "portraits/victoria/avatar/thumbs/victoria-3.webp"
     },
     {
-      "path": "portraits/yuffie/avatar/thumbs/initial-avatar.webp",
-      "sha256": "d18b647ff7c6907f7b0075fa8e5b223c49c2b08649f108dd003e241090754042",
-      "bytes": 60178,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "yuffie",
-      "thumb": null
-    },
-    {
-      "path": "portraits/yuffie/avatar/yuffie.png",
+      "path": "portraits/yuffie/avatar/yuffie-1.png",
       "sha256": "2cca37b8af03a1ab40dc8cdfdbda0d293638052833b7cb056c2335293865bde9",
       "bytes": 1725426,
       "width": 896,
@@ -3285,65 +1820,21 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "yuffie",
-      "thumb": "portraits/yuffie/avatar/thumbs/yuffie.webp"
+      "thumb": "portraits/yuffie/avatar/thumbs/yuffie-1.webp"
     },
     {
-      "path": "portraits/yuffie/avatar/thumbs/yuffie.webp",
-      "sha256": "9fc4d4aac8333524932c7c0ea9f3a5320d436294ee5bc769fe9afb0dcce8efcd",
-      "bytes": 78212,
-      "width": 538,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "yuffie",
-      "thumb": null
-    },
-    {
-      "path": "portraits/yuffie/previous/716-yuffie-fix-v1-overview.jpg",
-      "sha256": "c3859680a1ce655a6022077086c92783b155c110eca09e02b8f2cdafe93bf35b",
-      "bytes": 354857,
-      "width": 1608,
-      "height": 867,
-      "mime": "image/jpeg",
-      "kind": "previous",
-      "character": "yuffie",
-      "thumb": "portraits/yuffie/previous/thumbs/716-yuffie-fix-v1-overview.webp"
-    },
-    {
-      "path": "portraits/yuffie/previous/thumbs/716-yuffie-fix-v1-overview.webp",
-      "sha256": "8869f7f2bc33440c33444292373c2c193c15e455e9ea6b2e49b121591bb8e072",
-      "bytes": 80512,
-      "width": 768,
-      "height": 414,
-      "mime": "image/webp",
-      "kind": "previous-thumb",
-      "character": "yuffie",
-      "thumb": null
-    },
-    {
-      "path": "portraits/yulia/avatar/initial-avatar.webp",
-      "sha256": "b16b52bf62540bf38651a09c3c12442a979500e31c48b4278bf5e5932e8813ed",
-      "bytes": 152114,
+      "path": "portraits/yuffie/avatar/yuffie-3.png",
+      "sha256": "d172af5192720b534a2529595c3bd4ca7caab81d1e7909e22f03e1225929b011",
+      "bytes": 1403927,
       "width": 832,
       "height": 1216,
-      "mime": "image/webp",
-      "kind": "avatar",
-      "character": "yulia",
-      "thumb": "portraits/yulia/avatar/thumbs/initial-avatar.webp"
+      "mime": "image/png",
+      "kind": "standee",
+      "character": "yuffie",
+      "thumb": "portraits/yuffie/avatar/thumbs/yuffie-3.webp"
     },
     {
-      "path": "portraits/yulia/avatar/thumbs/initial-avatar.webp",
-      "sha256": "0dc0e9ac6cc53c240c29442a3d190511c719e442ebeacbd7891339f8007480d4",
-      "bytes": 75360,
-      "width": 525,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "yulia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/yulia/avatar/yulia.png",
+      "path": "portraits/yulia/avatar/yulia-1.png",
       "sha256": "384bac4c1c8e62e958198d5a8624fffc96c849023904feb1c7221270e44d5b1f",
       "bytes": 1973818,
       "width": 896,
@@ -3351,21 +1842,10 @@
       "mime": "image/png",
       "kind": "avatar",
       "character": "yulia",
-      "thumb": "portraits/yulia/avatar/thumbs/yulia.webp"
+      "thumb": "portraits/yulia/avatar/thumbs/yulia-1.webp"
     },
     {
-      "path": "portraits/yulia/avatar/thumbs/yulia.webp",
-      "sha256": "18186a1af898a6bc9b765c2e9e331a962c08b05db03316148faf60baac725954",
-      "bytes": 86316,
-      "width": 632,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "avatar-thumb",
-      "character": "yulia",
-      "thumb": null
-    },
-    {
-      "path": "portraits/yulia/standee/yulia.png",
+      "path": "portraits/yulia/avatar/yulia-2.png",
       "sha256": "9429ff3dd4796d2ec939e7fcaec45f8e8ecd7500105b3fe3b92ff5473bd96d4b",
       "bytes": 1375052,
       "width": 896,
@@ -3373,18 +1853,19 @@
       "mime": "image/png",
       "kind": "standee",
       "character": "yulia",
-      "thumb": "portraits/yulia/standee/thumbs/yulia.webp"
+      "thumb": "portraits/yulia/avatar/thumbs/yulia-2.webp"
     },
     {
-      "path": "portraits/yulia/standee/thumbs/yulia.webp",
-      "sha256": "4a6c0c2b2ada6b60f9407522cf9e3e28b0f46e3e350567734d5e025ae2c1777d",
-      "bytes": 75802,
-      "width": 512,
-      "height": 768,
-      "mime": "image/webp",
-      "kind": "standee-thumb",
+      "path": "portraits/yulia/avatar/yulia-3.png",
+      "sha256": "d7614a7201176d5ab409092c426abe206ee8f9c85d4727823d3e730dc523356a",
+      "bytes": 1729061,
+      "width": 832,
+      "height": 1216,
+      "mime": "image/png",
+      "kind": "standee",
       "character": "yulia",
-      "thumb": null
+      "thumb": "portraits/yulia/avatar/thumbs/yulia-3.webp"
     }
-  ]
+  ],
+  "generatedAt": "2026-10-21T07:09:45.815Z"
 }
